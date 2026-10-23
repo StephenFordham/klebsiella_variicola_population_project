@@ -1,0 +1,17 @@
+Process,Algorithm,Version,Model,Citation
+Overall,Gubbins,3.4.2,-,https://doi.org/10.1093/nar/gku1196
+Model fitter (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Tree constructor (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Sequence reconstructor,pyjar,1.0,GTRGAMMA,https://doi.org/10.1093/oxfordjournals.molbev.a026369
+Model fitter (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Tree constructor (later iterations),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Model fitter (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Tree constructor (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Model fitter (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Tree constructor (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Model fitter (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Tree constructor (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Model fitter (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Tree constructor (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Model fitter (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
+Tree constructor (1st iteration),FastTreeMP,Not determined,GTRGAMMA,https://doi.org/10.1371/journal.pone.0009490
