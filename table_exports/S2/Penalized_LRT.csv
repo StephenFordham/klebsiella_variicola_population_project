@@ -1,0 +1,10 @@
+statistic,df,p_value,full_penalized_loglik,constrained_penalized_loglik,constrained_converged,constrained_iterations,endpoint,comparison,test
+225.9677106247773,19,2.184727965483444e-37,-443.2348088941893,-556.218664206578,True,7,ESBL,Model 2 vs Model 1,penalized_LRT_full_design_penalty
+97.19812163623236,25,1.851704568603172e-10,-387.8739190872236,-436.4729799053398,True,8,ESBL,Model 3 vs Model 2,penalized_LRT_full_design_penalty
+14.65116800422311,6,0.0231504497192572,-387.8739190872236,-395.1995030893352,True,11,ESBL,Global source association in Model 3,penalized_LRT_full_design_penalty
+268.5343692548968,19,5.343264801703684e-46,-585.0463165370927,-719.3135011645411,True,7,MDR,Model 2 vs Model 1,penalized_LRT_full_design_penalty
+196.728877842158,25,1.305067047075373e-28,-475.2179578448069,-573.5823967658858,True,7,MDR,Model 3 vs Model 2,penalized_LRT_full_design_penalty
+26.61678206502529,6,0.0001708075077145,-475.2179578448069,-488.5263488773195,True,8,MDR,Global source association in Model 3,penalized_LRT_full_design_penalty
+525.0581414116475,19,3.059887095805641e-99,-458.0267853066709,-720.5558560124947,True,7,Carbapenemase,Model 2 vs Model 1,penalized_LRT_full_design_penalty
+126.2496110726347,25,1.725344698322195e-15,-386.9498370714005,-450.0746426077179,True,9,Carbapenemase,Model 3 vs Model 2,penalized_LRT_full_design_penalty
+61.13392331538808,6,2.647331982768602e-11,-386.9498370714005,-417.5167987290945,True,18,Carbapenemase,Global source association in Model 3,penalized_LRT_full_design_penalty

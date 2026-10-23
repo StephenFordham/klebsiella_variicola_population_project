@@ -1,0 +1,4 @@
+endpoint,scope,model,term,coefficient,odds_ratio,ci_low,ci_high,p_value,estimator,CI_method,native_LRT_validated,n_modelled,human_n,human_positive_n,environment_n,environment_positive_n
+ESBL,human_environment,Model 3,"C(source_category, Treatment(reference='environment'))[T.human]",0.435465419900705,1.545682282862406,0.7858693356561691,3.257499960206302,0.213298709789469,Firth,profile penalized likelihood,True,1138,967,214,171,11
+MDR,human_environment,Model 3,"C(source_category, Treatment(reference='environment'))[T.human]",0.8672632306229755,2.380387359715404,1.293101935999786,4.56162813560938,0.0049120317943923,Firth,profile penalized likelihood,True,1138,967,344,171,23
+Carbapenemase,human_environment,Model 3,"C(source_category, Treatment(reference='environment'))[T.human]",1.736561083847559,5.677784386568012,2.9524639828939,11.36662022750481,7.591564470763723e-08,Firth,profile penalized likelihood,True,1138,967,304,171,25

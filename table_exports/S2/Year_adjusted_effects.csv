@@ -1,0 +1,4 @@
+endpoint,scope,model,term,coefficient,odds_ratio,ci_low,ci_high,p_value,estimator,CI_method,native_LRT_validated
+ESBL,full_population_year,Model 3,year_centered,-0.019423311409503,0.9807641057216124,0.887692511785043,1.084266056472578,0.703163379398829,Firth,profile penalized likelihood,True
+MDR,full_population_year,Model 3,year_centered,0.1275631843830836,1.136056647011879,1.040161808518334,1.242821114660448,0.0044784066945085,Firth,profile penalized likelihood,True
+Carbapenemase,full_population_year,Model 3,year_centered,0.3638557430061958,1.438866632610956,1.307844126085405,1.58929145649248,7.882561766677564e-15,Firth,profile penalized likelihood,True

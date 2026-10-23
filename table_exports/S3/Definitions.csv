@@ -1,0 +1,10 @@
+Definition
+"13 analysed candidates are the historical top-25 ranked designations restricted to n>10, not all Tier1 designations with n>10."
+"rank is the full-population rank, not a consecutive rank within the 13. Tie-breaks follow the original script: tier, carbapenemase count, ESBL count, convergence count, genome count."
+Country counts exclude unknown geography. ESBL uses the union of both acquired ESBL fields. Counts/proportions were not rounded before scoring; displayed percentages have one decimal.
+Only the highest qualifying award within each component is added; the 13 component scores sum to a maximum of 34.
+"median_replicon_family_count preserves the legacy column name but counts distinct complete PlasmidFinder replicon designations, not collapsed Inc families, complete plasmids or plasmid molecules."
+"One Health scoring requires both source groups in an ST and ESBL/carbapenemase somewhere in that ST, not resistant genomes in both source groups or shared genes/plasmids."
+"The Tier1 overlap trigger instead uses specified clinical genes (CTX-M-15, SHV-12 or KPC/NDM/OXA/VIM/IMP prefixes in the relevant carbapenemase field), and n>=3."
+"Virulence uses the reported fields as in the original framework, including incomplete/unknown calls; no phenotype or clinical-risk validation is claimed."
+Country/MLST/source breadth are descriptive; correlated scoring components are not independent evidence. Candidate status does not prove transmission or clinical harm.

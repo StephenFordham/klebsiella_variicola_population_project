@@ -1,0 +1,5 @@
+ST,Genome_Name,reason
+ST641,SAMN26796305,Not retained in curated population; removed from matrices and tree tips
+ST347,SAMN23286209,Not retained in curated population; removed from matrices and tree tips
+ST347,SAMN26369068,Not retained in curated population; removed from matrices and tree tips
+ST1562,SAMN26369047,Previously excluded fragmented assembly before phylogeny

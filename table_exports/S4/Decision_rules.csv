@@ -1,0 +1,16 @@
+rule,definition
+primary_clustering,"Single-linkage connected components; thresholds 10,25,50,100; n>=3 for clinical annotation"
+AMR_threshold,"For at least one of MDR, ESBL, carbapenemase: >=2 genomes and >=50% of cluster"
+other_clinical_criteria,Major virulence marker; >=2 convergent genomes; repeated nonempty beta-lactamase profile or replicon profile in >=2 genomes. Shared replicons alone do not imply resistant clonal expansion.
+clonal,AMR threshold plus repeated nonempty acquired-AMR or replicon profile among >=2 resistant members
+cross_source,Direct pair <=threshold linking human and animal/environment/plant/food; both with ESBL or carbapenemase hits; cluster n>=3
+international,"AMR-threshold cluster plus direct pair <=threshold from different known countries, both resistant and sharing >=1 acquired AMR gene"
+convergence,At least two genomes with major virulence marker and MDR/ESBL/carbapenemase in a cluster of >=3
+recurrent,"At least three resistant genomes, median resistant-pair SNP distance >100, occupying >=2 whole-ST single-linkage components at 100 SNPs, with >1 acquired-AMR or >1 replicon profile; compatible with acquisition/loss, not proof"
+priority,Resistance-virulence convergent sublineage > Possible cross-source dissemination > International clonal dissemination > Clonal resistant expansion > Recurrent AMR/plasmid acquisition > ST-level risk without strong phylogenetic clustering
+secondary,"All additional supported signals retained, including recurrent with clonal"
+strongest,"Largest cluster supporting primary cluster-based category; ties lowest threshold then genome names. For recurrent/fallback, largest clinically relevant cluster if any."
+persistence,"Exact membership and containment in larger clinical clusters reported separately; figure dots indicate any clinical cluster, not membership stability"
+complete_linkage,"Supplementary sensitivity only; bounds all pairwise distances, unlike single linkage"
+gene_qualifiers,"Remove ^, *, .v1 for allele-profile comparison; do not merge alleles; retain raw metadata"
+caveats,"Genotype-based MDR uses exported resistance_class_count>=3, including separate beta-lactam reporting categories. Presence of virulence annotations does not establish intact loci/hypervirulence. No plasmid localisation or transmission inference."

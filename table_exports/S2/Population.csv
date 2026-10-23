@@ -1,0 +1,4 @@
+endpoint,total_n,positive_n,prevalence,complete_case_n,complete_case_positive_n,positive_MLST_labels,positive_exact_STs,positive_variant_labels,known_positive_countries,unknown_country_positive_n,ST347_positive_n,US_positive_n
+ESBL,1391,231,0.1660675772825305,1389,231,104,79,25,28,0,47,69
+MDR,1391,380,0.2731847591660676,1389,380,144,105,39,39,0,55,147
+Carbapenemase,1391,351,0.2523364485981308,1389,351,141,107,34,26,3,10,216

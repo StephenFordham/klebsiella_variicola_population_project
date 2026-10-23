@@ -1,0 +1,9 @@
+Definition
+"All tested ESBL/carbapenemase gene-replicon pairs, including non-significant and unstable pairs."
+"Cell order: replicon+/gene+, replicon+/gene-, replicon-/gene+, replicon-/gene-."
+OR is the sample Fisher odds ratio. Zero-cell tables retain zero/infinite OR; approximate corrected CI is labelled.
+BH correction across all 3393 tested gene-replicon pairs; status tests have a separate family.
+"Stable associations satisfy the Methods cell-count, prevalence, CI-width and q-value thresholds."
+"Breadth counts MLST designations and known countries among co-carriage genomes, not all genomes."
+"Breadth is descriptive and does not adjust for lineage, geography or sampling project confounding."
+"IncN/KPC-3 and IncX3/NDM-5 are highlighted examples, not the only retained associations."

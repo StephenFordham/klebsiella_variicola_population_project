@@ -1,0 +1,13 @@
+endpoint,scope,model,n,events,parameters,design_rank,reported_converged,separation_detected,separation_objective,AUC,loglik,extreme_coefficients,warnings
+ESBL,full_population,Model 1,1389,231,7,7,True,True,15,0.6431935939707961,-576.1054550167493,1,
+ESBL,full_population,Model 2,1389,231,26,26,True,True,106,0.839226835340825,-452.1115288712713,7,
+ESBL,full_population,Model 3,1389,231,51,51,True,True,106,0.8826308981749396,-396.555516237818,13,
+ESBL,human_environment,Model 3,1138,225,45,45,True,True,77,0.8581623463551175,-380.5982866223579,11,
+MDR,full_population,Model 1,1389,380,7,7,True,True,15,0.6503755672630536,-744.0340000676915,1,
+MDR,full_population,Model 2,1389,380,26,26,True,True,29,0.8174417088310468,-601.2662615477349,4,
+MDR,full_population,Model 3,1389,380,51,51,True,True,29,0.8899744405612643,-493.8810578317547,8,
+MDR,human_environment,Model 3,1138,367,45,45,True,True,77,0.8761879013419,-452.344967485157,7,
+Carbapenemase,full_population,Model 1,1389,351,7,7,True,True,15,0.6185876850616735,-745.17524482174,1,
+Carbapenemase,full_population,Model 2,1389,351,26,26,True,True,106,0.8939446338290269,-471.1148764634772,6,
+Carbapenemase,full_population,Model 3,1389,351,51,51,True,True,106,0.922821665596232,-399.5781152459083,10,
+Carbapenemase,human_environment,Model 3,1138,329,45,45,True,True,77,0.9063593088393866,-378.2765619304961,8,

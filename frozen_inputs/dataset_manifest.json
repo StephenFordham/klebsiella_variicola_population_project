@@ -1,0 +1,14 @@
+{
+  "dataset_version": "reviewer1_2026-10-21_1391",
+  "n_genomes": 1391,
+  "input_sha256": "795c9325a250ff44da135f977b7f5aab5e9bf6974c45c64ca88929f280c368cd",
+  "modelled_n": 1389,
+  "outcomes": {
+    "MDR": 380,
+    "ESBL": 231,
+    "Carbapenemase": 351
+  },
+  "freeze_date": "2026-10-21",
+  "seed": 20261021,
+  "note": "Freeze date is not the historical Pathogenwatch retrieval date."
+}

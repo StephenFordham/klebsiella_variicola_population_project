@@ -1,0 +1,10 @@
+endpoint,model,n,events,parameters,AUC,estimator,AUC_type,converged,iterations,max_abs_modified_score
+ESBL,Model 1,1389,231,7,0.6431375187851872,Firth,apparent_in_sample,True,7,1.502647642044608e-07
+ESBL,Model 2,1389,231,26,0.8392455270693613,Firth,apparent_in_sample,True,11,7.42743939302821e-07
+ESBL,Model 3,1389,231,51,0.8808626606554067,Firth,apparent_in_sample,True,18,2.935617744023386e-07
+MDR,Model 1,1389,380,7,0.6503755672630536,Firth,apparent_in_sample,True,6,7.221322474021409e-09
+MDR,Model 2,1389,380,26,0.8174234520890928,Firth,apparent_in_sample,True,10,1.885145688726789e-07
+MDR,Model 3,1389,380,51,0.8892050492932033,Firth,apparent_in_sample,True,12,3.548457445101683e-07
+Carbapenemase,Model 1,1389,351,7,0.6184339816324401,Firth,apparent_in_sample,True,6,1.318202796918299e-09
+Carbapenemase,Model 2,1389,351,26,0.8928714545284873,Firth,apparent_in_sample,True,12,4.673564805036251e-07
+Carbapenemase,Model 3,1389,351,51,0.9204667094840504,Firth,apparent_in_sample,True,20,6.664271777545106e-07

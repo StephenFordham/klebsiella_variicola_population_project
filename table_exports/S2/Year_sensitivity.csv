@@ -1,0 +1,7 @@
+endpoint,scope,model,term,coefficient,odds_ratio,ci_low,ci_high,p_value,estimator,CI_method,native_LRT_validated,scenario,n,events
+ESBL,All_dated,Model 3,year_centered,-0.01942331140950301,0.9807641057216123,0.887692511785043,1.084266056472577,0.703163379398829,Firth,profile penalized likelihood,True,All_dated,1389,231
+MDR,All_dated,Model 3,year_centered,0.1275631843830837,1.136056647011879,1.040161808518334,1.242821114660448,0.004478406694508544,Firth,profile penalized likelihood,True,All_dated,1389,380
+Carbapenemase,All_dated,Model 3,year_centered,0.3638557430061958,1.438866632610956,1.307844126085405,1.58929145649248,7.882561766677564e-15,Firth,profile penalized likelihood,True,All_dated,1389,351
+ESBL,Exclude_2026,Model 3,year_centered,-0.01463368331820502,0.9854728686431028,0.8914132826378157,1.090231687699057,0.77544400562935,Firth,profile penalized likelihood,True,Exclude_2026,1386,231
+MDR,Exclude_2026,Model 3,year_centered,0.1289582975414641,1.137642680679764,1.040706686667697,1.24566349657435,0.004436006576855423,Firth,profile penalized likelihood,True,Exclude_2026,1386,379
+Carbapenemase,Exclude_2026,Model 3,year_centered,0.3599635583456002,1.433277182616889,1.302104197561053,1.583801745618844,2.349766588719739e-14,Firth,profile penalized likelihood,True,Exclude_2026,1386,348

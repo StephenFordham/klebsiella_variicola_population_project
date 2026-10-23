@@ -1,0 +1,7 @@
+statistic,df,p_value,full_penalized_loglik,constrained_penalized_loglik,constrained_converged,constrained_iterations,scenario,endpoint,n,test
+6.870721720095162,7,0.4424633899146194,-380.3359959455257,-383.7713568055733,True,17,All_dated,ESBL,1389,categorical_year_deviations_vs_linear_same_full_design_penalty
+23.33458430218025,7,0.001490269171849105,-458.355527195568,-470.0228193466581,True,9,All_dated,MDR,1389,categorical_year_deviations_vs_linear_same_full_design_penalty
+17.15851422255207,7,0.0164021539627479,-374.0454853671461,-382.6247424784221,True,18,All_dated,Carbapenemase,1389,categorical_year_deviations_vs_linear_same_full_design_penalty
+6.795399546081853,6,0.3401838063549367,-379.3378830387707,-382.7355828118116,True,16,Exclude_2026,ESBL,1386,categorical_year_deviations_vs_linear_same_full_design_penalty
+23.34447915524891,6,0.0006889434409316007,-456.4991408407271,-468.1713804183515,True,9,Exclude_2026,MDR,1386,categorical_year_deviations_vs_linear_same_full_design_penalty
+17.16142445699336,6,0.008707939970212292,-373.0957503307911,-381.6764625592878,True,18,Exclude_2026,Carbapenemase,1386,categorical_year_deviations_vs_linear_same_full_design_penalty

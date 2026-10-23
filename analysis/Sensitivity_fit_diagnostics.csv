@@ -1,0 +1,13 @@
+scenario,year_form,endpoint,n,parameters,converged,iterations
+All_dated,linear,ESBL,1389,51,True,18
+All_dated,linear,MDR,1389,51,True,12
+All_dated,linear,Carbapenemase,1389,51,True,20
+All_dated,categorical,ESBL,1389,58,True,18
+All_dated,categorical,MDR,1389,58,True,12
+All_dated,categorical,Carbapenemase,1389,58,True,26
+Exclude_2026,linear,ESBL,1386,51,True,18
+Exclude_2026,linear,MDR,1386,51,True,12
+Exclude_2026,linear,Carbapenemase,1386,51,True,20
+Exclude_2026,categorical,ESBL,1386,57,True,17
+Exclude_2026,categorical,MDR,1386,57,True,12
+Exclude_2026,categorical,Carbapenemase,1386,57,True,26
