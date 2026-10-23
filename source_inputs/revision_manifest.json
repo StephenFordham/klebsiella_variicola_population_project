@@ -1,0 +1,22 @@
+{
+  "source": "/home/stephen/Desktop/Klebsiella_variicola_project/KV_project/Klebsiella_variicola_curated_population.csv",
+  "source_sha256": "a0574bfb17f66982b350c1d68b2fd33f7a5574190fa82c84cb5cc01ec9d325b5",
+  "output": "/home/stephen/Desktop/Klebsiella_variicola_project/KV_project/Current_manuscript_to_journal/Corrected/revision_4_7p5Mb/Klebsiella_variicola_curated_population.csv",
+  "output_sha256": "795c9325a250ff44da135f977b7f5aab5e9bf6974c45c64ca88929f280c368cd",
+  "n_before": 1397,
+  "additional_exclusions": 6,
+  "n_population": 1391,
+  "recovered_years": 3,
+  "n_dated": 1389,
+  "size_bounds_bp_inclusive": [
+    4000000,
+    7500000
+  ],
+  "other_filters_retained": [
+    "strong species match",
+    "contigs <=1000",
+    "N50 >=20000 bp",
+    "ambiguous bases <=10000"
+  ],
+  "script_sha256": "8b4dbcba71728470cd6c9c837f4cab03aee0ccec036e25f8265dac7c16f55636"
+}

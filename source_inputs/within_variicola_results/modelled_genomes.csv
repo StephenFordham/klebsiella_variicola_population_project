@@ -1,0 +1,1390 @@
+Genome ID,Genome Name,ST,Country,source_category,year,year_centered,country_model,st_model,ESBL,MDR,Carbapenemase
+jbCBgb6UXmxfFwE4NJjEBc,SAMN41914975,ST919,United States,environment,2024.0,5.0,United States,ST919,0,0,0
+eSVtNE172SFtbWyVB2eBLr,SAMN53909954,ST4393-1LV,United States,animal,2023.0,4.0,United States,Other,0,0,0
+218uX3cZg97abX4cQcmLHY,SAMN47248566,ST318-1LV,Portugal,human,2021.0,2.0,Other,Other,0,0,0
+e8wjYeeZ1faBbyDwHzPq8u,SAMN23011921,ST662,United States,human,2020.0,1.0,United States,Other,0,0,1
+mAthdhtBwShDZGnNf5LYMD,SAMEA5049866,ST363,Italy,environment,2018.0,-1.0,Italy,ST363,0,0,0
+uWkvjCCYgjwC3CZVyerkmk,SAMN42053668,ST197,United States,human,2024.0,5.0,United States,ST197,1,1,1
+kLdezY43hHn5DoELuYQx5X,SAMN50581007,ST4670,United States,human,2025.0,6.0,United States,Other,0,0,1
+2LbKrnejXpywQXEhXUpL9W,SAMN41019881,ST3517-1LV,United States,human,2024.0,5.0,United States,Other,1,1,1
+fRQoRHoCVnE6koatEjJrpu,SAMN26976358,ST357,United States,human,2018.0,-1.0,United States,ST357,0,0,0
+3bdB976c95xbpx732eQQBL,SAMN53287000,ST4174,France,laboratory,2023.0,4.0,Other,ST4174,0,0,0
+5eVJMjsccU3eGWaAwJMY2t,SAMEA5050115,ST1562,Italy,environment,2018.0,-1.0,Italy,ST1562,0,0,0
+uMC2PspTkhgxEwJTD9To9E,SAMEA5049276,ST6990,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+6mazadwbAjeXSrXX7e9q1D,SAMEA113550612,ST3095-1LV,United Kingdom,food,2018.0,-1.0,United Kingdom,Other,0,0,0
+7mCAiXKPXDSgUmMNuVRFw6,SAMN26368945,ST581,Australia,human,2020.0,1.0,Australia,Other,0,1,0
+oH1mMZj8XA13Nb5L25Ccdw,SAMN53293455,ST906,United States,human,2025.0,6.0,United States,Other,0,0,1
+tii13FGYhKurrGWCkqmAcz,SAMN26419471,ST454,United States,human,2020.0,1.0,United States,ST454,0,1,1
+bCaxFPJqgN5nVNEj5MQUzt,SAMEA5048906,ST2183,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+4Spp92bSYKqbBmeAWXfeMh,SAMEA6657292,ST4955,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+7yNnYYqSzgwTVg9GyBuecR,SAMN39856821,ST6219-1LV,United States,human,2024.0,5.0,United States,Other,0,1,1
+depMP7kiCrd1ENKxiptDDt,SAMEA113550423,ST938,United Kingdom,plant,2019.0,0.0,United Kingdom,Other,0,0,0
+5Lcpzbc2Btn1fbUtB5MbQ3,SAMEA110063275,ST5925,Israel,human,2018.0,-1.0,Other,Other,0,1,1
+mYtVW3BVMkfoEbUSdakuTo,SAMEA5049829,ST4199,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+mdSCMBwUX4BdBG82DZeDrV,SAMN28626293,ST1875,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+cVV5asHSh3V8CAgzw9Z35G,SAMEA113605315,ST919,Norway,human,2018.0,-1.0,Norway,ST919,0,0,0
+okvGg8U9STfovYUC48kqZG,SAMEA9454011,ST250,Italy,human,2019.0,0.0,Italy,ST250,1,1,1
+9V3QSAPLTgzmLLs8EXedWf,SAMN24900511,ST7022,Qatar,human,2020.0,1.0,Other,Other,0,0,0
+sPMqCkA8js7o34h2WPcWwT,SAMN25041623,ST5667,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+vEys7GiSbVs1MydHBPN5cy,SAMN26369242,ST2989,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+9Y6o3WztHyYFDV9NjefFdj,SAMEA113605433,ST347,Norway,human,2018.0,-1.0,Norway,ST347,0,0,0
+8LBQD1x5dqwtjpHtSAC1BD,SAMEA5684319,ST7048,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+cGYhJ9irYgN32SkdqdSnXB,SAMN26976414,ST616,United States,human,2018.0,-1.0,United States,ST616,0,0,0
+vv54dQmVxuzsrCGun4VPnJ,SAMN46859466,ST1423,Australia,human,2022.0,3.0,Australia,Other,0,0,0
+mNv4hVduuvmBKJMRc7QSeh,SAMEA5050200,ST4174,Italy,animal,2018.0,-1.0,Italy,ST4174,0,0,0
+29spn2unM5izH1DSz9mW55,SAMN25041745,ST5710,Guadeloupe,human,2019.0,0.0,Guadeloupe,Other,0,0,0
+tce3G1s7sUnnVy28rwayEy,SAMEA120308845,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+mardQAhKAn2zp6ZP7AyFhS,SAMEA5050086,ST454,Italy,environment,2018.0,-1.0,Italy,ST454,0,0,0
+araUjYiGsSCnDtzxiYQ4zY,SAMN31098836,ST209,Cambodia,human,2019.0,0.0,Other,Other,1,1,0
+nR13bv3JqHk4UYhLUov2Qz,SAMN41914962,ST2388,United States,environment,2024.0,5.0,United States,Other,0,0,0
+qn3LTjQV2XZ4awLNbz12NY,SAMEA113605729,ST5781,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+8QQjmcupmfswQqiwFyTxPL,SAMN40628836,ST6371-1LV,United States,human,2024.0,5.0,United States,Other,1,1,1
+8ccMTnAB2xmufRkXG3TXCE,SAMEA4781910,ST533,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+hNmTZgr7CykStFDghKZ9cJ,SAMEA5049738,ST2301,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+5pikaPdTZnpLn9p76dFP4P,SAMN26369222,ST368,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+iX5jCnLoHtCUyxPRs6E4Ry,SAMD00501821,ST1407,Japan,human,2020.0,1.0,Japan,Other,1,0,0
+oa7wvAQvKvTPwJ8h4Hd71Z,SAMN26976381,ST1915-1LV,United States,human,2018.0,-1.0,United States,Other,0,0,0
+vcPSqdH2jCEWw6waApX62M,SAMEA9455581,ST318,Romania,human,2020.0,1.0,Other,Other,0,0,0
+p6YZhsrE9ubDfWqBcMbHSR,SAMEA5050130,ST7039,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+6oXgYm3VhB4CrYbAK3JLJU,SAMEA11577478,ST5520-2LV,Switzerland,human,2018.0,-1.0,Switzerland,Other,1,1,0
+bNK4aeALdMs7UBmnkN8Q79,SAMN43931408,ST3029,Argentina,human,2023.0,4.0,Other,Other,0,1,1
+rTmyFS4xku3ndisT7e4dG8,SAMN49515618,ST3981,United States,environment,2025.0,6.0,United States,Other,0,0,0
+gYvZL8WA4sTA2LyxcfKr2S,SAMEA113550193,ST1915,United Kingdom,food,2019.0,0.0,United Kingdom,Other,0,0,0
+1Lk2TFJHo3v3TZZbJGhZHE,SAMEA8263026,ST6205,Bulgaria,human,2019.0,0.0,Other,Other,0,0,0
+aK6CrA6xYduzNBc7Y19XqJ,SAMN49917607,ST1423,United States,human,2025.0,6.0,United States,Other,0,0,1
+9AHfsG7oj3XL4xcnnK8D7A,SAMN28626280,ST3937,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+jziGHxoPdrYFmrpJ8Djtbw,SAMN42011978,ST1563,United States,human,2024.0,5.0,United States,ST1563,0,0,1
+3u33UjHFtX8csptPKdwQHa,SAMN36415721,ST454,United States,environment,2023.0,4.0,United States,ST454,0,0,0
+gj2SC3Hk5GGkhVoH6cYpDo,SAMN15063833,ST850-2LV,United States,animal,2018.0,-1.0,United States,Other,0,0,0
+uxrw3ejKUEzrKxTDYTmt3p,SAMN30109941,ST3143,United States,human,2022.0,3.0,United States,Other,0,0,1
+eWj5i1WhWpeY9WwQyRN8X6,SAMN16614935,ST4174,United States,human,2019.0,0.0,United States,ST4174,0,0,0
+9gyMyBt8W1dyM1wEmvbuzp,SAMEA5049558,ST6998,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+hf97BfHDYDey68Mk3GzSzn,SAMN49822930,ST1050,United States,human,2025.0,6.0,United States,Other,0,0,0
+wcGCmHZrxKSUwsdzJaGwSe,SAMN26369021,ST925,Australia,human,2020.0,1.0,Australia,Other,1,1,0
+u11N62432RosSHU2z4TwX6,SAMEA113605847,ST4183,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+g7Hvtaw67VzzuWSZJYRuDK,SAMEA4781300,ST1023,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+neuvG1YoYMhtTTDJmPZgUn,SAMD00498872,ST925,Japan,human,2019.0,0.0,Japan,Other,0,1,0
+tnBVHWdXeCfqNcD6ZvGNfp,SAMD00552251,ST4160-1LV,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+q22PA3TTe3oH7QhMzv3z7U,SAMEA7565009,ST4966,Poland,human,2019.0,0.0,Other,Other,0,0,0
+qGhoB6bdo82Egp5Kra3QJy,SAMEA9454310,ST1563,Italy,human,2019.0,0.0,Italy,ST1563,0,0,0
+q41hVDEH6eGgbR5FqPgsuZ,SAMN25041596,ST5646,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+rem1CXjKNzBWHbkDjjtBAu,SAMEA113605451,ST4165,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+4AuGLcUa6z8sv3gSj9cS1t,SAMN23563151,ST3202,United States,environment,2021.0,2.0,United States,Other,0,0,0
+gAJp5H8HuFsN3nFSWPGo3K,SAMN55987376,ST3959,United States,human,2023.0,4.0,United States,Other,1,1,0
+pjLGv48qCsFHLXF2jv8HvF,SAMN25041646,ST5680,Guadeloupe,environment,2018.0,-1.0,Guadeloupe,Other,0,0,0
+tC85urWxP6oJWFdyJCNVUM,SAMEA4781879,ST2263,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+4GoCmz2ynECPbK8cZuT1A5,SAMEA9454141,ST1056,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+4qzMADL9bMEuR9Y1WKn4be,SAMEA5048918,ST6985,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+gEW47GbHDopVmnC8JYbaVe,SAMEA5050069,ST3398,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+pHPYWW4YBTLXEEkQpRqaMg,SAMN33406727,ST1611-1LV,Colombia,human,2020.0,1.0,Other,Other,0,0,1
+hpmveKSspqhK8Mdu7ETWV5,SAMEA9454356,ST6217,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+n2sdyqbZj2NEEF9yiJHaA3,SAMEA113550331,ST662,United Kingdom,plant,2019.0,0.0,United Kingdom,Other,0,0,0
+8D8tj6mu5tn8eop8aouXKT,SAMN25041889,ST2594,Guadeloupe,environment,2019.0,0.0,Guadeloupe,Other,0,0,0
+h3VcrTAZLArWeBpJxt9No8,SAMEA5050013,ST7020,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+mDKFvcQyAVyuwPuWynk9ZX,SAMEA5049875,ST7008,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+vi1gaEYgV63tFc9CGARMSC,SAMN26101477,ST285-1LV,United States,human,2019.0,0.0,United States,Other,0,0,0
+enNn3iZDRQp6tzm6Hqof7L,SAMN26369100,ST1563,Australia,human,2020.0,1.0,Australia,ST1563,0,0,0
+4UMtD1x9R2ymN8UGNHU5Cm,SAMN16685853,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+96FD3nChkVweBSXxGR2c3U,SAMEA111503918,ST595,Canada,human,2020.0,1.0,Canada,Other,0,0,0
+aahFocZx6qKJu2swRgKxDU,SAMN37365542,ST347,United States,human,2023.0,4.0,United States,ST347,0,0,1
+qU8NtNL6juh4KrWLXH8erp,SAMN33005129,ST925,United States,human,2023.0,4.0,United States,Other,0,1,1
+917NvVf76qLqbZLYKNKNm7,SAMEA11291407,ST2819,Austria,food,2019.0,0.0,Other,Other,0,0,0
+uRzvd1Q4Q9abT7JwM9nSFQ,SAMN40918482,ST6219,United States,environment,2024.0,5.0,United States,ST6219,0,1,1
+waVFgKWeTo5yb2YVPQwZRh,SAMN38120350,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+4K1P9yqSDLmoxtZgBrwkB4,SAMEA5049755,ST7004,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+5Tw2y6oHfzVhdCcX9e63EV,SAMN50352235,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+sepkK27GjvgX8YTXZkntPX,SAMEA113605892,ST1423,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+sw8WatoqYfrgfk4sem7Bxo,SAMEA115100308,ST981,Switzerland,human,2022.0,3.0,Switzerland,ST981,1,1,0
+5vZa84t8Cfc17aA5WsZFud,SAMN39956414,ST1456,United States,human,2023.0,4.0,United States,ST1456,0,0,0
+eVPvwyAbQ1nBKfUYhvSVsk,SAMD00552172,ST1478,Japan,human,2018.0,-1.0,Japan,Other,0,0,0
+3AKe5PzVvYCFDV8CcJkzoK,SAMEA113605143,ST5843,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+9bCRGFzp5UHcRqNEzkqPqj,SAMN26369081,ST906,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+opmXezroF6LVx6SH9ehaXx,SAMEA5050121,ST355,Italy,environment,2018.0,-1.0,Italy,ST355,0,0,0
+7ARUJzxowkHuc5DcTVDMaH,SAMN26368929,ST1562,Australia,human,2020.0,1.0,Australia,ST1562,0,0,0
+fzhraHTvQwe6BhV47t2c6t,SAMEA120032773,ST1456,Netherlands,human,2023.0,4.0,Netherlands,ST1456,1,1,0
+jszU99QJVGXhiey4tPHP1S,SAMEA113605454,ST4158,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+1sdWZzuu57HkGA4ZD2hb8e,SAMN34996800,ST6075,United States,human,2019.0,0.0,United States,Other,0,0,0
+gRaf6oSdAFEoj858F8UX3W,SAMEA114784685,ST208,Denmark,human,2019.0,0.0,Denmark,ST208,0,0,0
+5U977kReuC4B76cMUD9d2A,SAMEA120308456,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+bKKvRzqZ8D16ykcVuUjNsZ,SAMN38788849,ST1611-2LV,United States,human,2023.0,4.0,United States,Other,0,0,1
+58Vz8Ar496e7J85phcq85q,SAMN23768812,ST3924,Ethiopia,human,2020.0,1.0,Ethiopia,Other,1,1,0
+efZ3uhjTeytqBAjfV1Hm7k,SAMN32490772,ST697,United States,plant,2018.0,-1.0,United States,ST697,0,0,0
+otbN13qepBUVs6KxVPNEqt,SAMN52748584,ST1611-2LV,United States,human,2025.0,6.0,United States,Other,0,0,1
+rySns1GtfKCoZmftZHW9Ro,SAMN26101429,ST3527,United States,human,2019.0,0.0,United States,Other,0,0,0
+ws23gfxc8W5USxxjh2YzHx,SAMN29499318,ST594-2LV,Switzerland,animal,2022.0,3.0,Switzerland,Other,1,1,0
+2qmhEo7PUFC9tKEhwB6a3y,SAMD00501426,ST4118,Japan,human,2019.0,0.0,Japan,Other,0,0,0
+3DyJ5NypF96NSJqGuctguV,SAMN21893128,ST1615-1LV,Japan,human,2018.0,-1.0,Japan,Other,0,0,1
+arDRz4D7FK2cooAKGo4XGJ,SAMEA5048721,ST355,Italy,human,2018.0,-1.0,Italy,ST355,0,0,0
+i8JL8nMrETifVfzfVFL83m,SAMEA113605178,ST3937,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+61RxpxQ1zNZ4aKKEcz1ReF,SAMN26422261,ST250,Türkiye,human,2019.0,0.0,Türkiye,ST250,0,0,0
+h94yd7rznpgFkQ7NHz3hrU,SAMN26369272,ST2472-2LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+iCjuzbZpL6sTyG1heJgqhX,SAMEA120221858,ST1915-2LV,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+k6xudH9vj1UvszwRbsasEQ,SAMN34138198,ST1378,Canada,human,2021.0,2.0,Canada,Other,0,1,1
+gHhSgEipzkiUzrsybrMMbL,SAMN51865717,ST3201,United States,human,2025.0,6.0,United States,Other,0,0,1
+is5UyyNvNmsQv7EbL7EjdA,SAMEA113605626,ST4357,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+uXoBA7QErQ9KcFpZut7omd,SAMEA113550271,ST1056,United Kingdom,plant,2018.0,-1.0,United Kingdom,Other,0,0,0
+u9oHLonSpToRHmGbNKrTzo,SAMN50352232,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+rSGWzUSwasdGX1QDhgZmp2,SAMN41087275,ST597,Kenya,human,2020.0,1.0,Other,Other,1,1,0
+dmSVG11KKd4B3ext6HC4Jd,SAMN40918475,ST2006,United States,environment,2024.0,5.0,United States,ST2006,0,0,0
+6ENGtgn5er44upXSnDf8XA,SAMN40187561,ST6371-1LV,United States,human,2024.0,5.0,United States,Other,0,0,1
+iB6Frr1ByHpCMhqQEyUxAw,SAMEA5050006,ST1562,Italy,environment,2018.0,-1.0,Italy,ST1562,0,0,0
+8QDAmZUxAetzpwJTKjQsyZ,SAMN42644004,ST386,United States,human,2024.0,5.0,United States,Other,0,0,1
+7NYNKYk1yoMthTVELLKKpx,SAMN38811482,ST5693,Canada,human,2020.0,1.0,Canada,Other,0,1,0
+4Lh3b1Yr9w5JTJtEjZgvRf,SAMEA5049960,ST355,Italy,environment,2018.0,-1.0,Italy,ST355,0,0,0
+qag6JzKcENXYPZDPQa66rm,SAMN55990997,ST2993,United States,human,2022.0,3.0,United States,Other,1,0,0
+riEzbxAoQdajnYfQvxLpAk,SAMN23286223,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+awPZX2VUwNzSq34e1B8SZW,SAMN34138136,ST1378,Canada,human,2018.0,-1.0,Canada,Other,0,0,1
+rCvsH1g2fB48u4FG1wBgk8,SAMN26369020,ST1915,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+cpCABr7zt8sJge8KtBGwKY,SAMEA111505895,ST641,Paraguay,human,2020.0,1.0,Other,ST641,0,0,0
+vDRQsje1fHeRo8gY6iL9N7,SAMEA114784683,ST5778,Denmark,human,2019.0,0.0,Denmark,Other,0,0,0
+fnr9XkkeCcy7qJ6Vvu2w7Y,SAMEA118339841,ST1599-1LV,Slovakia,human,2025.0,6.0,Other,Other,0,0,0
+aRcUQhL2nU6J16o9NbnswZ,SAMEA11291466,ST363,Denmark,food,2019.0,0.0,Denmark,ST363,0,0,0
+aGoD6zAirVjjzsUdmCHR7Y,SAMN42011945,ST1783,United States,human,2024.0,5.0,United States,Other,0,0,1
+ihwHB7j6VUV9zn8pMWE1UP,SAMN46293038,ST933,United States,human,2022.0,3.0,United States,Other,0,0,1
+fXGZMxm46sRnk3xgPDNzVo,SAMN41955647,ST641,United States,human,2024.0,5.0,United States,ST641,0,1,1
+rwZkxBum434LdhGbmAt3nU,SAMN50352234,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+wfQUJM2oCKAR7JHovDUYjE,SAMN16340241,ST1563,United States,human,2019.0,0.0,United States,ST1563,0,0,0
+64KyyBkZJKV7GkLbbYETWC,SAMN39862143,ST3200,China,laboratory,2023.0,4.0,China,Other,0,1,1
+kwfC5qUERZNu3hQiVQPCxC,SAMEA8262257,ST919,Portugal,human,2019.0,0.0,Other,ST919,1,1,0
+6DZpdHRcYH3k38tbvVMrjZ,SAMN37196535,ST2011-1LV,United States,animal,2023.0,4.0,United States,Other,0,0,0
+wJweZD7WiahoLekf5v8D5C,SAMEA5050065,ST3953,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+52TbWQp2BjBxvVqWDrHF8Y,SAMN25041624,ST5668,Guadeloupe,animal,2018.0,-1.0,Guadeloupe,Other,0,0,0
+62aDBQNNvouKZhKhgiWW78,SAMN35877329,ST2078-2LV,United States,human,2023.0,4.0,United States,Other,0,0,0
+tCgyVi1W2d8dBUUoqeMvnX,SAMN57590743,ST973-1LV,United States,human,2026.0,7.0,United States,Other,0,1,1
+dfaAP95p8KWTjGWmwvaS5T,SAMN23286233,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+s6izRNS7QcCgT3Z2kFPLCY,SAMN28626292,ST641,Norway,animal,2019.0,0.0,Norway,ST641,0,0,0
+n5EHfNQcuDk3MdNQeh2BYX,SAMEA115709905,ST1994,Egypt,animal,2021.0,2.0,Other,Other,0,0,0
+4a6qqGu2iohvvGjoNnnYHJ,SAMEA5049611,ST3529,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+svtXk68X2qqHD42wd3UQTA,SAMN20033534,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+fs9s1EL9AheQEWG1VfRbkv,SAMN37733725,ST6318,Spain,environment,2021.0,2.0,Spain,Other,1,1,1
+9q4DTgXVEp9F4BgZT7YAqq,SAMN49727588,ST581,Netherlands,human,2022.0,3.0,Netherlands,Other,0,0,0
+kPb5sun2uMC22K6sr5YsqJ,SAMN39119196,ST712,United States,human,2023.0,4.0,United States,Other,0,0,1
+wdBwP33CsfpAN4oS1jdWkr,SAMN50265577,ST6219,United States,human,2025.0,6.0,United States,ST6219,0,0,1
+aoAYc9np33Y4fAGPrriGf3,SAMEA8262984,ST1773,Bulgaria,human,2019.0,0.0,Other,Other,1,0,0
+f12qRE3LvQ2oZ3kC5yKYuA,SAMN40918469,ST6219,United States,environment,2024.0,5.0,United States,ST6219,0,1,1
+rEzbvarcowY7FGewUF7NPi,SAMEA111503692,ST1505,Bulgaria,human,2020.0,1.0,Other,Other,0,1,0
+m7co5TWMQTJGP7X6hxt7Xt,SAMN31815268,ST347,China,human,2022.0,3.0,China,ST347,0,1,1
+bLG58r4qJWsPMJfzmeYBjp,SAMEA8263892,ST361,Türkiye,human,2019.0,0.0,Türkiye,Other,0,0,0
+2CdiHWkFYeMAbcHHrXK1CP,SAMN26369163,ST208,Australia,human,2020.0,1.0,Australia,ST208,0,0,0
+3tSVVHuRNAxoq3T6aFSqrF,SAMN26976430,ST285-1LV,United States,human,2018.0,-1.0,United States,Other,0,0,0
+6Ye4srn1LJssE8J6vCmZgv,SAMN52880495,ST4169,Netherlands,human,2022.0,3.0,Netherlands,Other,0,0,1
+oAihULeM6VTDgmMRusLxAP,SAMD00497839,ST415,Japan,human,2020.0,1.0,Japan,Other,1,1,1
+gp7Dj52vLv1NeRHv5jqYEf,SAMN26976418,ST595,United States,human,2018.0,-1.0,United States,Other,0,0,0
+h11y2FSuFEPr6Ybc1wE5K3,SAMN33772906,ST925,United States,human,2023.0,4.0,United States,Other,1,1,1
+7GYY4uKMRc28wcCp2gTveq,SAMN28626254,ST347,Norway,animal,2019.0,0.0,Norway,ST347,0,0,0
+othgMeeaUnnDvTvsLSdSNd,SAMN19016424,ST1142,Colombia,human,2018.0,-1.0,Other,Other,0,0,1
+bwZceZQxMsFsHpHP38hs4q,SAMN25041724,ST197,Guadeloupe,animal,2019.0,0.0,Guadeloupe,ST197,0,0,0
+7QPEGnw9YoTFxrJYUpfUqj,SAMEA9454539,ST347,Italy,human,2019.0,0.0,Italy,ST347,0,0,0
+aDue1oUy6JDvGXaEXzArdX,SAMN39676539,ST5703,United States,environment,2024.0,5.0,United States,Other,0,0,0
+3mKNBwLtQsP9hV1gHM8rXL,SAMN44576158,ST3206,Fiji,human,2022.0,3.0,Other,Other,0,0,0
+x38M8q1tt6SqYHTFevT8Wq,SAMN39244275,ST4368,United States,human,2023.0,4.0,United States,Other,0,0,1
+epbREHuGoXxpqzQV1n46ag,SAMN20033653,ST1582,Australia,human,2020.0,1.0,Australia,ST1582,0,1,1
+6vMYqkFb9ZaAV23MHyHGHq,SAMN26369058,ST3134-1LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+19pqGuwn93mkBEa3Wz1wpG,SAMN32676073,ST363,Norway,animal,2020.0,1.0,Norway,ST363,0,0,0
+2yNGd7CUBqoULTHfKyPJgv,SAMN55991144,ST355,United States,human,2022.0,3.0,United States,ST355,0,0,1
+6ozRsqs8W61dKyXnn1D4wU,SAMEA5049865,ST363,Italy,environment,2018.0,-1.0,Italy,ST363,0,0,0
+34oUSGhTRAap2Kx7DNchCo,SAMN32490770,ST2006,United States,plant,2018.0,-1.0,United States,ST2006,0,0,0
+mzEBRbwXk9VVvBMskyWBKu,SAMN23768816,ST3924,Ethiopia,human,2020.0,1.0,Ethiopia,Other,1,1,0
+7hVcu6N3afGQuMnzTRcEo8,SAMN48972151,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+vEVXY5uhihSGwhYYPZtcbz,SAMN38450471,ST6219,United States,human,2023.0,4.0,United States,ST6219,1,1,1
+ktrCfTv36TQJqqH22nnPY6,SAMD00500877,ST1050-2LV,Japan,human,2020.0,1.0,Japan,Other,1,1,0
+dDQaerUuEivPEJdnfx6xJf,SAMEA8263036,ST662,Bulgaria,human,2019.0,0.0,Other,Other,0,0,0
+j8y7YuovmjQhYyqBuBgmds,SAMEA113550422,ST938,United Kingdom,plant,2019.0,0.0,United Kingdom,Other,0,0,0
+rr8nzm6NZu1a6qXc94fP3F,SAMN31152643,ST1737,United States,human,2022.0,3.0,United States,ST1737,0,1,1
+hiwJktj1bWGKyCPrhfiCzc,SAMN24900521,ST4025,Qatar,human,2021.0,2.0,Other,Other,0,0,0
+7wNLbdAF9H6YPQ8AZVisE8,SAMEA9453492,ST2309,United Kingdom,human,2019.0,0.0,United Kingdom,Other,0,0,0
+uMHgE1nQW9YQyBouakpY86,SAMN38450469,ST1994,United States,human,2023.0,4.0,United States,Other,0,1,1
+jn25kEuVSTGzEpjAYgFDRK,SAMEA9455272,ST1562,Romania,human,2020.0,1.0,Other,ST1562,0,1,0
+dGnHrej9dhNmHK2Hrk2GFW,SAMN37798094,ST616,United States,human,2023.0,4.0,United States,ST616,0,1,0
+gRuzcW4rmdgd1GeCRT5vpZ,SAMD00499766,ST4393-1LV,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+j8nQ9EcydiqwP2eXHyCpkW,SAMN23286232,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+5wc52xBHgKqrHsfFTRQY3b,SAMN31390135,ST1737,United States,human,2022.0,3.0,United States,ST1737,0,1,1
+89u3PkEtH8DE2KMLE9bHMJ,SAMN25184609,ST3029,China,human,2021.0,2.0,China,Other,0,0,0
+cbhDqrBsrT6qNEjwbnJhVf,SAMN41430428,ST1563,Israel,human,2020.0,1.0,Other,ST1563,0,0,0
+2GBQpALaXf2a6dcnkXruhe,SAMEA5049923,ST360,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+gW7TRFm1i7fMzRxrD9jkMv,SAMN26369276,ST214-2LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+k4YyP3vTF5mZTpKwqg2pij,SAMD00552190,ST4203,Japan,human,2019.0,0.0,Japan,Other,0,0,0
+oW1VkYTWFAHfur7aJjAasn,SAMEA113550267,ST616,United Kingdom,plant,2018.0,-1.0,United Kingdom,ST616,0,0,0
+wwoFaGMQhUi46gCFrYYbSf,SAMN38811492,ST616,Canada,human,2020.0,1.0,Canada,ST616,0,0,0
+r9PxH43845UhNUCpXBaMrp,SAMN51960769,ST1563,Spain,human,2025.0,6.0,Spain,ST1563,0,1,1
+nRDkmxGQ3LwaHV9SpyoPMx,SAMN26369200,ST616,Australia,human,2020.0,1.0,Australia,ST616,0,0,0
+pzrbQQatgPntUfSzGtoW2G,SAMEA5049523,ST208,Italy,animal,2018.0,-1.0,Italy,ST208,0,0,0
+eruK4neFAwBTUPBze7JfN1,SAMEA120304003,ST597,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+7URzvNUoQB18iV9EjFNcxs,SAMN32155820,ST5520-2LV,Switzerland,human,2018.0,-1.0,Switzerland,Other,1,1,0
+qVnSqsz1L9UW9gSRhPY7LG,SAMN14967671,ST6132,United States,human,2019.0,0.0,United States,Other,1,1,0
+vpxpM3ZrYV1HBRNmLpmK2W,SAMN28744582,ST2388,Australia,human,2019.0,0.0,Australia,Other,1,1,0
+v2iYQMfy77eCknppb9kQwj,SAMEA5050001,ST3924,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+5N3wCefAVaowwYB8p7HdV6,SAMN47616566,ST3936,India,animal,2024.0,5.0,Other,Other,0,0,0
+otzigPcnWN3CLjL4eo5Y1S,SAMN50341917,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+rh5x7bYatQ6Frb2dMzZ7LY,SAMEA120304053,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+51VBoXskxaJPLubvY4nD9q,SAMEA113605289,ST1562,Norway,human,2018.0,-1.0,Norway,ST1562,0,0,0
+7k16r4ok5rvnTdwTEfDRLJ,SAMEA113605351,ST597,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+5n4GPEAKM29Ypj5EzpbF4J,SAMEA6657282,ST2221,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+cKVLvC8mZZaVNpWjbhZPRk,SAMEA11291467,ST662,Denmark,food,2019.0,0.0,Denmark,Other,0,0,0
+mAxKvLFNvLLFutJMpivqDG,SAMEA115100288,ST981,Switzerland,human,2022.0,3.0,Switzerland,ST981,1,1,0
+gNqLA7A8wwrgeMHsnZn11F,SAMN39832388,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+bGbx7C2EWSqLHvxaajy9ZU,SAMEA5050202,ST7048,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+mAjEuBvXqR7HzNo4ML6W18,SAMN29894064,ST3955,United States,human,2022.0,3.0,United States,Other,0,0,1
+6iaYv6xktHdbYzxH54RAvc,SAMD00194649,ST3925,Japan,plant,2019.0,0.0,Japan,Other,1,1,1
+pBHUBinUH4cANECJvoHDRb,SAMN28626320,ST3477,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+dNn1FASZMtBptu7RR8wy9K,SAMEA113605321,ST1485,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+iF62MW1SYPoVWkaMMMqoqp,SAMEA120308321,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+nqQQC2rFXyTaYsQh2rQf1m,SAMN23768641,ST973-1LV,Ethiopia,human,2020.0,1.0,Ethiopia,Other,1,1,0
+1fEWG9WnWsW12miiQisq4t,SAMN44051576,ST2048,Peru,environment,2019.0,0.0,Other,Other,0,1,1
+dDipWLsWxsk6YoumidnKSR,SAMN23286222,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+ewsB5kKkcTBtPw5o6NvzFE,SAMEA5050189,ST4174,Italy,animal,2018.0,-1.0,Italy,ST4174,0,0,0
+oYaqYr1Jh1kt4Unz6Qr7T1,SAMEA8263287,ST197,Germany,human,2019.0,0.0,Germany,ST197,0,1,1
+bEM9kdX9y1LVCa2uzUdCRZ,SAMEA113605324,ST4195,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+3ZJiB4MjmmcG5or3qMBU9u,SAMN25041867,ST5746,Guadeloupe,environment,2019.0,0.0,Guadeloupe,Other,0,0,0
+13EZJr2Jrneme2AnWRf9Ct,SAMN25041619,ST5664,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+9dEuY3kB6d3B4YCbiKMRqp,SAMN20203219,ST640-3LV,United States,human,2021.0,2.0,United States,Other,0,0,0
+6ie44ncUgWz9xCLa8Gsjgn,SAMN53909916,ST1611-2LV,United States,animal,2022.0,3.0,United States,Other,0,1,0
+8eYEY3eQyS2KwpJLqccYD7,SAMN16685847,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+gXU5YB3L8m2rFvuWQCsavm,SAMN52226207,ST1563,United States,human,2024.0,5.0,United States,ST1563,0,0,1
+1XAaKhYhRGPJzZrZRk57zT,SAMD00552250,ST355,Japan,human,2020.0,1.0,Japan,ST355,0,0,0
+qgkHYWJadDAa4NRs3vGgts,SAMN50601063,ST1986,United States,human,2020.0,1.0,United States,Other,0,0,1
+jCpAPn8pg9rwPAxWDHTXUa,SAMN26101590,ST2362,United States,environment,2020.0,1.0,United States,Other,0,0,0
+bWLb3EJbFyEHA4ToUAzBRh,SAMD00499722,ST4160-1LV,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+dFTj21dzFGzkdYUignxHsQ,SAMEA113605059,ST4168,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+pSj2JBaGL8abRgRgHZWqp4,SAMN44083630,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+jjFuXAUpZFvy7d7gjtJmmx,SAMEA113605426,ST4364,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+rQtRsYvKTPxux6abwf6J8j,SAMN25041892,ST1687,Guadeloupe,environment,2019.0,0.0,Guadeloupe,Other,0,0,0
+99kB2cJqFcN1NSpnS19cDG,SAMEA113550264,ST1563,United Kingdom,plant,2018.0,-1.0,United Kingdom,ST1563,0,0,0
+aiRKJYKa7fZfmEmfodhN3B,SAMEA5050179,ST4174,Italy,animal,2018.0,-1.0,Italy,ST4174,0,0,0
+bfZGXpKDcy9AvSoUXmMC48,SAMN34998463,ST1582,United States,human,2018.0,-1.0,United States,ST1582,1,1,0
+vAhdUB1AGSzJwR2gUiRJEs,SAMEA115703378,ST906,Germany,human,2023.0,4.0,Germany,Other,0,0,1
+99q4wNLTk9a1P3crHdJBAQ,SAMN36451959,ST344-2LV,United States,human,2023.0,4.0,United States,Other,0,0,1
+h5iDmDUVfoqk8ccqjKkqVr,SAMN41162738,ST581,United States,human,2024.0,5.0,United States,Other,0,0,1
+gkkWvCpUGNYo4DpC4QvZCS,SAMD00552258,ST2295-2LV,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+31ZLRwWryFRcaHcgM28vpY,SAMEA113605206,ST347,Norway,human,2018.0,-1.0,Norway,ST347,0,0,0
+5Q7GcnDXB93F9Xr2Es3jLX,SAMD00194653,ST519,Japan,plant,2019.0,0.0,Japan,Other,1,1,0
+j5C56a4ji9nDy5nNXax5Mh,SAMN25041705,ST5694,Guadeloupe,human,2019.0,0.0,Guadeloupe,Other,0,0,0
+qVJYoMvD4e7KhNVBoRdWAY,SAMD00500985,ST519,Japan,human,2019.0,0.0,Japan,Other,1,1,0
+uSCdxWqp7iBJjopXrbEwTM,SAMN16685855,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+bTSzXsxtXCSLfRMtRw2c9U,SAMN26369128,ST4555-1LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+s8m4XPBkCiUCrLd1ci66Fe,SAMEA5684194,ST6238,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+orFDCKrMPDGQJ3jowVwo5o,SAMN26369086,ST1986,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+hPafdoacjNUdsDom9EmJqo,SAMEA9453802,ST1684,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+e4cqBzhXfZJpx3xVwKym2P,SAMEA6657062,ST3927,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+4bDxqFxjMZRoNdo9ack4Ud,SAMEA120304077,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+esh4EeZtqZAoWagmuLgMxM,SAMEA12940668,ST1582,Spain,human,2019.0,0.0,Spain,ST1582,0,1,1
+6vzatNMJzrHZPZeidBauY1,SAMD00501158,ST3384,Japan,human,2019.0,0.0,Japan,Other,0,0,0
+9LdctyHzLTZh5nDszvodTi,SAMEA5049173,ST3239,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+n1LxM4rMuJUuwxKfvCRtvw,SAMN25041732,ST5706,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+e8UPhgvGpPS2pU7nMRH9Dx,SAMEA5050147,ST7046,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+uPWTy4wUML92GYTFqVLsiR,SAMN28744278,ST3144,Australia,human,2019.0,0.0,Australia,Other,1,1,0
+2Ddx6SQAxs6TFuPWAMiW1y,SAMN38857080,ST933,United States,human,2023.0,4.0,United States,Other,1,1,1
+vJALn8NJCYAf6V1WcoVBd3,SAMN26976410,ST365,United States,human,2018.0,-1.0,United States,Other,0,0,0
+dZA7GXYd3fVtSnejmVV94U,SAMN25041657,ST5685,Guadeloupe,human,2019.0,0.0,Guadeloupe,Other,0,0,0
+8HKb8nFZDLZEKXzcFAj6WF,SAMN48972286,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+hR7EM6zRdXgXkcAsPNNtM8,SAMN46859434,ST2006,Australia,human,2022.0,3.0,Australia,ST2006,0,0,0
+2HtNj3UXypfFrT341aNssd,SAMN38811463,ST919,Canada,human,2020.0,1.0,Canada,ST919,0,0,0
+s4Ua2soVTL3yoLAQ18dQ7h,SAMEA113605346,ST4146,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+8YNuDGfqXwtgVZhnLZtSoT,SAMEA114438916,ST3477,Spain,laboratory,2020.0,1.0,Spain,Other,0,0,0
+jCigmicghLHzzJp3JnDwPv,SAMN26101469,ST3086-1LV,United States,human,2019.0,0.0,United States,Other,0,0,0
+2iTYSFP7kmq69rMDDyKTwz,SAMN19015807,ST662,Lebanon,human,2018.0,-1.0,Other,Other,0,1,1
+skXRD14FKzPBbGEJuopZra,SAMEA4781917,ST454,Italy,environment,2018.0,-1.0,Italy,ST454,0,0,0
+hGXHX6b4A7ggNmPEzXqWvy,SAMEA7198891,ST454,United Kingdom,environment,2019.0,0.0,United Kingdom,ST454,0,0,0
+pXaKdv6Nrv1mftQkPXtr4H,SAMEA7564872,ST981,Hungary,human,2019.0,0.0,Other,ST981,0,1,1
+g3A1C5oWdeHSpmoKNLB33e,SAMEA11291465,ST146,Denmark,food,2019.0,0.0,Denmark,Other,0,0,0
+ccy8HYYcD6NtaHqirGArSm,SAMN25041748,ST5713,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+6d3NLeqiT5kWpdQHjR7BUL,SAMEA114783613,ST5065,Denmark,environment,2018.0,-1.0,Denmark,Other,0,0,0
+9PKBDv8Gn7pM3UKthJ8EAk,SAMN50581011,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+gHg9Vu7GUY4Wcc7V36mM3W,SAMN26796290,ST641,United States,environment,2021.0,2.0,United States,ST641,1,1,1
+rfWu5JoRobFzcdwDTPWKm4,SAMN19856757,ST1562,Unknown,environment,2020.0,1.0,Unknown,ST1562,0,0,0
+hxUSxAuZDgx1iAozSpBXe1,SAMN52858722,ST209-1LV,United States,human,2025.0,6.0,United States,Other,0,0,1
+pTa7sLtyu5wp3z8jQgqmLL,SAMN26422271,ST250,Türkiye,human,2019.0,0.0,Türkiye,ST250,0,0,0
+1Y4wZarPJVfLtVe3MeG9U4,SAMEA5050017,ST355,Italy,environment,2018.0,-1.0,Italy,ST355,0,0,0
+td5Q7VxiZhQzkdYQGrUzsf,SAMEA8262887,ST3570,Ireland,human,2019.0,0.0,Other,Other,0,0,0
+eTXvtzxCGuqZfxqiLppdJo,SAMN26369304,ST681,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+7MsuZi2p26mZujaDmq1DSo,SAMN38811496,ST4174,Canada,human,2020.0,1.0,Canada,ST4174,0,0,0
+wmUZdSFUKKDchmtntL4UFu,SAMEA114784676,ST1562,Denmark,human,2019.0,0.0,Denmark,ST1562,0,0,0
+1nHAQaBQSfrnYTG6m24F7v,SAMEA5050071,ST7034,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+fWbf1GAxHvX3zXDjLQECSv,SAMN53909742,ST3235,United States,animal,2021.0,2.0,United States,Other,0,0,0
+j63b6MMUWwTo8u8TjDFKzi,SAMN34030118,ST641,Unknown,human,2023.0,4.0,Unknown,ST641,0,0,1
+v2hCtGXpStZXzpPfPVCVVk,SAMD00552293,ST697-1LV,Japan,human,2021.0,2.0,Japan,Other,0,0,0
+5znVmjfSq2WcxHZ3ANcghv,SAMEA5050039,ST7023,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+ocx6pmYFYfH9f1kDT43xo8,SAMN28626269,ST347,Norway,animal,2019.0,0.0,Norway,ST347,0,0,0
+4swJcUHVAdvm3ksfJDauQE,SAMEA9453135,ST1563,Czechia,human,2019.0,0.0,Other,ST1563,0,0,0
+mqE3Jo7g3UFxT6KfJUVcWR,SAMN23286221,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+dN4v3hzggM941XdfrzKEsS,SAMN37671773,ST454,Portugal,human,2019.0,0.0,Other,ST454,0,0,1
+u3zRBJoLncL2WLk4YBckKD,SAMEA120304061,ST3143,Germany,human,2023.0,4.0,Germany,Other,0,0,0
+qTF75fujQGux5fcg5hKD1X,SAMN36074183,ST1050,United States,human,2023.0,4.0,United States,Other,1,1,1
+bWhc68FbFMS1BmwbJAN8MD,SAMN40643730,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+12EtCA9Bnco8qwBpZ3A1V4,SAMEA5049534,ST4880,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+a2fsnCcKvh8X5sxaKyCnC5,SAMN17038862,ST5846,United States,human,2019.0,0.0,United States,Other,0,0,0
+32xFRdjwmn7LQcWayn38R4,SAMN45046086,ST2466-4LV,United States,environment,2023.0,4.0,United States,Other,0,0,0
+bdyMuDpwdq3StZc6bLLtzU,SAMEA111505231,ST204-4LV,Nigeria,human,2020.0,1.0,Other,Other,0,0,0
+eAFEWfhyZQDYmuSRcDK23M,SAMEA5050207,ST596,Italy,animal,2018.0,-1.0,Italy,ST596,0,0,0
+cWPAErQwheNUEpx1GNGZFd,SAMEA5050028,ST355,Italy,environment,2018.0,-1.0,Italy,ST355,0,0,0
+cL1BeCH1g4EXJiW8EGX5Ek,SAMD00552195,ST4740,Japan,human,2019.0,0.0,Japan,Other,0,0,0
+qSEKHmHqgn32YxhGnyBpnG,SAMEA5050102,ST7037,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+u25QaDuUTf22yxLgRc9QrK,SAMN25041597,ST5646,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+qmsUk2u9dfe2AU8peyTdcA,SAMEA7565448,ST595,Spain,human,2019.0,0.0,Spain,Other,0,1,0
+uwmHB4ujnWVwdcHQi6PdR9,SAMN49639479,ST4605,United States,human,2025.0,6.0,United States,Other,0,0,1
+5SC8XB2QK2a753XdBvPKet,SAMEA9455082,ST347,Croatia,human,2019.0,0.0,Other,ST347,0,0,0
+no7nY9kwwpwNxVYSi3jcxt,SAMEA113605741,ST250,Norway,human,2018.0,-1.0,Norway,ST250,0,0,0
+eEPJzh4CP6uvB634LjgXP2,SAMEA120308463,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+ehWa4pLjBLdHDHr2QqzL5E,SAMEA9454560,ST6212,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+8fFCsyAXr1tvPsTBVWYDxD,SAMD00194657,ST3925,Japan,plant,2019.0,0.0,Japan,Other,1,1,1
+g32dJR1dGYwFew4tKAV9Q8,SAMN50023088,ST4669-1LV,United States,human,2025.0,6.0,United States,Other,1,1,1
+sgANiwohgmdSTQSHeuHvh1,SAMN46910115,ST850-3LV,Slovenia,human,2024.0,5.0,Other,Other,1,1,1
+jVtTrZybCTBwNJEL727RSV,SAMEA5048907,ST695,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+p65RDB9MnKjGLpthY7c5aQ,SAMEA5048834,ST1485,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+d4RmzwuJbUs3U3teUoyVGw,SAMEA5684228,ST2645,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+5BQBqJ4TUcPJYZVT4sqJ7x,SAMEA113605339,ST4184,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+iPASnBBJz267zawi91SR7m,SAMN41788816,ST255,United States,human,2024.0,5.0,United States,Other,0,0,1
+8A7iRCJtkF1nEahVKp2DsX,SAMN40419759,ST596,United States,human,2024.0,5.0,United States,ST596,1,0,1
+sz5QyefqTVwoM7kfYa4Lqf,SAMN26101578,ST454,United States,environment,2020.0,1.0,United States,ST454,0,0,0
+pVjTLisMSVubUdT4fmfYez,SAMN38811475,ST4174,Canada,human,2020.0,1.0,Canada,ST4174,0,0,0
+sYHdJPDoX3JttGG8BGa8Es,SAMEA7077342,ST4750,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+294k6xPEMWY1Kk3odA3Z8r,SAMN32646599,ST1915,Unknown,human,2022.0,3.0,Unknown,Other,0,0,1
+j7MzBuGC1WnE4seAKHtvCD,SAMN42924609,ST5006,United States,human,2024.0,5.0,United States,Other,1,0,1
+hNMUAsg5h4MDmsegno92fu,SAMEA11351173,ST2466-4LV,United Kingdom,human,2020.0,1.0,United Kingdom,Other,0,1,1
+prmVpmiAX6Pyp48EvsPruG,SAMN37215957,ST919,United States,human,2023.0,4.0,United States,ST919,0,1,1
+uWBCaCz4CbBQN1V3Yc3Qt9,SAMN25041750,ST5713,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+fsHcGqf83woTjCUEntq9uE,SAMEA9454534,ST2586,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+qEK4mAq5e8U1od6PnaFJ7H,SAMEA4781725,ST641,Italy,human,2018.0,-1.0,Italy,ST641,0,0,0
+92dZjdXypQMErzP5Bhbqnf,SAMN20604118,ST347-1LV,United States,human,2021.0,2.0,United States,Other,1,1,1
+dec4sUZj9QihTw3maUZfi4,SAMN28668620,ST2594,Australia,human,2020.0,1.0,Australia,Other,1,1,0
+3wh1ECZtdLiMwp1YJWucGG,SAMEA113550302,ST1178,United Kingdom,plant,2018.0,-1.0,United Kingdom,Other,0,0,0
+9dqgFkWRfSqu2WUtKM2wp5,SAMN45046077,ST6790-1LV,United States,environment,2023.0,4.0,United States,Other,0,0,0
+xtCVKPWQx49CUf2Q6NJCQn,SAMN25041609,ST5657,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+mJWXZXsV95ESubZAbUi8mK,SAMN42914103,ST2228,United States,human,2024.0,5.0,United States,Other,1,1,1
+4CAWKha4r46WYxeoySTKCi,SAMN31261057,ST1737,United States,human,2022.0,3.0,United States,ST1737,0,1,1
+iNZq8DvpWTgjcPXfnfAX6Y,SAMN37801326,ST919-1LV,China,human,2021.0,2.0,China,Other,0,1,0
+v3tuRHmH3LArKwkkcoqDDN,SAMD00497820,ST6226,Japan,human,2019.0,0.0,Japan,Other,0,1,0
+4H87d9DujE2Jcs43sq9uFH,SAMN19856762,ST1096,Unknown,environment,2020.0,1.0,Unknown,Other,0,0,0
+v2U9L8q1CeCeFyxK4y5Rie,SAMEA5049684,ST6999,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+iPFDzYvyLVjabpuJz2cFKf,SAMN28669130,ST1563,Australia,human,2018.0,-1.0,Australia,ST1563,0,0,0
+s1XhLjz3wQWgbeqBTG5t3L,SAMEA113605452,ST1915,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+ax4Epvu6zLg2SR7jyt8HxD,SAMN33841361,ST1456,United States,human,2023.0,4.0,United States,ST1456,0,1,1
+d2ZPVVpqvhQfqPzeXQnU9s,SAMEA7198808,ST2464,United Kingdom,environment,2019.0,0.0,United Kingdom,Other,1,1,1
+xgULMW3MGmFGGmciWPmt3v,SAMEA4781630,ST6974,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+2R7GGtkMuN5n2YfYhfx1gR,SAMEA5050243,ST347,Italy,animal,2018.0,-1.0,Italy,ST347,0,0,0
+mRHB8ybqoxWkwu3CJwTsSJ,SAMN26369183,ST1505,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+4snGBiqVHMSbWWt94jotv5,SAMN19022477,ST4609,United States,human,2021.0,2.0,United States,Other,0,0,1
+wbTPXPackzkziwHd217gJE,SAMEA5049986,ST3924,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+94XSztEcg97oZ9dh7riRYp,SAMD00552224,ST4609,Japan,human,2019.0,0.0,Japan,Other,0,0,0
+x4RNHdufFPtRoYNLfWxhAz,SAMN26369043,ST6719,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+fWduHRfysnTmicv1cnGF9M,SAMEA120221861,ST936,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+2Cih2A49bx5RCFkbzQBVrc,SAMN26422259,ST250,Türkiye,human,2019.0,0.0,Türkiye,ST250,0,0,0
+6ZWJU7rgFpiZSZhgX4CAvU,SAMN25041659,ST454,Guadeloupe,human,2019.0,0.0,Guadeloupe,ST454,0,1,0
+k7E9f5aHbz6CCXuQeH73zC,SAMEA7077370,ST4754,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+i42EBDKova52cJjMWbqvmx,SAMN44515961,ST4551,China,human,2020.0,1.0,China,Other,0,0,0
+iED1EBa62EE8TgJM6WFJxA,SAMN26368996,ST1582,Australia,human,2020.0,1.0,Australia,ST1582,0,1,1
+qzxessmfkFtean8HvDRjSp,SAMN50352233,ST454,United States,human,2025.0,6.0,United States,ST454,0,0,1
+u4scbnjfQ62WQe3P9DvLmZ,SAMN30630825,ST1433-1LV,United States,human,2022.0,3.0,United States,Other,0,1,1
+iSiDLNsey3TrQJHsfJdYH9,SAMEA115464671,ST2645,United Kingdom,human,2018.0,-1.0,United Kingdom,Other,0,0,0
+qPZSHurDSK1q6yCFfujL7D,SAMEA4781963,ST5781,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+aX4QbcrE5rmNAvUgiCfejE,SAMEA5049990,ST3924,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+c4pwQQ3vUXPj9GwdDySDUs,SAMN20033483,ST3081,Australia,human,2018.0,-1.0,Australia,Other,0,1,1
+5sntuV1DRKrG7UK7nQjc4q,SAMEA11291405,ST581,Austria,food,2019.0,0.0,Other,Other,0,0,0
+4kPpLHCGqTgNe9RWRAEgz6,SAMEA120308958,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+cbRRUy1vgL9qbKe76JeSvG,SAMN48972267,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+eraMZoyW88JfCvetXFEzUg,SAMN39676531,ST3199,United States,environment,2023.0,4.0,United States,Other,0,0,0
+vFpR7PHfFedBCWZuCHqCbh,SAMN53909692,ST368-1LV,United States,animal,2021.0,2.0,United States,Other,0,0,0
+jpDputB4u3y1RfFN61LrCx,SAMN26369011,ST363-1LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+xdUnPhyFQs1KYNjJnxXGgc,SAMN29198870,ST5266,Bangladesh,human,2018.0,-1.0,Other,Other,1,1,0
+avXa5RHieqqzpPXYzxK5G4,SAMN18762352,ST2465,South Africa,animal,2018.0,-1.0,Other,Other,0,0,0
+m7z6GTow6ed8MSsZygRT6v,SAMEA5049918,ST360,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+drYkufWk7fje7Mthr3X158,SAMN53286997,ST4174,France,laboratory,2023.0,4.0,Other,ST4174,0,0,0
+t3JPADcuEnBKb7ePqcHoem,SAMEA120264750,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+9nyiCzmAq9Jojb1YPxUCXN,SAMEA5050204,ST3398,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+uz1i4zddaifVz9M6qnSSfe,SAMN47623606,ST363,United States,human,2025.0,6.0,United States,ST363,1,1,1
+crWvExM6sQ3rcSBxQy2wd5,SAMN34046993,ST3946-1LV,"Tanzania, United Republic of",human,2020.0,1.0,Other,Other,1,1,0
+8D2Lk63WuPCc94oDofGHW2,SAMEA120308459,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+9gjV8BVkybz1ZT1pVJVct6,SAMEA114784677,ST1915,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+e9fBoFoNp3o7qyjbLsiZiH,SAMD00498818,ST616,Japan,human,2020.0,1.0,Japan,ST616,1,1,0
+nukdkNeY4G4PnhYACdpMhm,SAMEA9455594,ST6230,Romania,human,2020.0,1.0,Other,Other,0,0,0
+bYNCn1fUPFYTT8KVjv8YHg,SAMEA6657200,ST1169,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+f8d226B4CBAUwWfpD59Qqu,SAMN34105019,ST4524-1LV,United States,human,2023.0,4.0,United States,Other,1,1,1
+qpuZsPdcBkqax7jxg7iPs4,SAMD00195887,ST5266,Japan,environment,2018.0,-1.0,Japan,Other,1,1,1
+urcGiVSRspqxEjJG1VgvjG,SAMN40918467,ST6219,United States,environment,2024.0,5.0,United States,ST6219,0,1,1
+3hhtVLPNFX363xH7AcQvWG,SAMEA115553346,ST539-1LV,Netherlands,human,2018.0,-1.0,Netherlands,Other,1,0,0
+6LTnesGXmgPDHu2T59VZzC,SAMEA5684236,ST7030,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+dgoX7vMLMYuca15sKpkL1U,SAMN33425791,ST1562,United States,human,2022.0,3.0,United States,ST1562,0,0,1
+wksZJg8YV382RNkZcHRup4,SAMN29755192,ST1562,United States,human,2022.0,3.0,United States,ST1562,0,0,1
+iRwrnhc5LPM9qVgnZnc7MQ,SAMN41081780,ST1582,United States,environment,2024.0,5.0,United States,ST1582,0,0,0
+kyEVFb3HPNDDCf9VGytuYX,SAMN27568368,ST6052,United States,human,2022.0,3.0,United States,Other,0,1,1
+qWnZLUFHc2LnFUQ92Fu8e5,SAMEA120308869,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+ggXLXhoeiBiZgDaGVpVwpx,SAMEA113605910,ST4157,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+nNAoTKr14uUStuerQ8mhko,SAMEA9453364,ST6211,Croatia,human,2019.0,0.0,Other,Other,0,0,0
+hEArcVxqYF5AFL7MBK3vag,SAMEA113605959,ST1875,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+buvNSt4SB8VA5ifroPimVq,SAMN25041634,ST4078,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+6jKDzdEWsaSTZABDG3rh6Y,SAMEA120304055,ST250,Germany,human,2021.0,2.0,Germany,ST250,0,0,0
+dCdG5ULLGbbga4wFSfCDrN,SAMEA113550269,ST454,United Kingdom,plant,2018.0,-1.0,United Kingdom,ST454,0,0,0
+6vuxg7Esv3BnkZoo4ptnhU,SAMEA5050008,ST7019,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+nxrfrc5kdUfUbipcQKit4p,SAMEA113550332,ST662,United Kingdom,plant,2019.0,0.0,United Kingdom,Other,0,0,0
+icnELpjJ67HFAYGnxyUS5E,SAMN23286217,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+8BFoh4NSwAZHz5WmiYuxQs,SAMN50352227,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+7K7ZY6yKTHkukVBKWd7cQX,SAMN34138157,ST318-2LV,Canada,human,2018.0,-1.0,Canada,Other,0,0,1
+rkph4KiAtBBXD8wgjFZZYf,SAMN16614905,ST729-4LV,United States,human,2019.0,0.0,United States,Other,0,0,0
+sZRcF9dPaRs5xL2j7Vmj32,SAMN32721534,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,1
+9559gdhQfp7jqjqyx6Tvo7,SAMEA9454907,ST1485,Serbia,human,2019.0,0.0,Other,Other,0,0,0
+feM4LMD7SJMAZT94Uu3BD7,SAMN41693272,ST1456,United States,human,2024.0,5.0,United States,ST1456,0,0,1
+9HSH6UrgbHztu2cTszn1To,SAMEA114438914,ST3477,Spain,laboratory,2020.0,1.0,Spain,Other,0,0,0
+mR6qWrfCsK9pz85dS8zzMz,SAMN25041891,ST2551,Guadeloupe,environment,2019.0,0.0,Guadeloupe,Other,0,0,0
+u3csJxFqydBtzaAubjFRRH,SAMEA114110084,ST6109,India,animal,2022.0,3.0,Other,Other,0,0,0
+vT8kANw1uGt5qfGKtZPych,SAMN40738675,ST1456,United States,environment,2024.0,5.0,United States,ST1456,0,0,0
+7Nf9o43Bh6G1TfKkTR7C5c,SAMEA5049407,ST2950,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+2VYmxAjrZXLFWh4dU3zgdS,SAMN29198872,ST981,Bangladesh,human,2018.0,-1.0,Other,ST981,0,0,0
+k8fJLuodgL52UQuN2aZPsm,SAMN40296488,ST197,United States,environment,2023.0,4.0,United States,ST197,0,0,0
+4sUShRCjRoyjickBZ7LV4s,SAMN25041711,ST5698,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+kyKEqi4CSZkiCqQNngMvuK,SAMN35547128,ST4169,United States,human,2021.0,2.0,United States,Other,0,0,0
+pcyrgEGcE58SNd6AGpnfgT,SAMN49096995,ST1562,United States,human,2025.0,6.0,United States,ST1562,0,1,1
+dokXs3yPWiHdkCsrETV7W8,SAMN49917352,ST5925,United States,environment,2025.0,6.0,United States,Other,0,0,0
+vscyCTx4emYS7xFMBkam2J,SAMN49822931,ST1050,United States,human,2025.0,6.0,United States,Other,0,0,0
+bYLqDvPxiLFyunKGk9fxKE,SAMEA5050167,ST355,Italy,environment,2018.0,-1.0,Italy,ST355,0,0,0
+dpzhhsMWbPvDcdN1JwMiDs,SAMN26369047,ST1562,Australia,human,2020.0,1.0,Australia,ST1562,0,0,0
+oWi8xfko9tabPJDcLJ6XMo,SAMN32721440,ST3081,Australia,human,2018.0,-1.0,Australia,Other,0,1,1
+1P151X38Jj1CqsTNreyko5,SAMEA113605063,ST1381,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+6bt8hoovxJLTjr8xP7kqDd,SAMEA9454659,ST2006,Italy,human,2019.0,0.0,Italy,ST2006,0,0,0
+mwqdFD19NvWnizD82EYj6T,SAMN31152640,ST1737,United States,human,2022.0,3.0,United States,ST1737,0,1,1
+omPKnstCWSLKuPfuY8fCzV,SAMN48972285,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+aTYBwiRs7w3yHSy2VQtg6q,SAMN53909936,ST4146-2LV,United States,animal,2022.0,3.0,United States,Other,0,0,0
+cJoNLxrERyfSZ2134B6JkM,SAMEA5050134,ST7040,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+didgeDu87GhGJVyRwJ1tGA,SAMEA5049219,ST3205,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+dQsB2ZZRgGjGZBbPp2T4h9,SAMEA8263623,ST1819,Spain,human,2019.0,0.0,Spain,Other,0,0,0
+6CCEWzRfiEtoqdxJC5HqxC,SAMEA5050186,ST4174,Italy,animal,2018.0,-1.0,Italy,ST4174,0,0,0
+kYBBg1v95u73CoieEN1oSz,SAMN46529360,ST1563,Chile,human,2019.0,0.0,Other,ST1563,0,0,0
+8PGZHdxys3dBdra4QH4Swp,SAMEA116304492,ST767,Norway,unknown,2023.0,4.0,Norway,Other,0,0,0
+dapfGDFrXNPVhe4nacCuk5,SAMN48972187,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+o2NcVJy4FSg495D4XNfSJN,SAMN47436293,ST2464,Uganda,human,2023.0,4.0,Other,Other,0,0,0
+jSckC3h5649ABSxtVRdYWC,SAMN26369255,ST697,Australia,human,2020.0,1.0,Australia,ST697,0,0,0
+oU1V1LWYFcSZJygtGwdaoC,SAMN26369198,ST1915,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+t1En75ego3fK6RUaNGMHYG,SAMEA8263627,ST1485,Türkiye,human,2019.0,0.0,Türkiye,Other,0,0,0
+9JFFmDbMHbjqS4fLRfkQn1,SAMN34138183,ST1737,Canada,human,2020.0,1.0,Canada,ST1737,0,1,1
+bk9JdUKC3YxPn8kzRq9qNa,SAMN55990998,ST2993,United States,human,2022.0,3.0,United States,Other,1,0,0
+p7ua3rVfAhGxw1AWyUuFD2,SAMEA5049722,ST347,Italy,animal,2018.0,-1.0,Italy,ST347,0,0,0
+8afTrKuBS1X1hgugtM4UaD,SAMN35004792,ST596,Australia,human,2019.0,0.0,Australia,ST596,0,1,1
+3YRhaJadMbQPX8tPrAE6YA,SAMN35990857,ST2006,United States,human,2023.0,4.0,United States,ST2006,0,0,1
+pGyaaNPmSfovPnWAB4T5jE,SAMN43210426,ST4596,United States,human,2018.0,-1.0,United States,Other,0,0,0
+mAdZPUxa3hJofcXHfnnL1q,SAMD00499475,ST601-1LV,Japan,human,2020.0,1.0,Japan,Other,1,1,0
+js5JhikSBtuLrnhB1ss5CM,SAMEA5049075,ST3974,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+iGnFqXxAcvLTTS4LHfdECN,SAMEA113550352,ST4448,United Kingdom,plant,2019.0,0.0,United Kingdom,Other,0,0,0
+hicRQkkt11qSFjW5Xfiske,SAMEA12940669,ST1582,Spain,human,2019.0,0.0,Spain,ST1582,0,1,1
+jba8tVgeAiAf4X4ABCqaSq,SAMEA113550270,ST1056,United Kingdom,plant,2018.0,-1.0,United Kingdom,Other,0,0,0
+gAzSepcAjK76opV2yLzn11,SAMEA113605539,ST697,Norway,human,2018.0,-1.0,Norway,ST697,0,0,0
+qTZWJdrm1QVUPNvRRUG2P7,SAMN26976427,ST197,United States,human,2018.0,-1.0,United States,ST197,0,0,0
+hUDqABBp7KLma6ALRto3kj,SAMN40752437,ST4596,United States,human,2021.0,2.0,United States,Other,0,0,1
+ixLu4cqh8MPpUgUbiXYYPH,SAMD00501330,ST4418-4LV,Japan,human,2019.0,0.0,Japan,Other,1,1,0
+81stBiWMPNvy6CwUw1kcKS,SAMEA8263700,ST1562,Türkiye,human,2019.0,0.0,Türkiye,ST1562,0,0,0
+tiacBnURi7uxuZFcqTrnx8,SAMEA111504363,ST208,Ecuador,human,2020.0,1.0,Other,ST208,1,1,1
+dy8c4SkW2Vrpxz6r9hFiTb,SAMN26368992,ST344-1LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+x92noMGeT6sEQ6tz7xV9wN,SAMN25041888,ST697,Guadeloupe,environment,2019.0,0.0,Guadeloupe,ST697,0,0,0
+fGm8EruiaBiuXy4EdRLZr2,SAMD00500922,ST1050-2LV,Japan,human,2019.0,0.0,Japan,Other,1,1,0
+4ZTB6eq5vpANjLxP4At2QE,SAMN39623894,ST347,United States,human,2023.0,4.0,United States,ST347,1,1,1
+kYkREK1bsKaMvce6QP1X5K,SAMN28626226,ST4705,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+vThhYfX3wZbG3hZesYvmiT,SAMEA5050135,ST357,Italy,environment,2018.0,-1.0,Italy,ST357,0,0,0
+hYZ6deQHKTwTPieNYjb4et,SAMEA6656963,ST312-2LV,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+dqKJHyr3d9GpNaxDKGMcT4,SAMN26976334,ST581,United States,human,2018.0,-1.0,United States,Other,0,0,0
+h9xnx3R7FhKrWzQSbQW1Pm,SAMEA116304487,ST3529,Norway,unknown,2023.0,4.0,Norway,Other,0,0,0
+5DebyC6MZF6z88YBBY217E,SAMN50352224,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+aBcMStWtgidfzE3tkWGb3T,SAMEA113605921,ST1456,Norway,human,2018.0,-1.0,Norway,ST1456,0,0,0
+t1y4NGT3gkcp8DeZsQ2TpQ,SAMN26226178,ST641,United States,human,2019.0,0.0,United States,ST641,1,1,1
+ba38QRwY5oHGuhPAs89mtm,SAMN53909872,ST2011,Canada,animal,2022.0,3.0,Canada,Other,0,0,0
+gKYmq7fQaeDiF8oFw4PxpN,SAMEA5049929,ST363,Italy,environment,2018.0,-1.0,Italy,ST363,0,0,0
+tESkMP8vYLy32zFQVB4HPo,SAMEA9454780,ST3205,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+a4kQa57DAUSVScFijZhiuD,SAMN44575945,ST344,Fiji,human,2020.0,1.0,Other,Other,1,1,0
+t5My4xaJQAzjHVAF4GXZYa,SAMEA5049014,ST363,Italy,animal,2018.0,-1.0,Italy,ST363,0,0,0
+x9Ab9pzBf2FFsonRaL7r7U,SAMEA113605326,ST3200,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+k5crjft34kFmamcUGZcjLd,SAMN26369288,ST1563,Australia,human,2020.0,1.0,Australia,ST1563,0,0,0
+uUaQMpKMasLKLAgUmEWjnZ,SAMN38710955,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+bMiZtMLWRnNPJbtqiZhH7m,SAMEA5048854,ST6238,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+71outsMNvUDAGW6ga5xDBf,SAMEA120304027,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+38E5wb6NQvT58hFBrAKjGQ,SAMN34340404,ST919,Sweden,environment,2021.0,2.0,Other,ST919,0,0,1
+ff2w4E5gDHPo5xAjYvHjbN,SAMEA116304568,ST357,Norway,unknown,2024.0,5.0,Norway,ST357,0,1,0
+cyiMTAZpue5zB1gCMrct7b,SAMEA113605436,ST2386,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+pzg3iHwaG8amNQNvtFx1Ad,SAMD00497658,ST1503,Japan,human,2019.0,0.0,Japan,Other,1,1,0
+38E9pJe9GA62Zn3oZ3T3J2,SAMD00552261,ST2139,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+3d5h3oE7JRCmHACUyo7ARM,SAMN34137692,ST641,Canada,human,2019.0,0.0,Canada,ST641,0,1,1
+4ajpNFmaEeiRoZSKRt7MtF,SAMEA5049282,ST4312,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+61zpJkfJFrCs59qjJAc8kN,SAMN26369150,ST357,Australia,human,2020.0,1.0,Australia,ST357,0,0,0
+qeZmuULFGVzBXq8HoUQyP2,SAMEA114784681,ST2594,Denmark,human,2019.0,0.0,Denmark,Other,0,0,0
+sSKamonfrkgArCB9thGaSu,SAMN25041712,ST3979,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+ezBz1zRmwW3vnZULhxxuS7,SAMN26976419,ST616,United States,human,2018.0,-1.0,United States,ST616,0,0,0
+rCwy6CdxtNpBhN4jJnArna,SAMN35547097,ST1582,United States,human,2021.0,2.0,United States,ST1582,1,0,0
+6MraZw617E8XetikEw3bMy,SAMN16685854,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+qCuhFeHpn3JVMeLd6hGbtd,SAMN26976441,ST197,United States,human,2018.0,-1.0,United States,ST197,0,0,0
+im3SNgE3W6q413H3JD4Uyh,SAMEA113605833,ST318,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+fxV3yq6GLHbvCiiHwXgEn2,SAMN52880191,ST4751,Netherlands,human,2021.0,2.0,Netherlands,Other,0,0,1
+w2uFkYkszAH4FXUVwik2AC,SAMN12233573,ST312-2LV,China,environment,2019.0,0.0,China,Other,0,0,0
+kA2rHSQjRQdgJ579Fc3tCM,SAMEA7198838,ST2464,United Kingdom,environment,2019.0,0.0,United Kingdom,Other,1,1,1
+m1ieickmu26zvr5JXm7KFw,SAMN40376544,ST347,United States,human,2024.0,5.0,United States,ST347,0,0,1
+hCaXRQVHi4MKWdfvutAoXP,SAMN26549629,ST1773,United States,human,2021.0,2.0,United States,Other,1,1,1
+pVQac223Y27xoaQwmgxMBy,SAMN46859411,ST768-1LV,Australia,human,2022.0,3.0,Australia,Other,0,0,0
+paGZw1BP2STqZCszoVixgW,SAMEA9453282,ST2488,Croatia,human,2019.0,0.0,Other,Other,0,0,0
+tQuJbYzkiwGMhjeegFPpM2,SAMN28668317,ST365,Australia,human,2020.0,1.0,Australia,Other,1,1,0
+rAmK4GthcmQphP4bVpFo6E,SAMN23286214,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+sUm7NEFnh68Fi3L2UK8zTh,SAMN42480291,ST850-2LV,United Kingdom,plant,2019.0,0.0,United Kingdom,Other,0,0,0
+uEeyT5SgDHyAZmuRutrLHX,SAMN26976315,ST3195,United States,human,2018.0,-1.0,United States,Other,0,0,0
+dAtZRMkgaWNs5sbFCu4hDS,SAMN28626305,ST347,Norway,animal,2019.0,0.0,Norway,ST347,0,0,0
+iReXjKQiV4VTL5Cm8vGfmB,SAMN50341916,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+36H7r8rQyX75HdPgEcmYuX,SAMN19016766,ST6950,United States,human,2018.0,-1.0,United States,Other,1,1,0
+mBjQFoJ5E3hxDH4zd4Njo4,SAMN18437202,ST1687,Russian Federation,human,2019.0,0.0,Other,Other,0,0,0
+e7FzqfkpvJyrPkeDvBTsu4,SAMEA113605295,ST3565,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+rnwf1WN9e4sSWeX6A4sp13,SAMN15702881,ST1614-1LV,India,unknown,2020.0,1.0,Other,Other,0,0,0
+34vjnY1KZ89NBEL3bX7XC3,SAMN39119197,ST214-3LV,United States,human,2023.0,4.0,United States,Other,1,1,1
+382nAshDwZATzsXHKXbFyL,SAMD00498095,ST347,Japan,human,2020.0,1.0,Japan,ST347,0,1,0
+wQphyXkKRQ2MEWHKnmZgs2,SAMN41612248,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+pa32SfwNiMYH8ZH2MqvkjE,SAMN43210424,ST4596,United States,human,2018.0,-1.0,United States,Other,0,0,0
+25xEMiYGHgDEFRanFamZp4,SAMN42533429,ST1612-1LV,United States,human,2024.0,5.0,United States,Other,0,0,1
+kJhU3a3kXmP3eZQkWdGC9P,SAMEA113605030,ST4010,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+1FASKq5dbsuvgVMdAJyeVg,SAMEA8218186,ST1737-1LV,Germany,human,2019.0,0.0,Germany,Other,0,0,0
+tAWzaNrPe3t9KjKne7iiM4,SAMEA4781542,ST1166,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+5atHMsDsjajfvid8zRPHvb,SAMEA120221856,ST1984-1LV,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+hksdLb4RSaGbrPV3f4ueNV,SAMN48972114,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+7ovdc6UtVmfjfYGfkYnd2e,SAMEA7566035,ST3531,Latvia,human,2019.0,0.0,Other,Other,0,0,0
+8Vpzf4K28Mmdoe9aNHMCmz,SAMEA5048817,ST4587,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+sdyiY9SQjVzxqXNSaHPiav,SAMN41073172,ST597,Kenya,human,2019.0,0.0,Other,Other,1,1,0
+9E6jiVS7yV6JRDEjRdwfB3,SAMEA113606015,ST208,Norway,human,2018.0,-1.0,Norway,ST208,0,0,0
+9yufxd1GqKHbDQpZecpDoD,SAMEA113605283,ST4146,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+3kgHts1yDYyphZnXer16iL,SAMN25041622,ST5666,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+nzLZ8iDePcGgVCLW8VnkXD,SAMN41087471,ST925-1LV,Kenya,human,2019.0,0.0,Other,Other,1,1,0
+1Ep1HJ4VXDaMWU1vLKecoi,SAMN16685856,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+5PXYiu6PNK8hrpdyxsfAW2,SAMN19856761,ST355,Unknown,environment,2020.0,1.0,Unknown,ST355,0,0,0
+3kzjqz7EtHnQbgyugxSdvS,SAMEA12940662,ST2006,Spain,human,2019.0,0.0,Spain,ST2006,0,0,1
+7dBBbaS4kLLUC4KG1V63My,SAMN39862140,ST3200,China,laboratory,2023.0,4.0,China,Other,1,1,1
+a36PoHguAWnJac3RHAiHz9,SAMEA120308316,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+2CvfEdAXWaxiT2noGqtiUo,SAMN16685850,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+1Q2n2iZG1Yqfn4h2Z5dEsA,SAMN37671771,ST454,Portugal,human,2019.0,0.0,Other,ST454,0,0,1
+9pueTjY6yr88YME3vkZPYW,SAMN44456931,ST1563,United States,human,2021.0,2.0,United States,ST1563,0,0,0
+njKcCKMkKsZon5EnpHCo24,SAMEA5049901,ST4551,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+ocSGZe2ZX4Z8VWyprdwnBN,SAMEA113550314,ST697,United Kingdom,plant,2019.0,0.0,United Kingdom,ST697,0,0,0
+6PRTERnmaoJuSS5mTG8TnW,SAMEA5684344,ST7049,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+dmdtgcZp6CkqKK5RFHBsEX,SAMEA5684340,ST7049,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+oFbn5iTBT7YS7VW1YYs9qV,SAMN14967672,ST1381,United States,human,2019.0,0.0,United States,Other,1,1,0
+9xSjVLQs6ZR1LkjDz71jnm,SAMN37733889,ST919,Spain,environment,2022.0,3.0,Spain,ST919,0,0,1
+gc2y6czXiruZmsBTNZETzc,SAMEA5049400,ST2950,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+fgsZaAvUGVADBy1q6HfS5C,SAMN44575926,ST4367-1LV,Fiji,human,2020.0,1.0,Other,Other,0,0,0
+qr4Z4NfDhw8rp5GKT5xVsX,SAMN25041784,ST5726,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+e5DK99yt7WPThn348jmtZS,SAMN31713205,ST197,United States,human,2022.0,3.0,United States,ST197,0,0,1
+e5ZCwC4bWYYrQb2xs8ygoB,SAMN48969829,ST4727,Thailand,food,2018.0,-1.0,Thailand,Other,0,0,0
+joNmzmQ1siQHBQ162XvKpX,SAMEA4781767,ST1023,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+j4Nup7KgUMqYW9Ps8i2BDg,SAMN26369113,ST925,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+mDKAKtmoL7f5NKZGZTRgED,SAMN29577034,ST3936,United States,human,2022.0,3.0,United States,Other,1,1,1
+agZcc8ybWSt582beuKMrno,SAMN19016368,ST1737,Colombia,human,2018.0,-1.0,Other,ST1737,0,1,1
+oXSbhbcYQ92pkaHXasNtQ8,SAMN26101428,ST641,United States,human,2019.0,0.0,United States,ST641,0,0,0
+dkXCXzohHTzNDnAkeAUxuU,SAMN14394643,ST1478,Unknown,plant,2019.0,0.0,Unknown,Other,0,0,0
+1MDmhm8X2HshMeSvDwRrye,SAMN26976455,ST697-1LV,United States,human,2018.0,-1.0,United States,Other,0,0,0
+eK6Wwo88AaAw1FNNJ9SeVq,SAMN38062317,ST641,United States,human,2023.0,4.0,United States,ST641,0,1,1
+rfMS9bLMEx3uWM4mmXhVHD,SAMN40918468,ST6219,United States,environment,2024.0,5.0,United States,ST6219,0,1,1
+piQhuvuFcBUtdRwAVvnQSp,SAMEA111504044,ST208,Croatia,human,2020.0,1.0,Other,ST208,0,0,0
+eNyrAEibRRTehhtn9JAq5k,SAMN18762351,ST2465,South Africa,animal,2018.0,-1.0,Other,Other,0,0,0
+cCYzPjTvdqZ81SsWrqdEA8,SAMN40161033,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+nW4WuwvXPpzcLAMztVv8DD,SAMN41914979,ST697,United States,environment,2024.0,5.0,United States,ST697,0,0,0
+aEwFBjWSgDHVXW78QGF3zi,SAMN40918470,ST6219,United States,environment,2024.0,5.0,United States,ST6219,0,1,1
+rtDdV2aRdcGJ4ie3xvPjzC,SAMN24592236,ST1209-1LV,United States,plant,2020.0,1.0,United States,Other,0,0,0
+3nt7tntwhDTgBqg1um2o73,SAMEA120308663,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+nE7fnwNR4fLxqrq8UiePe8,SAMN35141348,ST1737,United States,human,2023.0,4.0,United States,ST1737,0,1,1
+3tvcJTgkV6ejA9tTmWeqGG,SAMN49947556,ST1562,United States,human,2025.0,6.0,United States,ST1562,0,1,1
+pXqF7SyzF7cie54pBjZXYn,SAMEA9454655,ST4598,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+riAXioaHMKgM9VtbRX6shM,SAMN32422707,ST357,China,human,2021.0,2.0,China,ST357,1,1,1
+pqwFwBH9ataLCjkZq7a13W,SAMN23286206,ST347,Australia,human,2020.0,1.0,Australia,ST347,1,1,0
+r7Xtb5McinUrrhsDQQ8u2m,SAMN26368947,ST347,Australia,human,2020.0,1.0,Australia,ST347,1,1,0
+2V1xT8CdCAggerkaD26TvJ,SAMN53286826,ST1563,United Kingdom,human,2023.0,4.0,United Kingdom,ST1563,0,0,0
+tMTCVuVvtiAW4pUtYqi66Q,SAMN29440613,ST1562,United States,human,2022.0,3.0,United States,ST1562,0,0,1
+x95aaXHhL7oTKSM16TDuFp,SAMD00501341,ST5266,Japan,human,2019.0,0.0,Japan,Other,1,0,0
+3G5APdAyP1cTjiyMUZbrQ9,SAMEA114784678,ST5771,Denmark,human,2019.0,0.0,Denmark,Other,0,0,0
+jVe1QgPPH7pZSAp6EgoXeM,SAMN44575782,ST3529,Fiji,human,2020.0,1.0,Other,Other,0,0,0
+bxoWE8RWBy8Xk7CcFTsmMj,SAMN26422248,ST981,Türkiye,human,2018.0,-1.0,Türkiye,ST981,0,1,1
+v8NeDmpWesh9V83WUCqUHL,SAMEA5048740,ST1563,Italy,human,2018.0,-1.0,Italy,ST1563,0,0,0
+vg8bmLRfcFSVYPJaHGNaTs,SAMEA111506031,ST6075-1LV,Spain,human,2020.0,1.0,Spain,Other,0,0,0
+6hNKwpbJF17SRndVQuYSwf,SAMN34138263,ST6966,Canada,human,2021.0,2.0,Canada,Other,0,1,1
+8dTK9H5Pv6iJG3SVA9fat6,SAMN26368921,ST205,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+n2HstFMStURMfiZ9rRwR3Q,SAMEA8262422,ST681,Bulgaria,human,2019.0,0.0,Other,Other,0,0,0
+eUnj4A5NC9htnR9Q5sj5oa,SAMN28626235,ST641,Norway,animal,2019.0,0.0,Norway,ST641,0,0,0
+oiuTWrHUj9B4pG88LBRZWc,SAMN22136652,ST6797,China,human,2020.0,1.0,China,Other,1,1,1
+pq4wy1guQvRRvvSYfNwa4N,SAMEA4781790,ST347,Italy,human,2018.0,-1.0,Italy,ST347,0,0,0
+kEcWD3qShhQEGnPtxCJPxt,SAMEA114438911,ST3477,Spain,laboratory,2020.0,1.0,Spain,Other,0,0,0
+k7EZaM4PXj6PenGfZ9KLHX,SAMN46862860,ST4312,Switzerland,animal,2024.0,5.0,Switzerland,Other,0,0,0
+aFMgZb2RcE1Mey9UXYFEzc,SAMEA9453235,ST360,Croatia,human,2019.0,0.0,Other,Other,0,0,0
+42gNTawJu8TUaPGxU5qDCi,SAMN48969795,ST4753,Thailand,food,2018.0,-1.0,Thailand,Other,0,0,0
+uxLffiyoznPJQTSaLSo4cA,SAMN48918376,ST454-1LV,United States,animal,2025.0,6.0,United States,Other,0,1,1
+dZq5gTtAmXFwy5fuhCeZaa,SAMN42370410,ST926,United States,human,2024.0,5.0,United States,Other,0,1,1
+jkhXV7xKk7z5uFamygfbWU,SAMEA5050046,ST7025,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+n3Kw7pgqYxDnCKTd1PwuNc,SAMN26369239,ST1563,Australia,human,2020.0,1.0,Australia,ST1563,0,0,0
+gG3U1qNeFTnZdtSrAQyYVG,SAMEA111504230,ST1456-1LV,Czechia,human,2020.0,1.0,Other,Other,0,0,0
+qy9eAb1FLLUdDhV8dRrrat,SAMN19607322,ST4596,United States,human,2021.0,2.0,United States,Other,0,0,1
+b6J5DTTZC9r4cNYoRRZ3Ff,SAMEA111506156,ST2964-1LV,Switzerland,human,2020.0,1.0,Switzerland,Other,0,1,0
+iYWsVzRB79dr7sLurxXo2H,SAMEA5048825,ST6238,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+n9gJWgGMi12ANQbH5a7waa,SAMN49105064,ST597,United States,human,2025.0,6.0,United States,Other,1,1,0
+9FzMRi6rYu1zE8wWh4MKfu,SAMN36673196,ST2295,United States,human,2023.0,4.0,United States,Other,1,1,0
+vqFEFNMrhq8cjtcnkBAyaT,SAMN50581010,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+jP7Ph45F9nt9hkXNpySWb3,SAMEA7077156,ST4609,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+fdfRPR3sANmCNnmxdgFyJ9,SAMN42761218,ST4587,United States,human,2024.0,5.0,United States,Other,0,0,1
+iRcgGT3HsxaDE9sLzYXMpL,SAMN25041651,ST5683,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+hww4jk3nwLX538tj7ZDRrK,SAMEA111505229,ST1094-3LV,Nigeria,human,2020.0,1.0,Other,Other,0,0,0
+oH3VUFf8ebLxjLY8NzmZVA,SAMN36415700,ST925-1LV,United States,environment,2023.0,4.0,United States,Other,0,0,0
+xf3fXnBYAKhEDHK1cmdP5B,SAMEA115162998,ST712,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+53h6JmB4wCmRw7G6h5EC54,SAMN26101589,ST355,United States,human,2020.0,1.0,United States,ST355,0,0,0
+nL3viDBb4FuCUBQGqriM8h,SAMN32923553,ST641,United Kingdom,unknown,2021.0,2.0,United Kingdom,ST641,0,0,0
+mUjyz7PZRZy2DVKGU83Mof,SAMN34403788,ST925,United States,human,2023.0,4.0,United States,Other,1,1,1
+pWzvAhmHhCEfA8GRCrg7SU,SAMN53909758,ST1505,United States,animal,2021.0,2.0,United States,Other,0,0,0
+jAHK5PnBXPmG6RjP7jgUxB,SAMEA5049975,ST3924,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+u79DLdG599ojSH6ygnZ3SA,SAMEA120304009,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+k6EfdarMevfZEmSFvXChMV,SAMN44973270,ST1098-2LV,United States,human,2023.0,4.0,United States,Other,0,1,1
+aLJmKnqhVbKxqWW3JRSd9u,SAMN26101588,ST1462,United States,human,2020.0,1.0,United States,Other,0,0,0
+j7d7DBAyWZMKHrrpMNbZPp,SAMN25041644,ST5679,Guadeloupe,environment,2018.0,-1.0,Guadeloupe,Other,0,0,0
+7PeZ9gEHRz1NGCKrwkcNdE,SAMN39734078,ST4313,United States,environment,2024.0,5.0,United States,Other,0,0,0
+vLv1Q8TQ8vZLQT3W6aBFTF,SAMEA5684280,ST1994,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+8q2EfZhL7BDieVijx3YQsh,SAMN34411565,ST347-1LV,Cambodia,human,2022.0,3.0,Other,Other,0,0,0
+oux21RnteYm5G9nQWhpBvB,SAMN49914417,ST6219,United States,human,2025.0,6.0,United States,ST6219,0,1,1
+9HzYBewoYKTPwSzYae1Jpo,SAMEA11291391,ST5857,Austria,food,2019.0,0.0,Other,Other,0,0,0
+tAuwMXZ4CRKF5EsuVwZ5M5,SAMN19016649,ST971-3LV,United States,human,2018.0,-1.0,United States,Other,1,1,0
+p6kxSJqmr5B8zdYGDSCVQe,SAMEA5049782,ST681,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+9VEeBJnPbRaC9wKkxmVkDz,SAMN20033630,ST4197-1LV,Australia,human,2020.0,1.0,Australia,Other,0,1,1
+u1BMd511xNcmT2fviKkBVH,SAMN16685852,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+dxWbrHmL2n7gVo2hUNKaTD,SAMN53286999,ST4174,France,laboratory,2023.0,4.0,Other,ST4174,0,0,0
+6vEEDyXK4XHdQVVPbXUtB6,SAMN50387395,ST4524,United States,human,2025.0,6.0,United States,Other,1,1,0
+2t3Z4fGFPjTeegj8firwme,SAMN36082935,ST641,United States,human,2023.0,4.0,United States,ST641,0,1,1
+dxKS3xqHUUmaFJ6X4cyuWu,SAMEA5048814,ST2069,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+sn12JwFdkRhhwcAGjmVW83,SAMEA113605533,ST4175,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+hrbxZg2xfv49fRH7fuHQNN,SAMN25413129,ST250,China,human,2018.0,-1.0,China,ST250,1,1,0
+6n9bykmg7PuA98PNWbe1oS,SAMN19856760,ST1899,Unknown,environment,2020.0,1.0,Unknown,Other,0,0,0
+mZmhtpeK4ZBkJHaFVb4oH2,SAMEA5049899,ST357,Italy,animal,2018.0,-1.0,Italy,ST357,0,1,0
+euuvhSPB5GrkEQr7Ebr36i,SAMEA5050139,ST1899,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+94FE9afBcgrS5EwBFxLf1e,SAMN25041615,ST3946,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+m7DuExxzurNYpz9uD5juw3,SAMN36415737,ST454,United States,environment,2023.0,4.0,United States,ST454,0,0,0
+jeTYeheaSwYP68kcdzz3cJ,SAMN40918473,ST2006,United States,environment,2024.0,5.0,United States,ST2006,0,0,0
+umLVwau5L9wggYVMaw5wzf,SAMEA115874794,ST347,"Tanzania, United Republic of",human,2021.0,2.0,Other,ST347,0,0,0
+pg9vM29sG4Q4m8w3GjP8nr,SAMN48972268,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+ow7ngm7qUsdfPriVdPmNJL,SAMEA113605467,ST681,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+mVvcRs5MndavqExVVGQ22p,SAMEA113605768,ST3971,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+imdUgLMkD1n6sU7w5GgCkq,SAMN26368999,ST347,Australia,human,2020.0,1.0,Australia,ST347,1,1,0
+cgLLUzeSV46fA9cpkL7m3t,SAMN23286207,ST347,Australia,human,2020.0,1.0,Australia,ST347,1,1,0
+4DWbUYTq2ozcXKy5VqEmpY,SAMEA5050029,ST5710,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+takKGkE4hVK1YiUxrqBK4X,SAMEA5050048,ST7027,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+rhnU971Beii9sSwHiC86ZP,SAMN38335505,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+atDTnUpCQgBShpBnvUmY9P,SAMEA113605092,ST3086,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+dv7SNdGhtoXXnfJT9bLznE,SAMN41407114,ST3517-1LV,United States,human,2024.0,5.0,United States,Other,1,1,1
+9rZ2jkKSDtD4g3NhyLvuXT,SAMN43931410,ST3029,Argentina,human,2023.0,4.0,Other,Other,0,1,1
+fYiLJuPJcCWKCbSZ8DGTPf,SAMD00499052,ST616,Japan,human,2019.0,0.0,Japan,ST616,1,1,0
+1ysFGRXKtv6kzfMDHLCyZX,SAMEA7565209,ST697,Sweden,human,2019.0,0.0,Other,ST697,0,0,0
+nme3xtGStdoB5xTwbZDxFX,SAMEA5050061,ST7033,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+qvsGhuzHNEKbY9ktxNJSdk,SAMEA5049727,ST7001,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+bWvV7R7L6FJifrBHsUD9UA,SAMEA113605851,ST2228,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+1u7SHVhsEdLmTQktXk6VNA,SAMD00552291,ST1550-2LV,Japan,human,2021.0,2.0,Japan,Other,0,0,0
+qvCHGBuNPNckKJ5Gte4Ycm,SAMN50581008,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+dtNBx61umCAh3beh7fi7Dn,SAMEA114784684,ST5779,Denmark,human,2019.0,0.0,Denmark,Other,0,0,0
+kq8tSEXZ9dbqVZMvXzUv7L,SAMN46859442,ST1791,Australia,human,2022.0,3.0,Australia,Other,0,0,0
+cBS8h1zKzoUxPFzjxhDGjU,SAMEA5049758,ST1845,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+u2iFmGzTtJfJ3a2SYKGX1B,SAMEA5049988,ST3953,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+bASuqRmovENhSU84pHZD2r,SAMEA113606019,ST3964,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+vmMv9Bfca6cZvazDw84Zy7,SAMEA9454647,ST2488,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+qgtLGvVxMJcWGEfUpL3K9X,SAMEA113605960,ST1174,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+nb2NqX2Y1s8muaheVKHKZt,SAMN41914971,ST5925,United States,environment,2024.0,5.0,United States,Other,0,0,0
+rFvRV9evto6KPyPVQmhkTS,SAMEA9454789,ST594-2LV,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+45qZQBi6T3Q2uwEvz9Dn6B,SAMEA9454492,ST3353,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+rVvnWL2sC43XunryuvLusJ,SAMEA5049743,ST4175,Italy,animal,2018.0,-1.0,Italy,Other,0,1,0
+uWxphgvYC4cUG7koEJkkVa,SAMEA5050263,ST2819,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+vE7rUV4qLm6uFHgmcHQEpc,SAMN23286210,ST5823,Australia,human,2018.0,-1.0,Australia,Other,1,1,0
+2fe8sBuCmikQMtEWNa2naa,SAMEA5684337,ST7049,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+vHD34ttaSjCsALBGCWW5Yc,SAMN46325094,ST5848,China,animal,2023.0,4.0,China,Other,0,0,0
+xBhQfCxiqXpF35ekByeyvi,SAMEA7077153,ST4752,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+uYKBzfgQKgjSJPF9agqQfH,SAMN31152641,ST1737,United States,human,2022.0,3.0,United States,ST1737,0,1,1
+o2d3KcYo89q47NHdap2fye,SAMN26368982,ST347,Australia,human,2020.0,1.0,Australia,ST347,1,1,0
+8UbtEXnXdeYLqM3DqwN9G4,SAMN23286208,ST347,Australia,human,2020.0,1.0,Australia,ST347,1,1,0
+13dXkQ4rRPWgbXT4Axmpiz,SAMN26101453,ST6891,United States,human,2019.0,0.0,United States,Other,0,0,0
+jA6adP9frcK1w2QgyNwptt,SAMN41581452,ST1875,United States,human,2023.0,4.0,United States,Other,0,1,1
+oSCCG7zpjjdVtWeUrPn3CY,SAMN26101538,ST5679,United States,human,2020.0,1.0,United States,Other,0,0,0
+ndrYE77ttYDbe7dNTyiQHp,SAMEA9453324,ST1791,Croatia,human,2019.0,0.0,Other,Other,0,0,0
+gYq9PwXq8drxFfdXk2EcVE,SAMEA5050154,ST596,Italy,environment,2018.0,-1.0,Italy,ST596,0,0,0
+cQfmznqNFEFNoL7fMRJqpm,SAMEA5050164,ST7047,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+7g3UpmvjkmbnHWPu3Ub1Pk,SAMN26976335,ST697,United States,human,2018.0,-1.0,United States,ST697,0,0,0
+vVsfkjEndcrPAvZPkMdNHZ,SAMN26369142,ST197,Australia,human,2020.0,1.0,Australia,ST197,0,0,0
+8U7Xhpw6Snp9BYEZFreTUm,SAMN26976448,ST368,United States,human,2018.0,-1.0,United States,Other,0,0,0
+a78g8Qig6buCumvQBnCH3V,SAMN26764921,ST454,Singapore,human,2020.0,1.0,Other,ST454,1,1,1
+1erCLWDH9CQWcNkPdQmAtp,SAMN26422269,ST981,Türkiye,human,2018.0,-1.0,Türkiye,ST981,0,1,1
+5FGNC2Trtp2dGRyAC3iG7o,SAMEA6656512,ST4115,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+vSrrMHd7QVEGXHYWkFRU5H,SAMD00502134,ST363,Japan,human,2019.0,0.0,Japan,ST363,1,0,0
+puZTDWavwFfNR3PhAHRbCP,SAMN26369067,ST616,Australia,human,2020.0,1.0,Australia,ST616,0,0,0
+2BQ6gGhiL4auNdwqQAwEob,SAMEA5049246,ST6950,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+jJE6qiKa4eLDFsby7JCXuq,SAMD00552184,ST357,Japan,human,2018.0,-1.0,Japan,ST357,0,0,0
+eyygP6SR36ekj9hBouSXRn,SAMN49727593,ST285-1LV,Netherlands,human,2022.0,3.0,Netherlands,Other,0,0,0
+gLutTAHSUKsw1qbdoszFzY,SAMN35991963,ST209-1LV,Bangladesh,human,2022.0,3.0,Other,Other,0,0,0
+2EHoLeWmr62EASeEu4YFxo,SAMN26976331,ST1485,United States,human,2018.0,-1.0,United States,Other,0,0,0
+nJuh7zdCfeLeQxtATVQ6AS,SAMEA5048829,ST6238,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+omzj3ommTyZJADPXQCa4qQ,SAMN37798104,ST4368,United States,human,2023.0,4.0,United States,Other,0,0,1
+jjKiswtkY7ke9m6wjiW4SZ,SAMN26101529,ST4893-1LV,United States,human,2020.0,1.0,United States,Other,0,0,0
+nJiu5aP7Tgw4fT6VsemReb,SAMN47833567,ST616,Netherlands,human,2019.0,0.0,Netherlands,ST616,1,1,1
+2uBaG5GacaTDM9tTmxdMsu,SAMN48972561,ST2462,"Tanzania, United Republic of",human,2021.0,2.0,Other,Other,0,0,0
+3LwTs28g5UP9xZwiTpUyLG,SAMEA5049926,ST2594,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+24HCvgUn2uNPffhcWECEh2,SAMN47248662,ST1562,Portugal,human,2021.0,2.0,Other,ST1562,0,0,1
+j6bV8C4fi1eBWnBCZiy6yV,SAMEA4781961,ST2634,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+2KnR4Qp7rRVjT5RWg3tNRb,SAMN26369094,ST1562,Australia,human,2020.0,1.0,Australia,ST1562,0,0,0
+a1w2cw8z5rXhZDmjEEECdq,SAMN50352230,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+cqAQpSS6hkAk9mskUSAK11,SAMN16685851,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+3sn96obrzKM2Q6eNc5ZQWG,SAMD00501569,ST197,Japan,human,2019.0,0.0,Japan,ST197,0,0,0
+fTNXLSyKv4ZXWJF6Xe7YHx,SAMN25226683,ST250,United States,human,2021.0,2.0,United States,ST250,1,1,1
+eRHVKwN2oB5mqfNw5AV7d8,SAMN25041710,ST5697,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+631qMJftxMN35BNeqVyi8Y,SAMEA120308825,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+nL7dq1WDG2ZiRupA2Heq9A,SAMN38811508,ST4174,Canada,human,2020.0,1.0,Canada,ST4174,0,0,0
+a1tNtqkyAntAek2ryvGjiT,SAMD00552174,ST1050-3LV,Japan,human,2018.0,-1.0,Japan,Other,0,0,0
+pGqD1NdAnTdEfVqGJjQd74,SAMN48599112,ST1433-1LV,Slovenia,human,2025.0,6.0,Other,Other,0,1,1
+4Z2pPshjTsUAYSzPF95xZC,SAMN25041698,ST5693,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+ioKak9iL6sYiNYHYjbtuhQ,SAMEA4781285,ST360,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+udpZkmv9k5xFS4HJP9yUPW,SAMD00498876,ST2388,Japan,human,2019.0,0.0,Japan,Other,1,1,0
+pLSAjCRbCdjB8SiQDUwKdb,SAMD00502121,ST1423,Japan,human,2019.0,0.0,Japan,Other,1,0,0
+9LBUnyEKovbWoStDh5D5j2,SAMN32923635,ST3699,United Kingdom,unknown,2021.0,2.0,United Kingdom,Other,0,0,0
+oMNhq1BLtr5naC9AGDgRfC,SAMN23286218,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+2nr1tgC5QxrvdaXuctFs9P,SAMN25041880,ST2551,Guadeloupe,human,2019.0,0.0,Guadeloupe,Other,0,0,0
+6YSfidF9rCXx7MeWmM1ssw,SAMEA5049174,ST205,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+jkJZixLinHgpD5TaVK3EpL,SAMEA5049433,ST2950,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+mgBbn1XJyc955LoVkPAQWZ,SAMEA120221853,ST697-1LV,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+jPLcTjwsDTkmAGw9vjCTGM,SAMN40738337,ST454,United States,human,2024.0,5.0,United States,ST454,0,1,1
+og8K9a11FkWDJ4YWPXeqhe,SAMEA111547239,ST4149,Spain,human,2020.0,1.0,Spain,Other,1,1,1
+wN2yU7RfxBVEMNiS2tojuP,SAMN42586369,ST3927,United States,human,2024.0,5.0,United States,Other,1,1,1
+qeBdmMHf6Aq2zYoxt4QRWo,SAMN26976483,ST697,United States,human,2018.0,-1.0,United States,ST697,0,1,1
+iA2sddsrw14pCk3cFqeZ4R,SAMN53909759,ST355-1LV,United States,animal,2021.0,2.0,United States,Other,0,0,0
+4DMx2fFuUA6gc91ZFAeLwe,SAMN26976400,ST595,United States,human,2018.0,-1.0,United States,Other,0,0,0
+hQe1x5kYwJQQqJ3ka4m7gx,SAMN40918474,ST2006,United States,environment,2024.0,5.0,United States,ST2006,0,0,0
+bk8aQwCoGLptHHikLu8ySX,SAMEA113605089,ST3201,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+kznYrf9pTYcvwS5nYNa8Xb,SAMEA111505408,ST6903-1LV,Pakistan,human,2020.0,1.0,Other,Other,0,0,0
+we6ZiBvZVQEYBKmZVAtkVh,SAMEA5684216,ST6238,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+3ic2RUEJ42NoDALUtYm5p6,SAMN23286228,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+9vPutXSwv5Ftqwx8svAKwg,SAMN29503496,ST4955,Canada,human,2019.0,0.0,Canada,Other,0,1,1
+oh5DR9Z9GcEc33Lxgprq49,SAMEA4781992,ST1469,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+qdX23oBazunfNnmoZnJQya,SAMEA5049944,ST3529,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+iaUVrfaAxWZ6U2g91oEPvS,SAMN26369219,ST1563,Australia,human,2020.0,1.0,Australia,ST1563,0,0,0
+rrd5Dx9M9eo1V5ygA2gi1c,SAMN31390134,ST1737,United States,human,2022.0,3.0,United States,ST1737,0,1,1
+wjncVZzaajKozmydQPNdqc,SAMEA120308466,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+mjL4YBEzJ3XXd7fPmFVBzX,SAMN23286230,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+wqPX7gqYmMgMEE8jFsSfTq,SAMEA114784682,ST355,Denmark,human,2019.0,0.0,Denmark,ST355,0,0,0
+v2cijbv1yYBh8pRkKzHcs6,SAMN47788347,ST255,United States,human,2024.0,5.0,United States,Other,0,1,1
+6UvVAvPneAvjYTsRDbjitJ,SAMN28626258,ST2594,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+eYyu3aWrzggjmrFc2HDacj,SAMN42337636,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,0,1
+7HyhN9S1VrHACiucXLbYKi,SAMN50581009,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+7N7TQudZJ5vR6gQW5tyAiW,SAMN23286220,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+2PQNvAqjftjDWHkaF58ZWf,SAMEA8263227,ST208,Bulgaria,human,2019.0,0.0,Other,ST208,0,0,0
+fee9KiXn4zRxQ5kM1XjHkA,SAMN23286213,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+9wSP88WnvEvoHycwngrbEN,SAMEA111504493,ST209-1LV,France,human,2020.0,1.0,Other,Other,0,0,0
+cGoFHcqyERRGiiHkxSyyYT,SAMD00500590,ST3134-1LV,Japan,human,2019.0,0.0,Japan,Other,0,1,1
+wNQwzKT5zwJzPNNgGMTXys,SAMEA6657468,ST2995-1LV,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+t29wLU8KX6c8sEjpS7UviP,SAMN50601332,ST697,United States,human,2021.0,2.0,United States,ST697,0,0,1
+bPnVKJ11yuTYP7PdQZkQtc,SAMN15226415,ST197,United States,human,2019.0,0.0,United States,ST197,0,0,1
+tuED94NLpxoVUQfjbTPiEw,SAMEA4623358,ST639,United Kingdom,human,2018.0,-1.0,United Kingdom,Other,0,0,0
+tdSpN8LmH4pYghmsCJgGJw,SAMN22329108,ST6893,United States,human,2021.0,2.0,United States,Other,1,1,1
+gSakuiawrxUhpWfsZTxNxN,SAMEA5050191,ST7048,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+n56JM8BZxgYJW5yqnV3tSD,SAMEA116304275,ST4315-1LV,Norway,unknown,2020.0,1.0,Norway,Other,0,0,0
+iLxv9ouNGHB8cjSf4WEqe3,SAMN46859435,ST641,Australia,human,2022.0,3.0,Australia,ST641,0,0,0
+8F2AJLpWxTU7jg3xLWJx3z,SAMEA8262400,ST4599,Greece,human,2019.0,0.0,Other,Other,0,0,0
+6iV1qBvJXCYJGW1o1d5G5L,SAMN25041728,ST5703,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+w9YyT9Em1b8SePG7ZoUevB,SAMN40296486,ST1737,United States,environment,2023.0,4.0,United States,ST1737,0,0,0
+gym6sUwjdXk5d2LydskjK1,SAMN26422243,ST981,Türkiye,human,2018.0,-1.0,Türkiye,ST981,0,1,1
+mHwk1j3X9ihiMC6vyBjMqc,SAMN25041595,ST5646,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+sB2cnbkNYeW9ohqvJceo1G,SAMN37567195,ST919,United States,human,2023.0,4.0,United States,ST919,0,1,1
+aHRZCZ6Xr5MYfv4nXaTkZt,SAMEA8262402,ST1757,Greece,human,2019.0,0.0,Other,Other,0,0,0
+6Fj2g3WCMV1oYEy1R9FihA,SAMN44750882,ST355,United States,human,2024.0,5.0,United States,ST355,0,1,0
+kqLXhDva7da77h9MyFAm2S,SAMN47436290,ST5703,Uganda,human,2023.0,4.0,Other,Other,0,0,0
+6TqoNDDjocm2KLw4Px7WLv,SAMN42744314,ST6212-1LV,United Kingdom,human,2021.0,2.0,United Kingdom,Other,0,0,0
+mUJdTyWhqskUXpC658yZZZ,SAMN14649951,ST5763,Singapore,human,2018.0,-1.0,Other,Other,0,0,1
+ky7sXezAKH2vRTMqZWzJ9r,SAMEA11291437,ST4997,Ireland,food,2019.0,0.0,Other,Other,0,0,0
+hTtF8kXgspLC4iTp6pyztK,SAMN26369095,ST1230,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+gsLSgXkuLS9MVMieJ7bZgg,SAMEA5050127,ST7042,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+uUr6keKfsTkUg1CFCoaqbg,SAMN50581012,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+2ZCFSdLBqvNazJQnXpw5bx,SAMEA113605447,ST725,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+ista8YL8jJBBFygxMwG9XS,SAMN46859412,ST1023,Australia,human,2022.0,3.0,Australia,Other,0,0,0
+rXdZ8ZqeoR2GKGF4ktB4As,SAMN20033514,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+o81DATBWruGJqYkL35145r,SAMEA113550283,ST616,United Kingdom,plant,2018.0,-1.0,United Kingdom,ST616,0,0,0
+dcJcdv9QbddTfidpxVJry5,SAMEA5048754,ST6981,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+2X22bg7cVaDyjKDbPcfEjS,SAMEA8262892,ST536-2LV,Greece,human,2019.0,0.0,Other,Other,0,0,0
+44qzM6KEKSMbmJZnQ18isy,SAMN32721413,ST1582,Australia,human,2020.0,1.0,Australia,ST1582,0,1,1
+hmoUoJwcuVGxW8fmM8xU6V,SAMEA111505894,ST347-2LV,Paraguay,human,2020.0,1.0,Other,Other,0,0,0
+eo4GkntoaKDMJsgiUaBkB2,SAMEA5049959,ST7017,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+k83BrLbd2NZQNUnuvAUarR,SAMN56010131,ST1469,United States,human,2026.0,7.0,United States,Other,0,0,1
+nh3vumrSai8eWmhjUV6gyS,SAMEA120304041,ST4412,Germany,human,2024.0,5.0,Germany,Other,0,0,0
+u1iQ5u2PufcjNeDpYqsKH8,SAMN49616985,ST1456,United States,environment,2025.0,6.0,United States,ST1456,0,0,0
+5yp4VymU2T1jw8VxjDXXN7,SAMN48972180,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+85jhMaSiadnx43ctRLNwpq,SAMEA114240983,ST2790,Germany,environment,2020.0,1.0,Germany,Other,0,1,1
+nxmmmu54Uud9kZ6qmAgccR,SAMN53909963,ST2994-1LV,United States,animal,2023.0,4.0,United States,Other,0,0,0
+dYowEcUAYXcv9d1cJg9x72,SAMEA113605901,ST2634,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+xe9Hgay6RonuNA9MHjpwdz,SAMN35159628,ST447,United States,human,2021.0,2.0,United States,Other,1,0,0
+iaJejV8PyUwzLqF9R7YDAN,SAMN53286998,ST4174,France,laboratory,2023.0,4.0,Other,ST4174,0,0,0
+jirq1UZUo8AheTH1NkPxwj,SAMN25041640,ST5677,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+je8RFxVsws2HYbHkecqszW,SAMEA115100315,ST981,Switzerland,human,2022.0,3.0,Switzerland,ST981,1,1,0
+8JkLwvAZMdA4Mkni5c6ejT,SAMN38120353,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+ru9oxtK26jr6jVw1A9S3NJ,SAMEA4782019,ST1255,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+g53bwgcY33LWXQ5EWxnZtB,SAMN40918484,ST6219,United States,environment,2024.0,5.0,United States,ST6219,0,1,1
+jCPUy8ZpxbmpwAixmdGUv3,SAMN50352228,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+kHao7wJv4ztdeT6LTgKd6r,SAMEA4781558,ST208,Italy,food,2018.0,-1.0,Italy,ST208,0,0,0
+hU5BJtYHv4TbkoGXtLpJpt,SAMN46343059,ST1378,Canada,human,2022.0,3.0,Canada,Other,0,1,1
+jUAvzD7ExrEi2FAxJduW6M,SAMEA8263158,ST1562,Bulgaria,human,2019.0,0.0,Other,ST1562,0,0,0
+8VwXw1WkqVvDCvChsinCHk,SAMN48972186,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+6sUHnxjNYRNq2b9eMQ4JUr,SAMEA8262343,ST1773,Portugal,human,2019.0,0.0,Other,Other,0,0,0
+wwzuLeCeMxsRXbDVy27JCi,SAMN12220373,ST1050,United States,human,2018.0,-1.0,United States,Other,0,0,0
+bixPtibdGym4hbVBEXYoAK,SAMN55987434,ST1737-1LV,United States,human,2023.0,4.0,United States,Other,0,0,0
+wRW1CEhR1hTBUJE5nxJMGH,SAMEA5050097,ST388,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+aBwH5akevWShVcVVdaRRRh,SAMEA113605718,ST4361,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+tR6uFzazcsbn7Vx7V62gY3,SAMEA5049753,ST7003,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+cyA86g4UxiBUYHgeFycuTU,SAMN36729014,ST4955,United States,human,2023.0,4.0,United States,Other,1,1,0
+4zZFzB4y7PdyddkfEdTPys,SAMEA5050053,ST454,Italy,environment,2018.0,-1.0,Italy,ST454,0,0,0
+6pbTZUnNzY2B5hqNzCHHdT,SAMEA5048971,ST1688,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+6SrdZ8tzRsAcevgeRwPSWb,SAMN26101612,ST3398,United States,animal,2020.0,1.0,United States,Other,0,0,0
+eWFu5wh3Q3Ca29G43QAof7,SAMEA5049939,ST355,Italy,animal,2018.0,-1.0,Italy,ST355,0,0,0
+9Et88QxawSMikXNt5qXQdX,SAMN52880182,ST1599,Netherlands,human,2021.0,2.0,Netherlands,Other,0,0,1
+bs3we95T22qayoeGtH8h6X,SAMEA4781701,ST596,Italy,human,2018.0,-1.0,Italy,ST596,0,0,0
+7ZtDs1PHa9tJH5bfvp1hJF,SAMN38811474,ST4079,Canada,human,2020.0,1.0,Canada,Other,0,0,0
+4ypHUz5CMorGa4J6hLFBjf,SAMN26369085,ST6768,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+pqnNa62UvGVkjyCqJ9kjff,SAMN51241969,ST355,United States,human,2025.0,6.0,United States,ST355,1,1,1
+eoamWYEgiz3qSBFJxeUqmZ,SAMN35991916,ST2978-3LV,Bangladesh,human,2022.0,3.0,Other,Other,0,0,0
+fN9bPqBijSJVV8vVp4Hf3i,SAMN49149808,ST539-2LV,United States,human,2025.0,6.0,United States,Other,0,1,1
+8KXBWcQmahBxTrJfzLGrKy,SAMN25041799,ST4174,Guadeloupe,animal,2019.0,0.0,Guadeloupe,ST4174,0,0,0
+39PWd7UdkuK7curZWs8M4V,SAMN53909889,ST4373-3LV,United States,animal,2022.0,3.0,United States,Other,0,0,0
+hHFZSd8YuNzJoa6Jec5sf9,SAMN38120352,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+1d3n1G1Bk73rUDTwGkxhMU,SAMN49716667,ST2994,United States,human,2025.0,6.0,United States,Other,0,0,1
+bsnD9WRYP63V92RMQmKbFg,SAMEA5050042,ST7024,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+pcpjxUPNxUv7dWfmD1yk1x,SAMN45046076,ST6790-1LV,United States,environment,2023.0,4.0,United States,Other,0,0,0
+6UFDAPNmBimaeG3K5JMPSk,SAMEA112622404,ST4609,Cameroon,unknown,2020.0,1.0,Other,Other,1,1,1
+79ZQRQ6WXg7ryzv6Gtnsx3,SAMN26422391,ST981,Türkiye,human,2018.0,-1.0,Türkiye,ST981,0,1,1
+pJbahy71NG13VUzzBswbEN,SAMEA5050185,ST4174,Italy,animal,2018.0,-1.0,Italy,ST4174,0,0,0
+2uu1vQ6zrGoXoxcBeMhGKF,SAMD00501366,ST6314-2LV,Japan,human,2019.0,0.0,Japan,Other,0,0,0
+g4yp7g15fTHwb36yA3xbip,SAMEA4781706,ST596,Italy,human,2018.0,-1.0,Italy,ST596,0,0,0
+iezA3pLPKsXWtFqjUx7NFY,SAMEA113550272,ST347,United Kingdom,plant,2018.0,-1.0,United Kingdom,ST347,0,0,0
+nSdZBELdxFQk5MYtKzNy3y,SAMN26976382,ST767,United States,human,2018.0,-1.0,United States,Other,0,0,0
+sc14EP4xnybJ7Qcadc3s4d,SAMN43367435,ST1423,Guatemala,human,2021.0,2.0,Other,Other,1,1,1
+inxtDZBx3DSNqqJRERSjjG,SAMEA111505230,ST4971-3LV,Nigeria,human,2020.0,1.0,Other,Other,0,0,0
+mFDeZfRsnSYbRfGYUieX6k,SAMN55366178,ST205,Canada,animal,2023.0,4.0,Canada,Other,0,0,0
+6c1eHqvHGCHPS52JrwrerR,SAMEA112330470,ST1751,Germany,human,2022.0,3.0,Germany,Other,1,0,0
+cSW42k4BrHuPdKN2k1XBhj,SAMN40375949,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+5dQHyAMc1RcQzywpV6VYNR,SAMN31152642,ST1737,United States,human,2022.0,3.0,United States,ST1737,0,1,1
+cxMVjSFzXmUoKzP6VGvyBd,SAMN41789301,ST2466-4LV,United States,environment,2023.0,4.0,United States,Other,0,0,0
+1fcwyaWpKA37DMHX7W4PtA,SAMEA120304012,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+qrM9Jg8VWowAo7UuAhU8ut,SAMEA113605738,ST3086,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+huwEMZHZ5uVBd4NL8efkpm,SAMD00552229,ST208-1LV,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+kxzNhYU7pjmjUGyutBUCJ2,SAMEA113605038,ST4355,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+6F4wFrjF4wD7jzy8og59vX,SAMEA111505290,ST4365,Norway,human,2020.0,1.0,Norway,Other,0,0,0
+ufV3viwmKzyk6zjULupCJK,SAMN26369295,ST1980,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+dQM3MzwfQJF7qTL2d9N7zV,SAMEA5049056,ST2477,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+bsTHaxZsBiGBF9h54YnoHX,SAMN50093733,ST1563,United States,human,2020.0,1.0,United States,ST1563,1,1,0
+7afKpsVwNtiUxcNh6RJ2dB,SAMN35991973,ST197-3LV,Bangladesh,human,2022.0,3.0,Other,Other,0,0,0
+smAmhBsf88hF6Efpc16BTB,SAMN42337635,ST1453,United States,human,2024.0,5.0,United States,Other,0,1,1
+pbbsZJCuzhZsUS9LR2rTsa,SAMEA5050024,ST4670,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+8aTg9tMtcDML4sosPyZiq5,SAMN26369009,ST2456-2LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+66YdDheVeEXgi6RnBF3j97,SAMEA5050157,ST7022,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+tpHniWFQbZaqY9f45B99PT,SAMEA9454005,ST250,Italy,human,2019.0,0.0,Italy,ST250,1,1,1
+vCHztnzVYvqchrHpV4MmnM,SAMN41693278,ST205-1LV,United States,human,2024.0,5.0,United States,Other,0,1,1
+7WMj8w6RcJ1HM9L8xNGkP9,SAMEA5049159,ST6988,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+aTyxMjrxErQn37rBrivupb,SAMN33406808,ST1423,Colombia,human,2018.0,-1.0,Other,Other,0,1,1
+fwn4sFMtAXGS3Nyub7xocy,SAMEA5049191,ST4174,Italy,environment,2018.0,-1.0,Italy,ST4174,0,0,0
+hp9pWsePTrg3M1gozJ4few,SAMN38811526,ST4955,Canada,human,2020.0,1.0,Canada,Other,0,0,0
+hTpw186stCVv42su4pnBEd,SAMN48972495,ST2645,"Tanzania, United Republic of",human,2021.0,2.0,Other,Other,0,0,0
+pWTUxrbsR8TxFSGF2ZxQzF,SAMEA113605062,ST1250,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+37c18tTTQ4Kw1RnCtsmECS,SAMEA8262857,ST596,Greece,human,2019.0,0.0,Other,ST596,0,0,0
+xhQmPJYGm8ravR7zyy3X8J,SAMN25041708,ST5695,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+sFTmmmdih5s9rzHejSQDSo,SAMN22136650,ST3924,China,human,2018.0,-1.0,China,Other,1,1,0
+2uRk7SYWFaTgwm8jP3Z4Pu,SAMN40622528,ST1469,United States,human,2018.0,-1.0,United States,Other,0,0,1
+wSbBvPZuUfvhr3uZd479jR,SAMEA11577488,ST2006,Switzerland,human,2018.0,-1.0,Switzerland,ST2006,1,1,0
+9UzjHwyrrjWgndh9FxNaQX,SAMEA111504362,ST208,Ecuador,human,2020.0,1.0,Other,ST208,1,1,1
+fkovNBQ4LGG65e4cPta4zF,SAMN23286229,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+oaRa7EPQDbMQhjVQrdLETA,SAMN26369157,ST347,Australia,human,2020.0,1.0,Australia,ST347,0,1,0
+vbAhecZf4PPpUcBezGS8eT,SAMN49540052,ST1611-2LV,United States,human,2025.0,6.0,United States,Other,1,1,1
+4pdNK949Y3gQx6Wns54uHn,SAMD00499419,ST1615,Japan,human,2019.0,0.0,Japan,Other,0,1,1
+8TMKRhTQZsBn6MFDYsUh2v,SAMN48972178,ST3296-1LV,Ethiopia,human,2021.0,2.0,Ethiopia,Other,1,1,0
+rFyeVXmBr7HJZzEvMRZgv2,SAMN42886718,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+gk9z54exheJEujpT7XiQuk,SAMN13951925,ST3323-2LV,Switzerland,environment,2019.0,0.0,Switzerland,Other,1,1,1
+nsaTqi7MaHRKzBjW3ZAYns,SAMN40631749,ST938,United States,environment,2023.0,4.0,United States,Other,0,0,0
+q8Em9L6d6yfUUHVjxLFLJM,SAMN34114063,ST933-1LV,United States,human,2023.0,4.0,United States,Other,0,0,1
+gS8cXn2wgNhVHrsjdqN3RX,SAMN48972153,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+8chKUn8yie1MvM372JGZSf,SAMEA114784675,ST641,Denmark,human,2019.0,0.0,Denmark,ST641,0,0,0
+hVqseDVUnddyH9QhT96Vur,SAMN39272079,ST581,United States,human,2023.0,4.0,United States,Other,1,1,1
+kHUE6BjwXXQksqkEgXWGD3,SAMN25041812,ST4175,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+6NJbgM8wGQdi3tB37LKfE1,SAMN13286538,ST1783-1LV,Haiti,plant,2018.0,-1.0,Other,Other,0,0,0
+5YH9LS8qq7cD652uy85jcG,SAMN48972608,ST919,"Tanzania, United Republic of",human,2021.0,2.0,Other,ST919,0,1,0
+6DanMsEkeWn47RUPbn9Vjs,SAMN39997791,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+3CbenZ3Zc5ny4dMMmefwL8,SAMEA5050274,ST6979,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+ppLrMNHeFKg5RGipbo89Cp,SAMEA104567235,ST3353,United Kingdom,human,2018.0,-1.0,United Kingdom,Other,0,0,0
+ggGEd8ybKwzcmmXFdPgV1x,SAMEA11577389,ST250,Switzerland,human,2019.0,0.0,Switzerland,ST250,0,0,0
+3j6SnXMnS1v61dPrzghLfC,SAMEA113550593,ST6464,United Kingdom,food,2018.0,-1.0,United Kingdom,Other,0,0,0
+xiHmgo5zJiDkpgVcqLPJRE,SAMN26369121,ST1179-1LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+1dGDzVPhAPqoEnY9ybPVPe,SAMN34137723,ST6963,Canada,human,2021.0,2.0,Canada,Other,0,1,1
+6AiqZ3dfytaf587hZsL4BR,SAMN35360473,ST454,United States,environment,2023.0,4.0,United States,ST454,0,0,0
+2XDsEk5APvju8D5ZPzBjhx,SAMN22933789,ST1163,United States,human,2021.0,2.0,United States,Other,0,0,1
+pd83GUZ4a2hW8wytvHSNbU,SAMEA5050190,ST7048,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+wGg2QhpQx2gDJFYmJimJRr,SAMEA113605150,ST639,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+jefP4gw3gGtBf4PcYnevpv,SAMEA5049933,ST7011,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+fk2p7KMe39UyGQ3VFYzEum,SAMN53286828,ST1563,United Kingdom,human,2023.0,4.0,United Kingdom,ST1563,0,0,0
+rwkbm8LtdzScrFzQx218Xw,SAMN34154767,ST3517,United States,environment,2023.0,4.0,United States,Other,0,0,0
+wCszp1GQAXpbhXhbDNSTa5,SAMN26422276,ST250,Türkiye,human,2019.0,0.0,Türkiye,ST250,0,0,0
+wUWhRNCrxWHDp4xbQkhGuY,SAMN42394458,ST2006,United States,human,2024.0,5.0,United States,ST2006,0,0,1
+9kNpUntY2sBZudAAJWsBi6,SAMN35159377,ST3353-1LV,United States,human,2019.0,0.0,United States,Other,0,1,1
+6uFVQmgaKs7xyRnDdiNmGR,SAMEA111504229,ST1478,Czechia,human,2020.0,1.0,Other,Other,0,0,0
+9C5Q1nZfELx4uRBvjeLLFj,SAMN42235622,ST616,United States,human,2024.0,5.0,United States,ST616,0,1,1
+8kfXU9t9ngruRGmvu5EH9W,SAMN46859445,ST595-2LV,Australia,human,2022.0,3.0,Australia,Other,0,0,0
+1pBTLTw5yYdxrLpihWUPVF,SAMN34589385,ST6132,United States,human,2019.0,0.0,United States,Other,1,1,0
+5UWHKj86ugGZg7VGjD1L6x,SAMN46441118,ST3971,United States,human,2024.0,5.0,United States,Other,1,0,1
+b7cf77E17q53U55U4ge4Tw,SAMN26422281,ST250,Türkiye,human,2019.0,0.0,Türkiye,ST250,0,0,0
+r4Xx5hBNR2zBoxx9x5CEfG,SAMEA111504744,ST2309-1LV,Hong Kong,human,2020.0,1.0,Other,Other,0,0,0
+s6kwuU8rsnEgdXfNgwzUpF,SAMEA5049011,ST6986,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+uwDCHwu5pKPjmwiqSPe6nT,SAMN23286225,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+xzKGcevkvotSRJwNF1WnNR,SAMN48972204,ST1562,Ethiopia,human,2021.0,2.0,Ethiopia,ST1562,0,0,0
+byQVWXa69NMUWNkTQeyxWi,SAMN44575836,ST971,Fiji,human,2020.0,1.0,Other,Other,1,1,0
+cKDeyv5Wq1Jo34RvP5jXdh,SAMEA115709913,ST1994,Egypt,animal,2021.0,2.0,Other,Other,0,0,0
+iEvQsoA285qcwvwdFQ2Lse,SAMEA7198845,ST2464,United Kingdom,environment,2019.0,0.0,United Kingdom,Other,1,1,1
+1DtBzM9fPubyzmB3C8hgp5,SAMN28626294,ST197,Norway,animal,2019.0,0.0,Norway,ST197,0,0,0
+xqaeqF8ZpzrMMMNhZqFMvG,SAMN48972242,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+cKpzDypAtWXDzt2qjshpH7,SAMEA9454464,ST1562,Italy,human,2019.0,0.0,Italy,ST1562,0,0,0
+mKg92VfqZ5WXT2eb9A4gAo,SAMEA5049465,ST6995,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+qmJewMw7VceicZu3PwFVqD,SAMEA114438915,ST3477,Spain,laboratory,2020.0,1.0,Spain,Other,0,0,0
+sRwWYTsSNXdEZ58bUQMFRb,SAMEA9453202,ST6233,Croatia,human,2019.0,0.0,Other,Other,0,0,0
+i3NheAkcSbR5bQ5bYXX7ft,SAMN13286549,ST1783-1LV,Haiti,plant,2018.0,-1.0,Other,Other,0,0,0
+mTvNVjZZ1jMM1qnffSeodc,SAMN37871724,ST4368,United States,human,2023.0,4.0,United States,Other,0,0,1
+3VNo4EEk1AL7uVm9kCRniY,SAMN43931406,ST3029,Argentina,environment,2023.0,4.0,Other,Other,0,1,1
+5PEKiEcmVBMWcGEdgASyx6,SAMEA5049623,ST597,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+odk2jWTjZ9LrjTfnNeEY3c,SAMEA120221859,ST1563,Germany,human,2022.0,3.0,Germany,ST1563,0,0,0
+7ZYJYSbD1xjgjZBJtjZHWP,SAMN31875538,ST4174,Brazil,animal,2022.0,3.0,Other,ST4174,0,0,0
+2ftkoKi3tmFAEzHwD4WiTv,SAMN41775581,ST2388-1LV,Spain,human,2021.0,2.0,Spain,Other,0,1,1
+kb5aJ2HmcmUfLjTFurVLqi,SAMN47414521,ST347-1LV,United States,human,2025.0,6.0,United States,Other,0,0,1
+pQYT7K4g7w7kehHAKQj54g,SAMN26369298,ST2013,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+nAXyyrysiJcXrFYfCNdnYf,SAMN25041751,ST5685,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+nykAMTiRhgG1j2HA6iQB1g,SAMEA5050180,ST1562,Italy,animal,2018.0,-1.0,Italy,ST1562,0,0,0
+atBDsPHhV7tF9hJoJNWLmZ,SAMD00287365,ST641,Japan,human,2018.0,-1.0,Japan,ST641,0,0,0
+aDZwtT4i5Ez25aUQAEDsA6,SAMD00552275,ST347,Japan,human,2021.0,2.0,Japan,ST347,0,0,0
+hyregoiw3VZKtktxJJ2w64,SAMN19016367,ST1737,Colombia,human,2018.0,-1.0,Other,ST1737,0,1,1
+2eWtsxsA2PJREAoHnPBu3m,SAMEA5050063,ST2456,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+3yGRxoPtukEUayUUzv2M4p,SAMN26101506,ST4358-1LV,United States,environment,2019.0,0.0,United States,Other,0,0,0
+sr3vV4KMih88UGuLtpLLUJ,SAMN26976306,ST3948,United States,human,2018.0,-1.0,United States,Other,0,0,0
+2b1THzW1gMG24SgthMX5Fw,SAMN39842585,ST938-3LV,United States,human,2024.0,5.0,United States,Other,1,1,1
+nkVWDJXyBR6kaU2VJxvNoo,SAMN37706327,ST3928,United States,human,2023.0,4.0,United States,Other,0,1,1
+7cBFczkumSWRcwnJR4HX8D,SAMN53909705,ST6967-1LV,United States,animal,2021.0,2.0,United States,Other,0,0,0
+rpRY5A6qhzGWzFByiRxUsw,SAMN22968087,ST3699,United Kingdom,human,2019.0,0.0,United Kingdom,Other,0,0,0
+inmoVFvxyeZiqyjmfMgA7Z,SAMEA5684210,ST6984,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+d9VECQJBtxYxm8apRNnERg,SAMN25041621,ST5665,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+hMtvxgSo5WMwESTkbygfC3,SAMEA5050055,ST1562,Italy,environment,2018.0,-1.0,Italy,ST1562,0,0,0
+mtp2ZMAu3RBVL4z9ELRzHB,SAMN47515108,ST363,United States,human,2025.0,6.0,United States,ST363,1,1,1
+cj8Ef2HZUc82Xty2xiHZRQ,SAMN26369164,ST208,Australia,human,2020.0,1.0,Australia,ST208,0,0,0
+t7LsptMVcBTZAMfYouL1c3,SAMEA114784686,ST5798,Denmark,human,2019.0,0.0,Denmark,Other,0,0,0
+5WLkp4bHhiSFxi7pzHMYrG,SAMEA116304571,ST363,Norway,unknown,2018.0,-1.0,Norway,ST363,0,0,0
+gPqgv21a3sUQF4xfG3hvjS,SAMEA114783608,ST5766,Denmark,environment,2018.0,-1.0,Denmark,Other,0,0,0
+tRSzKeF6MGCjJVfGk7M2K1,SAMEA5049528,ST208,Italy,animal,2018.0,-1.0,Italy,ST208,0,0,0
+smghDGgzzrgDWoehHizZYq,SAMEA116304648,ST1456,Norway,unknown,2022.0,3.0,Norway,ST1456,0,0,0
+bPD82LrFUFw42GCYhHryA6,SAMEA11577358,ST7040-1LV,Switzerland,human,2019.0,0.0,Switzerland,Other,0,0,0
+9qrpqWpLn5ENEwjJKqftFr,SAMD00638522,ST838,Japan,human,2019.0,0.0,Japan,Other,0,1,1
+kpxTQ1aHn3AtLBoYKnCDP4,SAMN40918483,ST6219,United States,environment,2024.0,5.0,United States,ST6219,0,1,1
+wmr1b8AVhYz42iHSUXcNts,SAMEA113605492,ST4317,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+6hejGoNLTnBuy9AbPjZiY8,SAMN16685848,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+w5BjuUyoCRWCUP2zmgFXTY,SAMN25041645,ST3477,Guadeloupe,environment,2018.0,-1.0,Guadeloupe,Other,0,0,0
+4tn7PGxh8Z4qdi6uRvYDzj,SAMN26796303,ST641,United States,environment,2021.0,2.0,United States,ST641,1,1,1
+us2YXZZ8TgzsyQ1QZUErGP,SAMN32676113,ST5834,Norway,animal,2020.0,1.0,Norway,Other,0,0,0
+pjJWuNrZwUAisfeCDnERrf,SAMEA7077382,ST3220,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+dvd9Lt7AwEd28K1R2WdCLV,SAMEA5048853,ST1928,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+eogi2xm2SMs3TLvdpTyEEV,SAMEA5049533,ST6997,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+u5Yq4dSZFgUV2ibDVR7pio,SAMD00287373,ST850-2LV,Japan,human,2018.0,-1.0,Japan,Other,0,0,0
+nbZeghqtEzBxs5dwyG6v8E,SAMEA8264005,ST6141,Türkiye,human,2019.0,0.0,Türkiye,Other,0,0,0
+3vHpHZocVCUU1dmUFarZer,SAMN48972184,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+m4qkHtms484LLw7q5QwnJS,SAMEA113550282,ST616,United Kingdom,plant,2018.0,-1.0,United Kingdom,ST616,0,0,0
+3A6gJ1iDYzWBQ912HLgdEo,SAMEA5049817,ST1562,Italy,human,2018.0,-1.0,Italy,ST1562,0,0,0
+7RcUgbyCJrurQ7aGY3Ttdi,SAMEA9454274,ST2386,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+v1NxKvJyQhXXMi724pUQ7x,SAMN57649277,ST1562,United States,human,2026.0,7.0,United States,ST1562,0,0,1
+oveCeoNjV8B8biTKSgJcEd,SAMN26976364,ST1250,United States,human,2018.0,-1.0,United States,Other,0,0,0
+2NC2CSVQrWGhu78XBdm9xf,SAMEA120308328,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+hffQfEym691HY74J6fva68,SAMN33752667,ST697,United States,human,2023.0,4.0,United States,ST697,0,1,1
+aUjo2jofKdSrFQLFVyssri,SAMEA8264103,ST2331-1LV,Türkiye,human,2019.0,0.0,Türkiye,Other,0,0,0
+mzUFz8qBJtmV6neLv6EEkv,SAMN49727587,ST4192,Netherlands,human,2022.0,3.0,Netherlands,Other,0,0,0
+s7XkececJiF8YNUqkDRKYr,SAMN45046079,ST6790-1LV,United States,environment,2023.0,4.0,United States,Other,0,0,0
+m6RusL3cfBidQhm4CeUWCr,SAMD00501807,ST3523,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+rfm2BNj8fXXxuf78D4Sa3t,SAMEA120304017,ST475,Germany,human,2023.0,4.0,Germany,Other,0,0,0
+7AKzBH7Y6EWxHRwDoxsFsZ,SAMN53909932,ST205,United States,animal,2022.0,3.0,United States,Other,0,0,0
+cWZ5GhVpxngztksTCsfxXK,SAMN26422266,ST250,Türkiye,human,2018.0,-1.0,Türkiye,ST250,0,0,0
+s5XqqwLiikvBzvrzz2MzVw,SAMN51424740,ST697,United States,human,2025.0,6.0,United States,ST697,1,1,1
+byW2sMJrr5XAY2TkzCaZcM,SAMEA113605335,ST4309,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+6KYukUW5qDMYiTpMSNuGYy,SAMEA8263619,ST2994,Spain,human,2019.0,0.0,Spain,Other,0,0,0
+s1WF8JcteSdEuyenN4PUkJ,SAMN44254300,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+9ZSV3UrAbNbTA1bXbtjSqW,SAMN25184607,ST906,China,human,2021.0,2.0,China,Other,0,0,0
+26JrHaEzunv95MFH4ZNpjm,SAMEA113605848,ST4310,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+4VFxiZ57BQUmHR9Yq1krbL,SAMN31875541,ST1845,Brazil,animal,2022.0,3.0,Other,Other,0,0,0
+bKmGFk5kPL7Y2nK7yycgFs,SAMN38120351,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+betUu7AEgm7ZFGByQcfECo,SAMN26195979,ST347,Hong Kong,plant,2021.0,2.0,Other,ST347,0,0,0
+16hs4EG5W1dTRrXRdMVjv1,SAMEA8997935,ST3558,South Africa,human,2018.0,-1.0,Other,Other,0,0,0
+rqCM7nmQHjPgic2XNVvTKQ,SAMN20033526,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+iaR6n6eGNoW8ZGNU3gkc7j,SAMN43931407,ST3029,Argentina,environment,2023.0,4.0,Other,Other,0,1,1
+7MRH1u1BqqfZBDwwkKgjUk,SAMN52880364,ST595,Netherlands,human,2022.0,3.0,Netherlands,Other,0,0,1
+8L9JPEEL61RBahWSYyASAT,SAMN39751738,ST7150,United States,human,2023.0,4.0,United States,Other,0,1,1
+tyvhC1C3U8X7hmXNucn2Wk,SAMEA9454140,ST2295,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+sbYuZZgDhcGNxSpUtY8rRw,SAMD00287363,ST355-1LV,Japan,human,2018.0,-1.0,Japan,Other,0,0,0
+1891s8KTRfofTQqyPhxx1J,SAMN26369088,ST4366,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+2jUNfB6JzJ2ooc6UF1QdVD,SAMN50585909,ST1783,United States,human,2019.0,0.0,United States,Other,0,0,1
+iMGHUStt2RvYhnSLBFriXy,SAMN48433916,ST347,Pakistan,human,2023.0,4.0,Other,ST347,0,0,0
+1BYMpGMqyh59jard3xwmUi,SAMN40217885,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+iXTLPtY1AFcHgCRLEZtmbK,SAMN41775583,ST6347-2LV,Spain,human,2021.0,2.0,Spain,Other,0,1,1
+syEcy3yQWVeJjSBifvN4NR,SAMEA5049285,ST6991,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+poRKgbowXt8PANPg1BjJQF,SAMN50352236,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+uFkeZUdKHeF8N6ntuRG6MY,SAMD00502034,ST4079,Japan,human,2019.0,0.0,Japan,Other,0,0,0
+p7oBNbBQktFjoHDii7i5tJ,SAMN41775582,ST6347-2LV,Spain,human,2021.0,2.0,Spain,Other,0,1,1
+9siiEZ7aUtwrp4FHpC6teE,SAMN53036330,ST4199,United States,human,2025.0,6.0,United States,Other,0,1,1
+5Dp76tAiMrgX6gwQpghFNS,SAMEA114783616,ST285,Denmark,environment,2018.0,-1.0,Denmark,Other,0,0,0
+qs8GCmuvpwgM8wnq8ZeWUE,SAMEA113605744,ST641,Norway,human,2018.0,-1.0,Norway,ST641,0,0,0
+1kxRBqpWZbokDBYQQujRpx,SAMN52880282,ST6656,Netherlands,human,2021.0,2.0,Netherlands,Other,0,0,1
+5vQGTxjfSxVcMLK6AdyGqQ,SAMEA120304048,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+2vZXXxVuoSR9Jhpe2vSaSW,SAMEA5684232,ST355,Italy,animal,2018.0,-1.0,Italy,ST355,0,0,0
+x6z252RirQnVKB4qCJtpPo,SAMEA113605323,ST146,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+u6EqCZ5Psb3wHRapyF77Ms,SAMN48876671,ST3927,United States,human,2025.0,6.0,United States,Other,0,0,1
+8BbTUtufc6Ag94LMkkbzrX,SAMN28626268,ST4727,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+aZUqYbti6u4yq77eJq9Eot,SAMEA6657095,ST3913,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+pqhRQSsgqCnAk6NumtGsNQ,SAMN25041832,ST5739,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+id6ounANJx1XUsjrE39GqV,SAMEA120862531,ST7039-1LV,Spain,plant,2023.0,4.0,Spain,Other,0,1,0
+8no55BzTc9i2ZzqgPufLVo,SAMN38811503,ST1563,Canada,human,2020.0,1.0,Canada,ST1563,0,0,0
+hSU2WNqvQqcg5AuG14iLU8,SAMN52880407,ST6211,Netherlands,human,2022.0,3.0,Netherlands,Other,0,0,1
+vde5uwCv2Xr3ViLm91FjvL,SAMN40375947,ST6219-1LV,United States,human,2024.0,5.0,United States,Other,0,1,1
+axpwUenNn3BYNxEctyMqVc,SAMEA111506155,ST6910,Switzerland,human,2020.0,1.0,Switzerland,Other,0,0,0
+1SfzvgcHVTUtcYZm3LFBTE,SAMN32490771,ST2006,United States,plant,2018.0,-1.0,United States,ST2006,0,0,0
+1ZiX6kiSUVw6fxWMu6EhDf,SAMN41472743,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+cY2Ag9HsSs6JvusUnBRLh2,SAMN34030117,ST641,Unknown,human,2023.0,4.0,Unknown,ST641,0,0,1
+sYUJxmJ6XyUUAGNTFXTN1G,SAMD00499412,ST1615,Japan,human,2019.0,0.0,Japan,Other,0,1,1
+fjyuXV6dxNx9yyhrGc9Pva,SAMD00287366,ST1599,Japan,human,2018.0,-1.0,Japan,Other,0,0,0
+9AKuo4EZnBPSaQiE7sUxoy,SAMEA5049886,ST616,Italy,animal,2018.0,-1.0,Italy,ST616,0,0,0
+tthXGqb8Mn1crqymqseZQR,SAMN26976472,ST3296,United States,human,2018.0,-1.0,United States,ST3296,0,1,0
+6878MNku7igxjbrjmnGabp,SAMEA113605474,ST205,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+mwqhXqNsnSKtLrBx1TgNpa,SAMN47436299,ST2295,Uganda,human,2023.0,4.0,Other,Other,0,1,0
+v1FZvtUgmVasmjQPBCo3u3,SAMEA114438913,ST3477,Spain,laboratory,2020.0,1.0,Spain,Other,0,0,0
+duAfskCSdKz2u3Z5eTtn3k,SAMN25041729,ST5704,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+vAcxvpzDKTuUuyy1ds3JnV,SAMN40738340,ST454,United States,human,2024.0,5.0,United States,ST454,0,1,1
+xfzdZE6zvCbNn8shuDSTbT,SAMN50352231,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+cNCrWFpXniBd2Kz57XPZom,SAMN32676067,ST4591,Norway,animal,2020.0,1.0,Norway,Other,0,0,0
+mvfJUy6BJWBKat3BtBSd2N,SAMN29503793,ST5780,Canada,human,2019.0,0.0,Canada,Other,0,1,1
+74VLKXSvo7FRXqZCeJKE7U,SAMEA5050005,ST595,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+vEJC2mEt2xaFTtze2Zf6gp,SAMN26368962,ST4316,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+wTicJBPBYfBk7YmKnv4SSU,SAMEA7077378,ST3220,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+khf3oHyPgCwTJL5seTzCfE,SAMEA5050056,ST7031,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+8Yy7DKp1jLEF5gae6wjQvQ,SAMN39902364,ST3916,United States,human,2024.0,5.0,United States,Other,0,0,1
+i5z2JtaZvVRJdWLTM7hKGy,SAMEA114240982,ST2790,Germany,environment,2020.0,1.0,Germany,Other,0,1,1
+x8DitdGxi8VMHnh77rL7JB,SAMEA4623354,ST3353,United Kingdom,human,2018.0,-1.0,United Kingdom,Other,0,0,0
+cLjXR3EBFrwifLdJL1EsZL,SAMD00501820,ST1407,Japan,human,2020.0,1.0,Japan,Other,1,0,0
+c6qLFV1Nnnu5U4KyuHjdGN,SAMN42644005,ST386,United States,human,2024.0,5.0,United States,Other,0,0,1
+83fskSrwThf7tZJBevRm5v,SAMN26422267,ST981,Türkiye,human,2019.0,0.0,Türkiye,ST981,0,1,1
+eqtqJMPQzdKqLdjhxy1GCB,SAMN25041868,ST5747,Guadeloupe,environment,2019.0,0.0,Guadeloupe,Other,0,0,0
+szcn8uVB3JvvcAFEVf1p4F,SAMN26369251,ST1980,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+hnNTjM2swP6CQynUijdvGG,SAMN53286830,ST1563,United Kingdom,human,2023.0,4.0,United Kingdom,ST1563,0,0,0
+fXtae7QciL3e8fXjYzGxaD,SAMEA7077313,ST1050,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+itCyNtvE1efwAQHsp1v1Hy,SAMN26369056,ST1181,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+joCsBJn2oCGVyf52js9MHv,SAMN34411499,ST365-1LV,Cambodia,human,2022.0,3.0,Other,Other,1,1,0
+heHvVR7WPPzWchNPbygbMB,SAMN26369074,ST641,Australia,human,2020.0,1.0,Australia,ST641,0,0,0
+4iMwEE9zvVpVCF2Xehi5zk,SAMD00497898,ST361,Japan,human,2019.0,0.0,Japan,Other,1,1,0
+2dDhrBh5XXj8MCRDc4jLQx,SAMN41463894,ST3531,United States,human,2024.0,5.0,United States,Other,1,1,1
+1Prktez1TjTWdkQaoh1WVj,SAMD00497846,ST4609-1LV,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+tVaPQyJZoitrKZe7Q4742o,SAMN38811476,ST5693,Canada,human,2020.0,1.0,Canada,Other,0,1,0
+uWr64LArVzxFgBhKxhwsaE,SAMN48972152,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+2HJzEqghAF1ErAM9N3fMeY,SAMEA11291406,ST1562,Austria,food,2019.0,0.0,Other,ST1562,0,0,0
+2f1LsB6PrrowTLri5e4X5W,SAMEA113550273,ST347,United Kingdom,plant,2018.0,-1.0,United Kingdom,ST347,0,0,0
+kPFFFr1ASbndUXSQLfS5uP,SAMEA5050194,ST4033,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+5wrLa3RJtvxg7wiBgeDEVy,SAMEA8218211,ST347,Germany,human,2019.0,0.0,Germany,ST347,0,0,0
+qiwLGgtaksLp7uDWQmAQR2,SAMEA8262228,ST4361,Portugal,human,2019.0,0.0,Other,Other,0,0,0
+34BdeLYRWAXaCd3cPptBdh,SAMEA5050193,ST7048,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+9cWAx7Qffx8uF2Jn15iWKj,SAMN35159629,ST447,United States,human,2021.0,2.0,United States,Other,1,0,0
+rr4K5RW4ghVuaXFzeGYXEF,SAMEA7077381,ST4749,Thailand,animal,2018.0,-1.0,Thailand,Other,0,0,0
+41GR23TPXUGTjsY9EQWvVa,SAMEA113605968,ST4160,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+t55fCCnxDie4de8GiDusj6,SAMN17766501,ST3195,Norway,environment,2020.0,1.0,Norway,Other,0,0,0
+27moRnUMFEZ1Vy43z3yv9m,SAMN17183116,ST4564,China,human,2018.0,-1.0,China,Other,1,1,1
+3Ncdb54knpUFtxpZ96KPfo,SAMN34137702,ST4035,Canada,human,2018.0,-1.0,Canada,Other,0,1,1
+x4uDDKYCuqenzNXFvggT8H,SAMEA5048858,ST6238,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+trFEnHnJvHQ9QTtRbejrjA,SAMEA7566377,ST641-1LV,United Kingdom,human,2019.0,0.0,United Kingdom,Other,0,0,0
+fteswqh7kTeeXKMGxNzj2p,SAMEA5050047,ST7026,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+xzu8K3TugfKT666VF6w5zx,SAMEA5048776,ST1181,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+ndgZXzdaz58bjxMVP5Qc6N,SAMEA5050196,ST7048,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+h1zqBBodpq5bPeKBx3YuFY,SAMEA9453397,ST697-1LV,Croatia,human,2019.0,0.0,Other,Other,0,0,0
+9A8Dwn4M6743Si4TVYjL1M,SAMEA120304080,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+tUiM42PqFjmVuU3cxaSwDr,SAMEA5049112,ST1563,Italy,human,2018.0,-1.0,Italy,ST1563,0,0,0
+1nTfcR9N6K8QBWKJPxAQiS,SAMEA4781446,ST639,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+stzZYqnmyd7ZtaYUJxacSe,SAMN49763943,ST581,United States,human,2025.0,6.0,United States,Other,0,0,1
+gXuq5QDJF3Y5pj9Sbyg8DL,SAMD00500708,ST2006,Japan,human,2019.0,0.0,Japan,ST2006,1,1,0
+9a42jYVj737qhJnTEpDWW7,SAMN26422274,ST250,Türkiye,human,2019.0,0.0,Türkiye,ST250,0,0,0
+pWZLHRVFfoqf3BcfMKrn8f,SAMEA115100314,ST981,Switzerland,human,2022.0,3.0,Switzerland,ST981,1,1,0
+24ZGStuuoKPJwiy8S1Y4hs,SAMEA113605075,ST355,Norway,human,2018.0,-1.0,Norway,ST355,0,0,0
+eLHhmXPgBVxw2hamyiKznB,SAMD00552220,ST616,Japan,human,2019.0,0.0,Japan,ST616,0,0,0
+o3dWT5nMXeN6bVGiN5mmxU,SAMEA120304018,ST3081,Germany,human,2021.0,2.0,Germany,Other,0,0,0
+6QgiQNii4xaxjXsFGEbU1M,SAMN49815544,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+kbfRDEyh3bT76mJB3GuDSm,SAMN23286231,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+sVoPbHst8GF4bT4nyfMHGp,SAMN42513557,ST641,United States,human,2024.0,5.0,United States,ST641,0,0,1
+oX6ZkukN1RL3EibVjMkMDe,SAMEA5050025,ST357,Italy,environment,2018.0,-1.0,Italy,ST357,0,0,0
+2bk4dTt4UR4JVjdLyuoxbv,SAMN31262979,ST3206,Australia,human,2019.0,0.0,Australia,Other,0,1,1
+qhRkUFS6mvLdpwd6s55vA3,SAMEA116304213,ST1453-2LV,Norway,unknown,2020.0,1.0,Norway,Other,0,0,0
+veyF1EaLeTSg95PULGX9rx,SAMN23521390,ST5060,United States,human,2021.0,2.0,United States,Other,0,1,1
+uQShgD4dCfzXfgbkJrU7Uq,SAMN14967670,ST6132,United States,human,2019.0,0.0,United States,Other,1,1,0
+paCCUFkXtGj6qbXEgqNw92,SAMN40174574,ST6219,United States,human,2024.0,5.0,United States,ST6219,0,1,1
+6s6w5NeQSV6RnQ4NMuKxuT,SAMEA4781447,ST1599,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+2KcngG9vJdgLF9KBKT7pEd,SAMN26369015,ST250,Australia,human,2020.0,1.0,Australia,ST250,0,0,0
+6KDxuxSpXABrnJXVL948MK,SAMEA111505409,ST527-4LV,Pakistan,human,2020.0,1.0,Other,Other,0,0,0
+mT5xDSwe8FBEBXmzkyXXLR,SAMD00498781,ST355,Japan,human,2019.0,0.0,Japan,ST355,0,1,0
+5UninAZTdf2375SMxUsEaK,SAMN12619309,ST2634,United States,food,2019.0,0.0,United States,Other,0,0,0
+87tbjvyLB9SP4ynbnoQnev,SAMEA113605617,ST206,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+nkqwpR85qvk9YjtNQTRLfC,SAMEA9453267,ST981,Croatia,human,2019.0,0.0,Other,ST981,0,0,0
+pfsySHbUWHEexUarb8vBA2,SAMEA5050052,ST596,Italy,environment,2018.0,-1.0,Italy,ST596,0,0,0
+thtXvFBtFGV34G76Xfh8Sz,SAMEA8262903,ST1230,Montenegro,human,2019.0,0.0,Other,Other,0,0,0
+53ZA4aJpPYUYgaMiJryK9S,SAMEA5049862,ST7007,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+7X4fFRQztFMpYMfsBa6EmG,SAMEA113605641,ST1606,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+guKED7EhQa4WhPyJfiC4qp,SAMD00498891,ST925,Japan,human,2019.0,0.0,Japan,Other,0,1,0
+9cQZfGAbafdmkvwHkTJGFH,SAMN26976458,ST3231,United States,human,2018.0,-1.0,United States,Other,0,0,0
+hgXejiXqrAic7H8tzp4XEs,SAMN26368959,ST2011,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+dzB1DrSVZ1aBCdtUm2EGag,SAMEA7077169,ST1023,Thailand,animal,2018.0,-1.0,Thailand,Other,0,0,0
+4MsqcqdAKqYjsv8eKrYR25,SAMN47248680,ST360,Portugal,human,2021.0,2.0,Other,Other,0,0,0
+qpQ4K4vFwMWuL7uAPBPBru,SAMD00552276,ST2295,Japan,human,2021.0,2.0,Japan,Other,0,0,0
+sr3vRJJ3uUZnVULUujaJpy,SAMN41673814,ST710,United States,human,2024.0,5.0,United States,Other,0,1,1
+ajkJQrMU4h7VRHzCRA49CR,SAMN23286224,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+7FuL3iTYzx7obxQo4nxs1F,SAMN49914414,ST1562,United States,human,2025.0,6.0,United States,ST1562,0,0,1
+gfBvdMFaRfqq5RCCC23mvW,SAMN26101511,ST697,United States,human,2019.0,0.0,United States,ST697,0,0,0
+fyXat2wvhePW9tc2GUXc1Y,SAMEA5684279,ST6987,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+sBunFtDKLtaMn9saKeJwTB,SAMN16685846,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+i2vPjE1epb6Dbp3GyFQNa2,SAMN52880509,ST919,Netherlands,human,2022.0,3.0,Netherlands,ST919,1,1,1
+vJcZuP4dqpWv2tahWvhfrj,SAMN50352229,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+nZKYgvRDiGgcG8tdPdaty2,SAMN49075265,ST208,United States,human,2025.0,6.0,United States,ST208,1,1,1
+1KfqZrbjZLJVkWeVP61WFo,SAMN26976416,ST447,United States,human,2018.0,-1.0,United States,Other,0,0,0
+dfCmGT9C9zEg2NBKq2ABkZ,SAMEA4781835,ST2362,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+3weBk8sNG8HPyUb4pJWpw9,SAMN26749727,ST3936,United States,human,2021.0,2.0,United States,Other,1,1,1
+bQ2ESkUC7FRQSM9xxMeqNS,SAMEA120304083,ST4059,Germany,human,2023.0,4.0,Germany,Other,0,0,0
+pyAA8SUnxHPHrVRnJkYJk9,SAMD00500744,ST6893,Japan,human,2020.0,1.0,Japan,Other,1,0,0
+pBYbkoFEtgvykmWTEpVHpH,SAMN48972202,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+1VmTt8sprSX2uxCr1kZvES,SAMEA113550268,ST454,United Kingdom,plant,2018.0,-1.0,United Kingdom,ST454,0,0,0
+kvbHqu6QmZVyQ6cotmkHnU,SAMD00552290,ST1598-2LV,Japan,human,2021.0,2.0,Japan,Other,0,0,0
+bmjt5RAmQnwzVb8GEKzJcw,SAMN53070398,ST3527,United States,human,2025.0,6.0,United States,Other,0,0,1
+mjL7JTrLntCNjvrqMUPzpk,SAMEA5049892,ST355,Italy,animal,2018.0,-1.0,Italy,ST355,0,0,0
+hNFi97NVDBMTqgZwAzHZzd,SAMN23286227,ST347,Australia,human,2019.0,0.0,Australia,ST347,0,1,0
+kHDi9uR9Kc3g5QkCs7ojNi,SAMN50352225,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+in6s6RDERZAZnY8x5hvVfi,SAMEA8263110,ST355,Bulgaria,human,2019.0,0.0,Other,ST355,0,0,0
+3ry7Dzhqrka5s5s913C3EY,SAMN26368966,ST1175,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+gRPs3nqs5sZHVZvsYasTZA,SAMN26976470,ST1843,United States,human,2018.0,-1.0,United States,Other,0,0,0
+5eWt9nQU93n4cxY2vXWCJV,SAMEA5050197,ST7048,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+522dVvU1ut3rpr9mYgMqC2,SAMEA5050023,ST4360,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+s23GuxGeyYa6ADJvbyBL6t,SAMEA111441564,ST5929,Italy,environment,2020.0,1.0,Italy,Other,0,0,0
+bF7Ts5rLUjeB58DsZk7Zff,SAMN23286215,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+jzMDCrC84d8mrEsg44bvVC,SAMN36415699,ST925-1LV,United States,environment,2023.0,4.0,United States,Other,0,0,0
+3uzz3bUUinkdS3gEZoeMBA,SAMN36716575,ST3531,United States,human,2023.0,4.0,United States,Other,0,1,1
+idCKoV2rohUWdY7qBVEs9U,SAMEA9455130,ST6226,Greece,human,2019.0,0.0,Other,Other,0,0,0
+fJGsEzFiVowDqJuLSBj27q,SAMEA114784674,ST3982,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+uEdz68cZ3YHerPSr39y7fN,SAMN17981883,ST2790,Singapore,human,2020.0,1.0,Other,Other,0,0,1
+71uaHzbjpcPCGzCsdif8Qz,SAMN25041602,ST5652,Guadeloupe,plant,2018.0,-1.0,Guadeloupe,Other,0,0,0
+eaaR4cSHDZD8v7qdHGTCdi,SAMN34138034,ST906,Canada,human,2021.0,2.0,Canada,Other,1,1,1
+4jEkRgHY2JzxNvz88bLRnV,SAMEA113605423,ST4365,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+bW3bTfvBbMGZf41izJ8DpZ,SAMEA120221855,ST1381,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+9ZoiXRz8px25XewrUsuzkj,SAMN38764476,ST1423,United States,human,2023.0,4.0,United States,Other,1,1,0
+uYt1DxQoB8nmRx3ruXjUdX,SAMN26976423,ST3972-1LV,United States,human,2018.0,-1.0,United States,Other,0,0,0
+pTqMaLZDGXJUC89mwxrZMB,SAMEA120304028,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+82dQbCatbLMvgehf5oqf5X,SAMEA5050034,ST3125,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+1criT6Cz3gy7m2BBDhoDdD,SAMEA120308325,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+vfQEM55WAkiZntStervBVG,SAMN49411769,ST208,United States,human,2025.0,6.0,United States,ST208,1,1,1
+u9tj7zbh3rkk1qEdWyfAen,SAMN44260510,ST3916,United States,human,2024.0,5.0,United States,Other,0,0,0
+ifYq3QdaWsv58rN3dbywCz,SAMN20033648,ST1582,Australia,human,2020.0,1.0,Australia,ST1582,0,1,1
+jYP1XFjkbyBY6FJ9s3siWc,SAMN38094182,ST697,United States,human,2023.0,4.0,United States,ST697,1,1,1
+f1y3wG3QiQRHj7R9vWRkEu,SAMEA5050241,ST355,Italy,animal,2018.0,-1.0,Italy,ST355,0,0,0
+iSsUKkuA7zc2Xkiwn9m59s,SAMN28743333,ST1947,Australia,human,2019.0,0.0,Australia,Other,1,1,0
+5WKUouSc4stjaMrPfunSUT,SAMEA8664746,ST519,Sweden,human,2018.0,-1.0,Other,Other,0,0,0
+7QmX3ReDheNk6DxTm9zS6h,SAMN41656007,ST926,United States,human,2024.0,5.0,United States,Other,0,1,1
+uv6DS7KDntVizGrVewRfh2,SAMEA5050156,ST208,Italy,environment,2018.0,-1.0,Italy,ST208,0,0,0
+35g3LsXvw268RwnAqjSBb6,SAMN40918472,ST2006,United States,environment,2024.0,5.0,United States,ST2006,0,0,0
+cZ271ZaFXgHXUDbN9hXdNX,SAMN19856763,ST2511,Unknown,environment,2020.0,1.0,Unknown,Other,0,0,0
+qrQnAQVZjv1zeHYdakeez9,SAMEA5050031,ST7022,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+5mt5z3m2KWNJXv2YpR7xUC,SAMN19015836,ST347,Australia,human,2018.0,-1.0,Australia,ST347,0,1,1
+eMp3fyxBc3KS9jDr5whEjp,SAMD00287367,ST2388,Japan,human,2018.0,-1.0,Japan,Other,0,0,0
+jS5zo2NQn3yByc6otVVJHY,SAMN32816950,ST1899,United States,human,2022.0,3.0,United States,Other,0,0,1
+6LFkUBmLNyBAJk5ubpuEBW,SAMN50387396,ST4524,United States,human,2025.0,6.0,United States,Other,1,1,0
+v9eqj84ns4KRcuffuWDEsr,SAMEA113605911,ST4190,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+cop8k1xKg4M4MEFqtpPRSe,SAMN32490775,ST906,United States,plant,2019.0,0.0,United States,Other,0,0,0
+jP2BYz72B37JLXVGNV1ZV3,SAMN34589371,ST363,United States,human,2019.0,0.0,United States,ST363,1,1,0
+mUQ8mau9QW9nRhi2dBxgmh,SAMEA9455267,ST616,Romania,human,2020.0,1.0,Other,ST616,0,0,0
+hcgwbV7HhYZHaCVCpZY9rX,SAMEA113605853,ST1875,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+pZLGzk8u2nQUmA8rCQzAw8,SAMN25041791,ST4174,Guadeloupe,human,2019.0,0.0,Guadeloupe,ST4174,0,0,0
+dBFoDDravHrR42ek6QwsiQ,SAMEA113605453,ST3301,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+sgUbrNUkJBRrehrk6FdGPS,SAMN26976479,ST3296,United States,human,2018.0,-1.0,United States,ST3296,0,1,0
+eMig8VNGxK6zSuqtWMxdi4,SAMEA5050192,ST4174,Italy,animal,2018.0,-1.0,Italy,ST4174,0,0,0
+ojay1UqUAmadc4rdtZMBdn,SAMEA114653700,ST1050-3LV,India,human,2022.0,3.0,Other,Other,0,0,0
+stma7P4Z4wLyYRWQn7hA7a,SAMN32490773,ST357,United States,plant,2019.0,0.0,United States,ST357,0,0,0
+rtNighJp34gY2BEVGRStti,SAMEA4781721,ST5834,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+vUBQN8cG2ESBEFnLaVUFqt,SAMN26976341,ST596,United States,human,2018.0,-1.0,United States,ST596,0,0,0
+xyDZjdmsYwEU1S5cRwSy1W,SAMN33971125,ST355,United States,human,2023.0,4.0,United States,ST355,0,1,1
+rGA6g3Gfp5sdDHgfjcLgeb,SAMN20033516,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+g853DqL2Bh3DtzkLwAfjYF,SAMD00502380,ST596,Japan,human,2019.0,0.0,Japan,ST596,1,1,0
+bnwXBUqF7YmxiohM4dosCR,SAMN26369202,ST3525,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+n9LMiMG16eLYe1SY6y2mzS,SAMN20203201,ST3953,United States,human,2021.0,2.0,United States,Other,0,0,1
+sXS7mZ3VFYxbarkRCMJYN9,SAMN31262978,ST347,Australia,human,2018.0,-1.0,Australia,ST347,0,1,1
+srCxsfA2jYQjEkDCjJ6DqZ,SAMEA6657664,ST695,Denmark,human,2018.0,-1.0,Denmark,Other,0,0,0
+jMDq58vYPZGHGiV32eYwnd,SAMEA5050072,ST938,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+jZMzvazgGj8mUUKcPYDrgJ,SAMN28626257,ST4706,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+qakZdCJtEMxXSF9EoKNZrp,SAMN26422440,ST1599,Türkiye,human,2018.0,-1.0,Türkiye,Other,0,0,1
+c2nZBztx1ULpgQfm2rSqU3,SAMEA5049283,ST3150,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+5vtKdcpEmieYbZjYdzsBw3,SAMEA5684335,ST3924,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+8xKLdrtsx8NoZxrrvLbKCd,SAMEA113606034,ST1050,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+8sx7jEsnKJ99vLMcoSJVFW,SAMN32721474,ST1582,Australia,human,2020.0,1.0,Australia,ST1582,0,1,1
+xv2s9i2oUTnKQKcTJ7mGkd,SAMEA5050149,ST208,Italy,environment,2018.0,-1.0,Italy,ST208,0,0,0
+bsMo15GDo7Qhxdnm6JBxhu,SAMD00552234,ST146-1LV,Japan,human,2020.0,1.0,Japan,Other,0,0,0
+wT25MGNYXkWty37umcYkqk,SAMN23286154,ST1163,United States,human,2021.0,2.0,United States,Other,0,0,1
+stzkc9tiVaG9uZeuM5WkXr,SAMEA5050027,ST906,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+wE1w7R3YdJYNyivLXU9iD9,SAMN53909778,ST1381-2LV,United States,animal,2021.0,2.0,United States,Other,0,0,0
+gvLSpG3yR4ZugdkrPH58FV,SAMEA114111317,ST4197-1LV,South Africa,human,2020.0,1.0,Other,Other,1,1,1
+1bHY589yhWeH3U2XMwjQNB,SAMN53909835,ST594,United States,animal,2022.0,3.0,United States,Other,0,0,0
+3GfzwgGNag1gNHN3j5oRKy,SAMEA5050132,ST146,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+dHeK57maRVfz9BSCjzodeu,SAMEA7077201,ST933,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+bJLM4Z2MWF47vWGizpLrSU,SAMN26976469,ST697,United States,human,2018.0,-1.0,United States,ST697,0,1,1
+3UEH4xBst5jHjuWHrFN3bZ,SAMN18762340,ST2465,South Africa,animal,2018.0,-1.0,Other,Other,0,0,0
+iouiRt1KpsNcabF8qrmimi,SAMEA9454636,ST3934,Italy,human,2019.0,0.0,Italy,Other,0,0,0
+txmispDH6WTyF3XLZzyJwS,SAMN48984432,ST596,United States,human,2025.0,6.0,United States,ST596,0,0,1
+sTcwyYAmnWEjTx9HhGs4P7,SAMN38257200,ST6808,Japan,human,2020.0,1.0,Japan,Other,1,1,0
+9dSBjfCtESFNSRdu3izZwU,SAMEA7077191,ST4753,Thailand,human,2018.0,-1.0,Thailand,Other,0,0,0
+uzwXxWEJFShrK6GEknL9t6,SAMEA7565338,ST355,Slovenia,human,2019.0,0.0,Other,ST355,0,0,0
+hFPoZVzqZP8fWRBHigBL1r,SAMN25041810,ST5666,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+3NtJMkN1wdK2zXEtSy7b1N,SAMN26101587,ST197,United States,environment,2020.0,1.0,United States,ST197,0,0,0
+jYHXw8wkQ8VCGDZ6TrA3Xw,SAMEA120304084,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+rTkCLw7u25rmtvwzXR86KB,SAMEA4781340,ST6973,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+oo3XgS7TEQQa7hCSRk6raw,SAMN48972214,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+gpmXQLoq7EVLR4C6McdSGF,SAMN34567831,ST1611-2LV,United States,human,2019.0,0.0,United States,Other,0,0,1
+12pbhUUdgqdihQ1FpCWXWp,SAMN48972380,ST347,Zambia,human,2022.0,3.0,Other,ST347,1,1,0
+8QNaSqttFtEexmFxgYAmhW,SAMEA12790370,ST3029,Germany,human,2021.0,2.0,Germany,Other,1,1,1
+9rZcwYgKVCSeicxA2zWGuj,SAMEA113605548,ST5848,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+ir2QZbPL4JekrCiq19eiYf,SAMEA115703377,ST347,Germany,human,2023.0,4.0,Germany,ST347,0,0,1
+jE6dz1U1U6hEpEah2oXPkA,SAMN43210425,ST4596,United States,human,2018.0,-1.0,United States,Other,0,0,0
+e7RKiBRAYv2GqYkygcd3eb,SAMD00497823,ST6238,Japan,human,2019.0,0.0,Japan,Other,1,1,0
+sjEQ2HDtrePPGauPYP9xr5,SAMN49487708,ST3304-2LV,United States,laboratory,2025.0,6.0,United States,Other,0,0,0
+hA3RFznzAvmVARhg4JJPbN,SAMN48972245,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+x8NGRuVZZfc7A26LNyVgCm,SAMD00502023,ST3954,Japan,human,2019.0,0.0,Japan,Other,1,0,0
+1V2ynL5ta5czaUDabSyuH2,SAMN31261056,ST1737,United States,human,2022.0,3.0,United States,ST1737,0,1,1
+bsbySi2LjXB8zkWLHBd4du,SAMN41161937,ST1423,United States,human,2024.0,5.0,United States,Other,0,0,1
+fBr2Ky3rsg9iveNJ6Y9TNo,SAMN35547132,ST595,United States,human,2021.0,2.0,United States,Other,0,0,0
+bHUoa3cc5faNFnnCLFk1FJ,SAMN20033581,ST4197-1LV,Australia,human,2019.0,0.0,Australia,Other,0,1,1
+sNgWgwoVf6bgBc99o8qjig,SAMN41789299,ST6790-1LV,United States,environment,2023.0,4.0,United States,Other,0,0,0
+gN3VoY1ke6cprAQN5s8MCy,SAMEA5049779,ST4610,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+saQmn33DpVYAgUm21PYHUg,SAMN39119195,ST1791,United States,human,2023.0,4.0,United States,Other,0,0,0
+vQwDQhSwqsDD85vxucWF8U,SAMEA4781299,ST5453,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+5ZVqauhqqwgT1Us6vmiYG5,SAMEA120304020,ST250,Germany,human,2022.0,3.0,Germany,ST250,0,0,0
+eaZkfbzMSjnE6FYH4RiXaS,SAMN44535331,ST616,United States,human,2022.0,3.0,United States,ST616,0,1,1
+mAN3osFXgfoPd3Rb2GzkDp,SAMN26369119,ST4197,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+rAQQN5UcPpDyMPxVM7sG3W,SAMEA7565351,ST4194,Slovenia,human,2019.0,0.0,Other,Other,0,0,0
+8XjcmhZqHtz3TZkRxQcP88,SAMEA114438912,ST3477,Spain,laboratory,2020.0,1.0,Spain,Other,0,0,0
+6Unrmsym1YVGMxPe7VGudd,SAMEA4781865,ST2295,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+bjrNJ4Gket16iLCBdK9CJv,SAMN26369154,ST347,Australia,human,2020.0,1.0,Australia,ST347,0,1,0
+jF2Es9QHmd6fUsYCUKaS77,SAMN26369226,ST1453,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+6rxaYV5EnayEhSdzCHqEMY,SAMD00500534,ST4150,Japan,human,2019.0,0.0,Japan,Other,1,1,0
+k7pvQCbNN51PdLL7nmDvnG,SAMEA113605035,ST697,Norway,human,2018.0,-1.0,Norway,ST697,0,0,0
+8aX1uNDdxZ7JvKKdrcNnYi,SAMEA5049895,ST7010,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+wyfj5DTE3FL3JPZch92Gkm,SAMEA114783618,ST6110,Denmark,environment,2018.0,-1.0,Denmark,Other,0,0,0
+psASgGU6jvYPafKxAEbP7y,SAMN45166305,ST1563,United States,human,2024.0,5.0,United States,ST1563,1,1,1
+paSRzjmCJExWBhbThuFBF4,SAMEA113605653,ST3977,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+tHMQCQaALA1j5twcaFXsKB,SAMEA5049993,ST3924,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+ftF1dYa1Ca8KGBf3N8Pn1n,SAMEA5050181,ST7048,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+eAeZLPTQD7ncES7pdosBWE,SAMEA115874761,ST1378-1LV,"Tanzania, United Republic of",human,2021.0,2.0,Other,Other,0,0,0
+cAfNSZvW9JPWVwX5EisEN1,SAMN31854198,ST454,United States,human,2022.0,3.0,United States,ST454,1,1,1
+icbzPzuayhd2kUBxSZmjBZ,SAMN33406859,ST123-4LV,Colombia,human,2020.0,1.0,Other,Other,0,1,1
+cFBJHjBRSpueHzCeHqKHjp,SAMD00500024,ST355,Japan,human,2019.0,0.0,Japan,ST355,1,1,0
+ay581YzrJtSvzt6arE8Loo,SAMN26976471,ST1381-2LV,United States,human,2018.0,-1.0,United States,Other,0,0,0
+5LjhcvTXsB8JjMjyNwmFyE,SAMN41087181,ST4587,Kenya,human,2019.0,0.0,Other,Other,0,0,0
+2oCGnC9s8NLZux6U1zbGJn,SAMN28669131,ST1563,Australia,human,2018.0,-1.0,Australia,ST1563,0,0,0
+fDSZxPdhNKoGcM5AiJDzvT,SAMN25041804,ST5666,Guadeloupe,animal,2019.0,0.0,Guadeloupe,Other,0,0,0
+p6NyDv62UHb5vbeE3qTxPJ,SAMEA5050249,ST355,Italy,animal,2018.0,-1.0,Italy,ST355,0,0,0
+adqjDmim63Wz2P5UZbz8hu,SAMN26369245,ST3095,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+ajbVEsw7sLXUYk5oFu4xLQ,SAMD00498019,ST3477,Japan,human,2020.0,1.0,Japan,Other,1,1,0
+d7djRBvfAeCRf7PpuFadsP,SAMEA113605642,ST919,Norway,human,2018.0,-1.0,Norway,ST919,0,0,0
+uEcTHTesS3hFZsB8SzTDBt,SAMN40554620,ST4524,United States,human,2024.0,5.0,United States,Other,1,1,0
+78nKm22Ph2nKPw7eENyc7Z,SAMD00498524,ST2386-1LV,Japan,human,2019.0,0.0,Japan,Other,0,1,1
+qCXjVQBBUGxVDQHRAGb6zf,SAMEA8218338,ST1423,Germany,human,2020.0,1.0,Germany,Other,0,0,0
+2q79xXuraSBEnpNyUnFvz3,SAMN39255396,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+d9gTXbUK21QLkiVxuPEU8V,SAMN26976453,ST1562,United States,human,2018.0,-1.0,United States,ST1562,0,0,0
+3TEEhgEMc3t2R6atKKM7qh,SAMN50499755,ST467,United States,human,2025.0,6.0,United States,Other,0,0,1
+3hdyegoVCWDGKw2SCfrvEp,SAMN48972232,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+3L4MtmoWAomTeEpveJWoY4,SAMEA5049955,ST7015,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+5Jy2vtQjXdyX1sNrmgSpws,SAMN26976359,ST1250,United States,human,2018.0,-1.0,United States,Other,0,0,0
+5E9bMsQQ16kMBzb3sNZhRJ,SAMN48972238,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+gLJiuGSwAdDirH3wa9xEAx,SAMEA120221860,ST3529,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+9nswh5gK3JGA1VHxsfJWsC,SAMN19855143,ST1456,United States,human,2019.0,0.0,United States,ST1456,0,0,0
+4bjwDXo3Ybqrd2qZRZRG1E,SAMN32721451,ST3206,Australia,human,2019.0,0.0,Australia,Other,0,1,1
+gVGio6GnaqaSoMH7Hy4smc,SAMN26369195,ST616,Australia,human,2020.0,1.0,Australia,ST616,0,0,0
+qrvQGfKrfat3K8Zi64S9KQ,SAMN46859413,ST3573,Australia,human,2022.0,3.0,Australia,Other,0,0,0
+4gVc1LHcJg1Xy5yRRKQWjf,SAMEA9455579,ST6229,Romania,human,2020.0,1.0,Other,Other,0,1,0
+s4PS2EFof45zS7FmTZp3ps,SAMN19855585,ST468,United States,human,2018.0,-1.0,United States,Other,1,1,0
+fBTJECmW7gkwGW8uhcULzY,SAMN41087326,ST597,Kenya,human,2020.0,1.0,Other,Other,1,1,0
+3wdZ8FXWfV8Lb8XHKLB8DZ,SAMEA5049293,ST6992,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+i3EYBXVJ3RwJ1QG88H2dXP,SAMN23286226,ST347,Australia,human,2019.0,0.0,Australia,ST347,1,1,0
+pUzJEtv6n6TneUEffZUm3e,SAMN48972294,ST3296,Ethiopia,human,2021.0,2.0,Ethiopia,ST3296,1,1,0
+84o4mxQq4fM2NBi9o5vETn,SAMEA5048807,ST6983,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+usYTZNZFCPk4zDpCrPpPb1,SAMN31592763,ST1737,United States,human,2022.0,3.0,United States,ST1737,1,1,1
+wJkySBWs4jQTjybD4T8qfF,SAMN31592762,ST1737,United States,human,2022.0,3.0,United States,ST1737,1,1,1
+rjQTKGAWGrktMZvhAz36Fu,SAMN25041626,ST5668,Guadeloupe,animal,2018.0,-1.0,Guadeloupe,Other,0,0,0
+mUfjpXTsfgP3xTnJUCnuUd,SAMN26796291,ST641,United States,environment,2021.0,2.0,United States,ST641,1,1,1
+unDRSsjY6wWhENg8zbKjta,SAMN20064896,ST6797-2LV,Switzerland,human,2020.0,1.0,Switzerland,Other,1,1,1
+1B4YLdgDWVEfsUZfzLNwoA,SAMD00498379,ST1163-3LV,Japan,human,2019.0,0.0,Japan,Other,1,0,0
+h26ZCbx9yRSfwqfkvWigEQ,SAMEA113605189,ST1562,Norway,human,2018.0,-1.0,Norway,ST1562,0,0,0
+dRV6TwqiyfhP7sbKou4pfu,SAMEA113605056,ST4185,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+jMebBQYaB2VAPNohmzChkh,SAMEA113605370,ST4179,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+pjEr5scAg6CRHskzBz5sQx,SAMN49815546,ST347,Australia,human,2020.0,1.0,Australia,ST347,1,1,0
+hCX8RNEyRbjyz3U35nUxjh,SAMEA116304159,ST4310,Norway,unknown,2019.0,0.0,Norway,Other,0,0,0
+1ffyh6BfLk5vFBUSG12VCw,SAMEA114784680,ST355,Denmark,human,2019.0,0.0,Denmark,ST355,0,0,0
+8aVYN5AJb2WR868Y43BPUF,SAMN49727603,ST1553,Netherlands,human,2022.0,3.0,Netherlands,Other,0,0,0
+rL32MvsBR2q3okiBHJtGP2,SAMEA4781877,ST6976,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+eH7G9v7UHMKVTepGpsTWWm,SAMEA8218071,ST533,Germany,human,2019.0,0.0,Germany,Other,0,0,0
+iAAQ4dEeY5C5YXUpG1N8Ri,SAMN16685857,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+gqrWMoEsbeLWjURKS46UeJ,SAMEA7077273,ST4751,Thailand,animal,2018.0,-1.0,Thailand,Other,0,0,0
+nkeY7dAdJww9GxKhowcdDn,SAMN24900465,ST1773,Qatar,human,2018.0,-1.0,Other,Other,0,0,0
+5TyHtn8pcZarEWE2De2LaD,SAMN37753163,ST641,United States,human,2023.0,4.0,United States,ST641,0,1,1
+7vxmPjHV3GWqBc6FsAaySe,SAMEA5048826,ST388,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+b5L872GMnpBa3y13NMzVjH,SAMN26976394,ST641,United States,human,2018.0,-1.0,United States,ST641,0,0,0
+1ZTmhFUWf25h5LZQ5J1i3y,SAMN26976305,ST5252,United States,human,2018.0,-1.0,United States,Other,0,0,0
+gvkzPuDRhkgefdcgjw2bUN,SAMN14967669,ST3915,United States,human,2018.0,-1.0,United States,Other,0,0,1
+2y82oaEFMe6rRbwqVi6ozd,SAMN26743006,ST347,Germany,human,2021.0,2.0,Germany,ST347,0,0,1
+cBdmQRgVNrVnS2JrK6DkVD,SAMEA4781310,ST6972,Italy,human,2018.0,-1.0,Italy,Other,0,0,0
+bjeoaeyVFUojW8P95F2ngs,SAMEA114784679,ST250,Denmark,human,2019.0,0.0,Denmark,ST250,0,0,0
+7FFrBDv7aa2Qa1V348nn34,SAMN28626251,ST4704,Norway,animal,2019.0,0.0,Norway,Other,0,0,0
+gXLQxAm3EfAk6ibBMJXpBN,SAMN38450470,ST6219,United States,human,2023.0,4.0,United States,ST6219,0,1,1
+kDf6TVvjFmPrKkLL7GztAy,SAMEA120221852,ST641,Germany,human,2022.0,3.0,Germany,ST641,0,0,0
+jvb2perro7dRMi7dWK8Kiq,SAMN17768967,ST355,Italy,plant,2019.0,0.0,Italy,ST355,0,0,0
+fNpEkvQY8v5KBpztF9sZhT,SAMN26369048,ST2594-1LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+3QL52ACxqK1YgXVMtdx2s3,SAMEA113606018,ST475-1LV,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+atyMHwEnr9UefwVTzDmydx,SAMN50178511,ST123-4LV,United States,human,2025.0,6.0,United States,Other,0,1,1
+43WY9J7NnbjVZPFHTjkewB,SAMN32876312,ST4935,United States,human,2023.0,4.0,United States,Other,0,1,1
+3zyBHWnk8mtHxKdgxxQv2K,SAMEA111504684,ST7047,Greenland,human,2020.0,1.0,Other,Other,0,0,0
+5kuVg5CCuhzM3WhDXkvkYB,SAMN23286216,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+eoKUMQeKKtqu1MkZkw2ppr,SAMN23286219,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+oVuHmJQBArAH5LLJnuoNZd,SAMN46342929,ST938,Canada,human,2021.0,2.0,Canada,Other,0,1,1
+cux3dj5KjaZhmfRSdsZE8g,SAMN26368958,ST6052-1LV,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+tk8M5teejWfphQxuwyJ2sm,SAMD00552194,ST1562,Japan,human,2019.0,0.0,Japan,ST1562,0,0,0
+ehUGRnHpXBEXF1aYCEZJRg,SAMEA5049922,ST360,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+cXduJRedb4ZLK49cPsxqhY,SAMEA118567414,ST5266,Bangladesh,human,2018.0,-1.0,Other,Other,1,1,0
+madnpxuzUS3vSf3QuVY9sw,SAMEA5050210,ST2994,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+9GdxShjDTfXRSV5UAQrb1E,SAMN40918471,ST2006,United States,environment,2024.0,5.0,United States,ST2006,0,0,0
+3mGuRaG7J2BNwYEkrdkT12,SAMN19016510,ST4954,United States,human,2018.0,-1.0,United States,Other,0,1,1
+7RBXkJzCpbV5PVqWnsVeLB,SAMN26369294,ST925,Australia,human,2020.0,1.0,Australia,Other,0,0,0
+pXAWSChmRhrVu9mF4w9mTA,SAMN16685858,ST347,Australia,human,2018.0,-1.0,Australia,ST347,1,1,0
+6yDBoVYaKWtRpkNU42dhAh,SAMD00501378,ST3815,Japan,human,2020.0,1.0,Japan,Other,1,0,0
+csYSDyiKRBBC4zGpSpuMi9,SAMEA113605957,ST2994,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+eAouoN31vUoA6V7Vhkf7gb,SAMEA120308878,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+pUwMtcFHGU3vixCVy31TUr,SAMEA120221854,ST2995-1LV,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+j9UkKZNn3Zw4kd1yZc7Z4S,SAMN41914960,ST1562,United States,environment,2024.0,5.0,United States,ST1562,0,0,0
+uQj9h2wPmk7gJ27YyDpfvk,SAMEA5049429,ST347,Italy,human,2018.0,-1.0,Italy,ST347,0,0,0
+xdeK9ZoWxM31QoDfhCkUBH,SAMN18437205,ST250,Russian Federation,human,2019.0,0.0,Other,ST250,0,0,0
+syZ7x4A9EhBi6C8dAZ3xu1,SAMN26976422,ST3972-1LV,United States,human,2018.0,-1.0,United States,Other,0,0,0
+1GHVKb7HqxSeShVQS2aLPZ,SAMEA7077172,ST1023,Thailand,animal,2018.0,-1.0,Thailand,Other,0,0,0
+ty8EcuyUZHmYSwMmk1NCrR,SAMN36415720,ST454,United States,environment,2023.0,4.0,United States,ST454,0,0,0
+xzDnpXVLBgHjKNUrvHSH2h,SAMN50352226,ST1094-2LV,United States,human,2025.0,6.0,United States,ST1094-2LV,0,0,1
+31PmnncGvcq5jspKAQL4op,SAMEA5049951,ST6984,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+hhbqPH49Uhs7kFD4gjzrLM,SAMD00501822,ST1407,Japan,human,2020.0,1.0,Japan,Other,1,0,0
+wVMAKdWRxLcjKwEyGe2a8V,SAMN52880236,ST4955,Netherlands,human,2021.0,2.0,Netherlands,Other,0,0,1
+v36LL2SULxFjfQeVLB8Fj1,SAMN25041716,ST5700,Guadeloupe,human,2019.0,0.0,Guadeloupe,Other,0,0,0
+2sFvDpRTbLXLYVDiaaaZUo,SAMN19022492,ST4609,United States,human,2021.0,2.0,United States,Other,0,0,1
+1nuGfcoMiuDdS9yyXfAawa,SAMN26796302,ST641,United States,environment,2021.0,2.0,United States,ST641,1,1,1
+6XNrQUFnHP5sUSw7vFQthx,SAMEA5684332,ST7049,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+nPBmcDgESwp9tev5WpLrUB,SAMN26796297,ST641,United States,environment,2021.0,2.0,United States,ST641,1,1,1
+4mtJ8dChVKmqCdYDPLHUzC,SAMEA113605028,ST1472,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+thY3y7Y6hbmCNZ9kWJjHza,SAMEA9454398,ST6219,Italy,human,2019.0,0.0,Italy,ST6219,1,1,0
+5KkNu3dKP6m1YQZhAYa8CX,SAMEA113605733,ST250,Norway,human,2018.0,-1.0,Norway,ST250,0,0,0
+ozXAzvxaDZrvmZY1jUXzQH,SAMN28626290,ST347,Norway,animal,2019.0,0.0,Norway,ST347,0,0,0
+a4Gb24L8nuTnFAmNLF3id1,SAMEA120221857,ST1332-1LV,Germany,human,2022.0,3.0,Germany,Other,0,0,0
+5G4UxvTGFN2FM31Jfdxc4t,SAMN19856758,ST2906-1LV,Unknown,environment,2020.0,1.0,Unknown,Other,0,0,0
+muCuzJAEyPPz1SCh1XLfYm,SAMN40738672,ST616,United States,environment,2024.0,5.0,United States,ST616,0,0,0
+oRCnX8oM43y4EBVfWHv4y9,SAMN52880306,ST4313,Netherlands,human,2021.0,2.0,Netherlands,Other,1,1,1
+parLAP5X58Zq6UjTi1CZVF,SAMN38228872,ST4524,United States,human,2023.0,4.0,United States,Other,1,1,0
+nVUW9ABkPfq7sGtKS222eX,SAMN46910035,ST347,Slovenia,human,2024.0,5.0,Other,ST347,0,1,1
+kk6uenqJ9RyKX6xLMxrtkW,SAMEA120308311,ST1270,Switzerland,animal,2022.0,3.0,Switzerland,ST1270,0,0,1
+euardGTMUExfZFsiidQUKd,SAMN40296492,ST2466-3LV,United States,environment,2024.0,5.0,United States,Other,0,0,0
+jhcAAr5VSF3b4dnPK2bypS,SAMN19856759,ST1270-3LV,Unknown,environment,2020.0,1.0,Unknown,Other,0,0,0
+98pdeXSpxPZhkhgZCNGRTQ,SAMN52880243,ST4955,Netherlands,human,2021.0,2.0,Netherlands,Other,0,0,1
+378HzNAFjGRnQPTaPrZbau,SAMEA5050019,ST2634,Italy,environment,2018.0,-1.0,Italy,Other,0,0,0
+vTQ8foVtSe5a5onLNNX65W,SAMEA113605039,ST1050,Norway,human,2018.0,-1.0,Norway,Other,0,0,0
+gnRNFw3JQ3b85TQYjzLW32,SAMEA4781550,ST662,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+f7HCSveQyBP5xS1xd8v7hf,SAMN46529210,ST357,Chile,human,2018.0,-1.0,Other,ST357,1,1,0
+7suVpaNJ9z67TmTFauXmbJ,SAMEA5684230,ST919,Italy,animal,2018.0,-1.0,Italy,ST919,0,0,0
+iwhU84r6DZFEXxPMwnUdYE,SAMN28626237,ST347,Norway,animal,2019.0,0.0,Norway,ST347,0,0,0
+auJG9AwQe1YwCEu8T3ALXN,SAMN53415635,ST1456,Botswana,human,2020.0,1.0,Other,ST1456,1,1,0
+ubRozNYGs25yQ9TFSu4nkM,SAMEA5684331,ST7049,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
+939tVnksRuyjuSBmHAervJ,SAMN40375948,ST4161,United States,human,2024.0,5.0,United States,Other,0,0,1
+7YUTwLngazKxDRzUNhbEN6,SAMEA115709903,ST1994,Egypt,animal,2021.0,2.0,Other,Other,0,0,0
+reqUepuamuu4jBHD6UVUM8,SAMN30630822,ST197,United States,human,2022.0,3.0,United States,ST197,0,0,1
+8DJBTW4NamuVj8Fzn4fV9B,SAMD00397315,ST7059-1LV,Japan,human,2018.0,-1.0,Japan,Other,0,0,0
+9yGtdx9EpG1d3J4Qyy7bLW,SAMN26764924,ST2790,Singapore,human,2020.0,1.0,Other,Other,0,0,1
+d75C8uc4FaV47o8TRrgiWn,SAMEA116304596,ST4167,Norway,unknown,2024.0,5.0,Norway,Other,0,0,0
+nDCZKXZJUt5Ez8DgJ2fBVc,SAMEA4781878,ST2263,Italy,animal,2018.0,-1.0,Italy,Other,0,0,0
